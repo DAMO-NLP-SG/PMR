@@ -318,9 +318,6 @@ def evaluate(args, data_path, model, tokenizer, prefix="", dataset_name=None):
 
 
 def load_and_cache_examples(args, tokenizer, evaluate=False, data_path=None, dataset_name=None):
-    if data_path is None:
-        data_path = args.data_path
-
     cached_features_file = os.path.join(
         args.data_path,
         "cached_{}_{}_{}_{}_{}_{}".format(
