@@ -519,15 +519,6 @@ def main():
     )
     parser.add_argument("--span_loss_candidates", choices=["all", "pred_and_gold", "pred_gold_random", "gold"],
                         default="pred_and_gold", help="Candidates used to compute span loss")
-    parser.add_argument("--weight_span", type=float, default=1.0)
-    parser.add_argument("--window", type=int, default=2,
-                        help="window size to select former and later passages as context")
-    parser.add_argument("--def_num", type=int, default=1,
-                        help="we use the first def_num sentences as the definition for each entity")
-    parser.add_argument("--PMR_test", type=int, default=10000,
-                        help="generate test set with size of PMR_test",)
-    parser.add_argument("--buffer", type=int, default=500000,
-                        help="generate test set with size of PMR_test",)
     parser.add_argument("--sample_data", type=str, default='10-10', help="the sampled file file for generating data")
     parser.add_argument("--lazy_load", action="store_true",
                         help="if True, load a mini_batch for training at a time.")
