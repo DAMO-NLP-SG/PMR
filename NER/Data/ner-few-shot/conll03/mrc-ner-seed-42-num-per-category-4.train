@@ -1,0 +1,858 @@
+[
+  {
+    "context": "\" My prediction is that the Names will appeal , \" said Kenneth Chiate , a U.S. Name and a chief negotiator for the American Names Association .",
+    "end_position": [
+      26
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "0.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "24;26"
+    ],
+    "start_position": [
+      24
+    ]
+  },
+  {
+    "context": "\" My prediction is that the Names will appeal , \" said Kenneth Chiate , a U.S. Name and a chief negotiator for the American Names Association .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "0.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "12;13"
+    ],
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "context": "\" My prediction is that the Names will appeal , \" said Kenneth Chiate , a U.S. Name and a chief negotiator for the American Names Association .",
+    "end_position": [
+      16
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "0.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "16;16"
+    ],
+    "start_position": [
+      16
+    ]
+  },
+  {
+    "context": "\" My prediction is that the Names will appeal , \" said Kenneth Chiate , a U.S. Name and a chief negotiator for the American Names Association .",
+    "end_position": [
+      6,
+      17
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "0.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "6;6",
+      "17;17"
+    ],
+    "start_position": [
+      6,
+      17
+    ]
+  },
+  {
+    "context": "- Eurostat news release 51/96 : March-May 1996 EU industrial production figures .",
+    "end_position": [
+      1,
+      8
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "1.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "1;1",
+      "8;8"
+    ],
+    "start_position": [
+      1,
+      8
+    ]
+  },
+  {
+    "context": "- Eurostat news release 51/96 : March-May 1996 EU industrial production figures .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "- Eurostat news release 51/96 : March-May 1996 EU industrial production figures .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "1.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "- Eurostat news release 51/96 : March-May 1996 EU industrial production figures .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "1.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Bank of France drained 3.9 billion francs at a securities repurchase tender held on Monday to allocate funds for injection into the money market on Tuesday .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "The Bank of France drained 3.9 billion francs at a securities repurchase tender held on Monday to allocate funds for injection into the money market on Tuesday .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Bank of France drained 3.9 billion francs at a securities repurchase tender held on Monday to allocate funds for injection into the money market on Tuesday .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Bank of France drained 3.9 billion francs at a securities repurchase tender held on Monday to allocate funds for injection into the money market on Tuesday .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "2.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Canaries , who lost most of their key players within two years , have yet to win a match this season .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "3.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "The Canaries , who lost most of their key players within two years , have yet to win a match this season .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "3.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Canaries , who lost most of their key players within two years , have yet to win a match this season .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "3.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Canaries , who lost most of their key players within two years , have yet to win a match this season .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "3.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Dow Jones industrial average opened slightly higher on Monday , boosted by Philip Morris , which gained four to 92 .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "4.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "13;14"
+    ],
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "context": "The Dow Jones industrial average opened slightly higher on Monday , boosted by Philip Morris , which gained four to 92 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "4.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Dow Jones industrial average opened slightly higher on Monday , boosted by Philip Morris , which gained four to 92 .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "4.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Dow Jones industrial average opened slightly higher on Monday , boosted by Philip Morris , which gained four to 92 .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "4.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "He praised Clinton for vetoing the Republican Congress ' attempt to repeal parts of the Clean Air Act , and criticized Republicans for \" slashing money to combat drugs in schools . \"",
+    "end_position": [
+      7
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "5.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "He praised Clinton for vetoing the Republican Congress ' attempt to repeal parts of the Clean Air Act , and criticized Republicans for \" slashing money to combat drugs in schools . \"",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "5.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "He praised Clinton for vetoing the Republican Congress ' attempt to repeal parts of the Clean Air Act , and criticized Republicans for \" slashing money to combat drugs in schools . \"",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "5.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "He praised Clinton for vetoing the Republican Congress ' attempt to repeal parts of the Clean Air Act , and criticized Republicans for \" slashing money to combat drugs in schools . \"",
+    "end_position": [
+      6,
+      17,
+      21
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "5.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "6;6",
+      "15;17",
+      "21;21"
+    ],
+    "start_position": [
+      6,
+      15,
+      21
+    ]
+  },
+  {
+    "context": "Bodies have been sighted but no survivors have yet been found at the site of Thursday 's crash of a Russian airliner on Norway 's remote Arctic island of Spitzbergen , Norwegian officials said .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "6.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bodies have been sighted but no survivors have yet been found at the site of Thursday 's crash of a Russian airliner on Norway 's remote Arctic island of Spitzbergen , Norwegian officials said .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "6.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bodies have been sighted but no survivors have yet been found at the site of Thursday 's crash of a Russian airliner on Norway 's remote Arctic island of Spitzbergen , Norwegian officials said .",
+    "end_position": [
+      23,
+      29
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "6.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "23;23",
+      "29;29"
+    ],
+    "start_position": [
+      23,
+      29
+    ]
+  },
+  {
+    "context": "Bodies have been sighted but no survivors have yet been found at the site of Thursday 's crash of a Russian airliner on Norway 's remote Arctic island of Spitzbergen , Norwegian officials said .",
+    "end_position": [
+      20,
+      26,
+      31
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "6.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "20;20",
+      "26;26",
+      "31;31"
+    ],
+    "start_position": [
+      20,
+      26,
+      31
+    ]
+  },
+  {
+    "context": "The farm is in the border region where a German tourist and a Swiss tour guide were kidnapped last New Year 's Eve by a heavily armed band led by a former Nicaraguan guerrilla .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "7.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The farm is in the border region where a German tourist and a Swiss tour guide were kidnapped last New Year 's Eve by a heavily armed band led by a former Nicaraguan guerrilla .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "7.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The farm is in the border region where a German tourist and a Swiss tour guide were kidnapped last New Year 's Eve by a heavily armed band led by a former Nicaraguan guerrilla .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "7.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The farm is in the border region where a German tourist and a Swiss tour guide were kidnapped last New Year 's Eve by a heavily armed band led by a former Nicaraguan guerrilla .",
+    "end_position": [
+      9,
+      13,
+      32
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "7.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "9;9",
+      "13;13",
+      "32;32"
+    ],
+    "start_position": [
+      9,
+      13,
+      32
+    ]
+  },
+  {
+    "context": "66 69 68 , Francisco Cea ( Spain ) 68 66 69 , Pedro Linhart",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "8.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "66 69 68 , Francisco Cea ( Spain ) 68 66 69 , Pedro Linhart",
+    "end_position": [
+      5,
+      14
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "8.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "4;5",
+      "13;14"
+    ],
+    "start_position": [
+      4,
+      13
+    ]
+  },
+  {
+    "context": "66 69 68 , Francisco Cea ( Spain ) 68 66 69 , Pedro Linhart",
+    "end_position": [
+      7
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "8.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "66 69 68 , Francisco Cea ( Spain ) 68 66 69 , Pedro Linhart",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "8.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Flamboyant former Surinamese rebel leader Ronny Brunswijk was in custody on Wednesday charged with attempted murder , police said .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "9.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Flamboyant former Surinamese rebel leader Ronny Brunswijk was in custody on Wednesday charged with attempted murder , police said .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "9.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "5;6"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Flamboyant former Surinamese rebel leader Ronny Brunswijk was in custody on Wednesday charged with attempted murder , police said .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "9.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Flamboyant former Surinamese rebel leader Ronny Brunswijk was in custody on Wednesday charged with attempted murder , police said .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "9.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Anne-Gaelle Sidot ( France ) beat Wang Shi-Ting ( Taiwan ) 6-4 3-6 6-3",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "10.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Anne-Gaelle Sidot ( France ) beat Wang Shi-Ting ( Taiwan ) 6-4 3-6 6-3",
+    "end_position": [
+      1,
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "10.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1",
+      "6;7"
+    ],
+    "start_position": [
+      0,
+      6
+    ]
+  },
+  {
+    "context": "Anne-Gaelle Sidot ( France ) beat Wang Shi-Ting ( Taiwan ) 6-4 3-6 6-3",
+    "end_position": [
+      3,
+      9
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "10.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "3;3",
+      "9;9"
+    ],
+    "start_position": [
+      3,
+      9
+    ]
+  },
+  {
+    "context": "Anne-Gaelle Sidot ( France ) beat Wang Shi-Ting ( Taiwan ) 6-4 3-6 6-3",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "10.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Banharn , who leads a six-party , 13-month-old coalition government , faces a no-confidence debate in parliament next month .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "11.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Banharn , who leads a six-party , 13-month-old coalition government , faces a no-confidence debate in parliament next month .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "11.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Banharn , who leads a six-party , 13-month-old coalition government , faces a no-confidence debate in parliament next month .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "11.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Banharn , who leads a six-party , 13-month-old coalition government , faces a no-confidence debate in parliament next month .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "11.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2 - Monica Seles ( U.S. ) beat Anne Miller ( U.S. ) 6-0 6-1",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "12.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2 - Monica Seles ( U.S. ) beat Anne Miller ( U.S. ) 6-0 6-1",
+    "end_position": [
+      3,
+      9
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "12.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "2;3",
+      "8;9"
+    ],
+    "start_position": [
+      2,
+      8
+    ]
+  },
+  {
+    "context": "2 - Monica Seles ( U.S. ) beat Anne Miller ( U.S. ) 6-0 6-1",
+    "end_position": [
+      5,
+      11
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "12.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "5;5",
+      "11;11"
+    ],
+    "start_position": [
+      5,
+      11
+    ]
+  },
+  {
+    "context": "2 - Monica Seles ( U.S. ) beat Anne Miller ( U.S. ) 6-0 6-1",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "12.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Hong Kong 1996-08-29",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "13.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Hong Kong 1996-08-29",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "13.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Hong Kong 1996-08-29",
+    "end_position": [
+      1
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "13.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Hong Kong 1996-08-29",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "13.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Johannesburg 1996-08-22",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "14.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Johannesburg 1996-08-22",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "14.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Johannesburg 1996-08-22",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "14.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Johannesburg 1996-08-22",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "14.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Nicaraguan President Violeta Chamorro underwent successful surgery in the United States on Monday to correct a compression in her lower spinal column , the government said .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "15.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Nicaraguan President Violeta Chamorro underwent successful surgery in the United States on Monday to correct a compression in her lower spinal column , the government said .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "15.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Nicaraguan President Violeta Chamorro underwent successful surgery in the United States on Monday to correct a compression in her lower spinal column , the government said .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "15.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "9;10"
+    ],
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "context": "Nicaraguan President Violeta Chamorro underwent successful surgery in the United States on Monday to correct a compression in her lower spinal column , the government said .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "15.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  }
+]

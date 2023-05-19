@@ -1,0 +1,849 @@
+[
+  {
+    "context": "Japan 's Finance Minister Wataru Kubo told a news conference on Wednesday that he believes that the Bank of Japan 's ( BOJ ) interest rate policy which is geared towards ensuring economic growth has not changed after the release of the central bank 's \" tankan \" survey .",
+    "end_position": [
+      19,
+      22
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "0.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "17;19",
+      "22;22"
+    ],
+    "start_position": [
+      17,
+      22
+    ]
+  },
+  {
+    "context": "Japan 's Finance Minister Wataru Kubo told a news conference on Wednesday that he believes that the Bank of Japan 's ( BOJ ) interest rate policy which is geared towards ensuring economic growth has not changed after the release of the central bank 's \" tankan \" survey .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "0.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "4;5"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Japan 's Finance Minister Wataru Kubo told a news conference on Wednesday that he believes that the Bank of Japan 's ( BOJ ) interest rate policy which is geared towards ensuring economic growth has not changed after the release of the central bank 's \" tankan \" survey .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "0.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Japan 's Finance Minister Wataru Kubo told a news conference on Wednesday that he believes that the Bank of Japan 's ( BOJ ) interest rate policy which is geared towards ensuring economic growth has not changed after the release of the central bank 's \" tankan \" survey .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "0.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",
+    "end_position": [
+      1,
+      12
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "1.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;1",
+      "11;12"
+    ],
+    "start_position": [
+      0,
+      11
+    ]
+  },
+  {
+    "context": "Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",
+    "end_position": [
+      3,
+      14
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "1.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "3;3",
+      "14;14"
+    ],
+    "start_position": [
+      3,
+      14
+    ]
+  },
+  {
+    "context": "Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",
+    "end_position": [
+      20
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "1.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "18;20"
+    ],
+    "start_position": [
+      18
+    ]
+  },
+  {
+    "context": "Reuters has not verified these stories and does not vouch for their accuracy .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Reuters has not verified these stories and does not vouch for their accuracy .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Reuters has not verified these stories and does not vouch for their accuracy .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Reuters has not verified these stories and does not vouch for their accuracy .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "2.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Washington Post carried only local business stories on August 26 , 1996 .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "3.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "The Washington Post carried only local business stories on August 26 , 1996 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "3.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Washington Post carried only local business stories on August 26 , 1996 .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "3.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Washington Post carried only local business stories on August 26 , 1996 .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "3.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "But , in rejecting the offer , the Names would retain their rights to pursue litigation , he said .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "4.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "But , in rejecting the offer , the Names would retain their rights to pursue litigation , he said .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "4.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "But , in rejecting the offer , the Names would retain their rights to pursue litigation , he said .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "4.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "But , in rejecting the offer , the Names would retain their rights to pursue litigation , he said .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "4.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "8;8"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "Thai airport police arrested a British bartender for allegedly attempting to board a flight for Amsterdam with nearly 4.4 kg ( 9.68 lb ) of heroin in his luggage , police said on Wednesday .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "5.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Thai airport police arrested a British bartender for allegedly attempting to board a flight for Amsterdam with nearly 4.4 kg ( 9.68 lb ) of heroin in his luggage , police said on Wednesday .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "5.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Thai airport police arrested a British bartender for allegedly attempting to board a flight for Amsterdam with nearly 4.4 kg ( 9.68 lb ) of heroin in his luggage , police said on Wednesday .",
+    "end_position": [
+      15
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "5.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "15;15"
+    ],
+    "start_position": [
+      15
+    ]
+  },
+  {
+    "context": "Thai airport police arrested a British bartender for allegedly attempting to board a flight for Amsterdam with nearly 4.4 kg ( 9.68 lb ) of heroin in his luggage , police said on Wednesday .",
+    "end_position": [
+      0,
+      5
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "5.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "0;0",
+      "5;5"
+    ],
+    "start_position": [
+      0,
+      5
+    ]
+  },
+  {
+    "context": "Armoured cars had patrolled streets in Karak , traditional bastion of communist ideology and Baath socialism that swept the region in the 1950s , and guarded entrances to the hill-top city famed for its Crusader castle before the prayers .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "6.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Armoured cars had patrolled streets in Karak , traditional bastion of communist ideology and Baath socialism that swept the region in the 1950s , and guarded entrances to the hill-top city famed for its Crusader castle before the prayers .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "6.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Armoured cars had patrolled streets in Karak , traditional bastion of communist ideology and Baath socialism that swept the region in the 1950s , and guarded entrances to the hill-top city famed for its Crusader castle before the prayers .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "6.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "Armoured cars had patrolled streets in Karak , traditional bastion of communist ideology and Baath socialism that swept the region in the 1950s , and guarded entrances to the hill-top city famed for its Crusader castle before the prayers .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "6.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "14;14"
+    ],
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "context": "National League",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "7.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "National League",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "7.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "National League",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "7.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "National League",
+    "end_position": [
+      1
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "7.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "A former player for Marseille and Monaco , Emon , 43 , has coached Nice since 1992 .",
+    "end_position": [
+      4,
+      6,
+      14
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "8.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "4;4",
+      "6;6",
+      "14;14"
+    ],
+    "start_position": [
+      4,
+      6,
+      14
+    ]
+  },
+  {
+    "context": "A former player for Marseille and Monaco , Emon , 43 , has coached Nice since 1992 .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "8.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "8;8"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "A former player for Marseille and Monaco , Emon , 43 , has coached Nice since 1992 .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "8.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "A former player for Marseille and Monaco , Emon , 43 , has coached Nice since 1992 .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "8.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" Three of the four children had Crohn 's disease , \" Wakefield 's group wrote in the Lancet medical journal .",
+    "end_position": [
+      18
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "9.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "18;18"
+    ],
+    "start_position": [
+      18
+    ]
+  },
+  {
+    "context": "\" Three of the four children had Crohn 's disease , \" Wakefield 's group wrote in the Lancet medical journal .",
+    "end_position": [
+      7,
+      12
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "9.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;7",
+      "12;12"
+    ],
+    "start_position": [
+      7,
+      12
+    ]
+  },
+  {
+    "context": "\" Three of the four children had Crohn 's disease , \" Wakefield 's group wrote in the Lancet medical journal .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "9.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" Three of the four children had Crohn 's disease , \" Wakefield 's group wrote in the Lancet medical journal .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "9.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" It 's definitely a turnabout from this past year , but you know last year we had pretty good moisture about this time of year , and then about October 1 it quit , \" said Mark Hodges , executive director of the Oklahoma Wheat Commission . \"",
+    "end_position": [
+      46
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "10.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "44;46"
+    ],
+    "start_position": [
+      44
+    ]
+  },
+  {
+    "context": "\" It 's definitely a turnabout from this past year , but you know last year we had pretty good moisture about this time of year , and then about October 1 it quit , \" said Mark Hodges , executive director of the Oklahoma Wheat Commission . \"",
+    "end_position": [
+      38
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "10.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "37;38"
+    ],
+    "start_position": [
+      37
+    ]
+  },
+  {
+    "context": "\" It 's definitely a turnabout from this past year , but you know last year we had pretty good moisture about this time of year , and then about October 1 it quit , \" said Mark Hodges , executive director of the Oklahoma Wheat Commission . \"",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "10.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" It 's definitely a turnabout from this past year , but you know last year we had pretty good moisture about this time of year , and then about October 1 it quit , \" said Mark Hodges , executive director of the Oklahoma Wheat Commission . \"",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "10.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" What happened concerning continuous violations and crimes from this new Israeli leadership means they are declaring a state of war against the Palestinian people , \" Arafat told the council .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "11.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" What happened concerning continuous violations and crimes from this new Israeli leadership means they are declaring a state of war against the Palestinian people , \" Arafat told the council .",
+    "end_position": [
+      27
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "11.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "27;27"
+    ],
+    "start_position": [
+      27
+    ]
+  },
+  {
+    "context": "\" What happened concerning continuous violations and crimes from this new Israeli leadership means they are declaring a state of war against the Palestinian people , \" Arafat told the council .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "11.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" What happened concerning continuous violations and crimes from this new Israeli leadership means they are declaring a state of war against the Palestinian people , \" Arafat told the council .",
+    "end_position": [
+      11,
+      23
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "11.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "11;11",
+      "23;23"
+    ],
+    "start_position": [
+      11,
+      23
+    ]
+  },
+  {
+    "context": "Wellington 1996-08-22",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "12.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Wellington 1996-08-22",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "12.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Wellington 1996-08-22",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "12.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Wellington 1996-08-22",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "12.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The tabloid Star magazine reported the married Morris had a lengthy affair with a $ 200-an-hour prostitute who he allowed to eavesdrop on telephone conversations with Clinton , and with whom he shared White House speeches before they were made .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "13.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "The tabloid Star magazine reported the married Morris had a lengthy affair with a $ 200-an-hour prostitute who he allowed to eavesdrop on telephone conversations with Clinton , and with whom he shared White House speeches before they were made .",
+    "end_position": [
+      7,
+      26
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "13.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;7",
+      "26;26"
+    ],
+    "start_position": [
+      7,
+      26
+    ]
+  },
+  {
+    "context": "The tabloid Star magazine reported the married Morris had a lengthy affair with a $ 200-an-hour prostitute who he allowed to eavesdrop on telephone conversations with Clinton , and with whom he shared White House speeches before they were made .",
+    "end_position": [
+      34
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "13.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "33;34"
+    ],
+    "start_position": [
+      33
+    ]
+  },
+  {
+    "context": "The tabloid Star magazine reported the married Morris had a lengthy affair with a $ 200-an-hour prostitute who he allowed to eavesdrop on telephone conversations with Clinton , and with whom he shared White House speeches before they were made .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "13.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Paris 1996-08-27",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "14.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Paris 1996-08-27",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "14.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Paris 1996-08-27",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "14.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Paris 1996-08-27",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "14.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "8. Carl Fogarty ( Britain ) Honda 38:49.595",
+    "end_position": [
+      6
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "15.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "8. Carl Fogarty ( Britain ) Honda 38:49.595",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "15.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "8. Carl Fogarty ( Britain ) Honda 38:49.595",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "15.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "8. Carl Fogarty ( Britain ) Honda 38:49.595",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "15.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  }
+]

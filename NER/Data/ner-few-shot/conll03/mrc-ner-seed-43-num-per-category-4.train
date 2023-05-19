@@ -1,0 +1,885 @@
+[
+  {
+    "context": "Following the announcement , Zenith 's stock soared $ 5.50 to $ 16.875 on the New York Stock Exchange .",
+    "end_position": [
+      4,
+      18
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "0.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "4;4",
+      "15;18"
+    ],
+    "start_position": [
+      4,
+      15
+    ]
+  },
+  {
+    "context": "Following the announcement , Zenith 's stock soared $ 5.50 to $ 16.875 on the New York Stock Exchange .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "0.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Following the announcement , Zenith 's stock soared $ 5.50 to $ 16.875 on the New York Stock Exchange .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "0.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Following the announcement , Zenith 's stock soared $ 5.50 to $ 16.875 on the New York Stock Exchange .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "0.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "In northern Texas , the current rainfall situation was similar to most of Oklahoma , said Rodney Mosier , executive assistant for the Texas Wheat Producers .",
+    "end_position": [
+      25
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "1.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "23;25"
+    ],
+    "start_position": [
+      23
+    ]
+  },
+  {
+    "context": "In northern Texas , the current rainfall situation was similar to most of Oklahoma , said Rodney Mosier , executive assistant for the Texas Wheat Producers .",
+    "end_position": [
+      17
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "16;17"
+    ],
+    "start_position": [
+      16
+    ]
+  },
+  {
+    "context": "In northern Texas , the current rainfall situation was similar to most of Oklahoma , said Rodney Mosier , executive assistant for the Texas Wheat Producers .",
+    "end_position": [
+      2,
+      13
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "1.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "2;2",
+      "13;13"
+    ],
+    "start_position": [
+      2,
+      13
+    ]
+  },
+  {
+    "context": "In northern Texas , the current rainfall situation was similar to most of Oklahoma , said Rodney Mosier , executive assistant for the Texas Wheat Producers .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "1.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "-- London Newsroom +44 171 542 4017",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "-- London Newsroom +44 171 542 4017",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "-- London Newsroom +44 171 542 4017",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "-- London Newsroom +44 171 542 4017",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "2.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Cincinnati 62 62 .500 4 1/2",
+    "end_position": [
+      0
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "3.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Cincinnati 62 62 .500 4 1/2",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "3.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Cincinnati 62 62 .500 4 1/2",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "3.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Cincinnati 62 62 .500 4 1/2",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "3.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Soccer - Czech first division results / Standings .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "4.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Soccer - Czech first division results / Standings .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "4.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Soccer - Czech first division results / Standings .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "4.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Soccer - Czech first division results / Standings .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "4.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "The press conference replaces Matos 's scheduled appearance at an IMF-hosted seminar Thursday on Venezuela 's economic reform program , Venezuelan Agenda .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "5.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The press conference replaces Matos 's scheduled appearance at an IMF-hosted seminar Thursday on Venezuela 's economic reform program , Venezuelan Agenda .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "5.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "The press conference replaces Matos 's scheduled appearance at an IMF-hosted seminar Thursday on Venezuela 's economic reform program , Venezuelan Agenda .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "5.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "14;14"
+    ],
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "context": "The press conference replaces Matos 's scheduled appearance at an IMF-hosted seminar Thursday on Venezuela 's economic reform program , Venezuelan Agenda .",
+    "end_position": [
+      10,
+      21
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "5.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "10;10",
+      "20;21"
+    ],
+    "start_position": [
+      10,
+      20
+    ]
+  },
+  {
+    "context": "Israeli police demolished a 10 metre ( yard ) by 20 metre structure in Jerusalem 's Old City they said had been built with funding from the Palestinian self-rule Authority for use as a social club .",
+    "end_position": [
+      29
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "6.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "27;29"
+    ],
+    "start_position": [
+      27
+    ]
+  },
+  {
+    "context": "Israeli police demolished a 10 metre ( yard ) by 20 metre structure in Jerusalem 's Old City they said had been built with funding from the Palestinian self-rule Authority for use as a social club .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "6.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Israeli police demolished a 10 metre ( yard ) by 20 metre structure in Jerusalem 's Old City they said had been built with funding from the Palestinian self-rule Authority for use as a social club .",
+    "end_position": [
+      14,
+      17
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "6.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "14;14",
+      "16;17"
+    ],
+    "start_position": [
+      14,
+      16
+    ]
+  },
+  {
+    "context": "Israeli police demolished a 10 metre ( yard ) by 20 metre structure in Jerusalem 's Old City they said had been built with funding from the Palestinian self-rule Authority for use as a social club .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "6.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "But the official , Aryeh Shumer , said it was only fitting that Weizman and Arafat should talk after the Palestinian leader sent the Israeli president a letter which Yedioth Ahronoth reported contained an emotional appeal to save the peace proces .",
+    "end_position": [
+      30
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "7.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "29;30"
+    ],
+    "start_position": [
+      29
+    ]
+  },
+  {
+    "context": "But the official , Aryeh Shumer , said it was only fitting that Weizman and Arafat should talk after the Palestinian leader sent the Israeli president a letter which Yedioth Ahronoth reported contained an emotional appeal to save the peace proces .",
+    "end_position": [
+      5,
+      13,
+      15
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "7.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "4;5",
+      "13;13",
+      "15;15"
+    ],
+    "start_position": [
+      4,
+      13,
+      15
+    ]
+  },
+  {
+    "context": "But the official , Aryeh Shumer , said it was only fitting that Weizman and Arafat should talk after the Palestinian leader sent the Israeli president a letter which Yedioth Ahronoth reported contained an emotional appeal to save the peace proces .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "7.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "But the official , Aryeh Shumer , said it was only fitting that Weizman and Arafat should talk after the Palestinian leader sent the Israeli president a letter which Yedioth Ahronoth reported contained an emotional appeal to save the peace proces .",
+    "end_position": [
+      20,
+      24
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "7.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "20;20",
+      "24;24"
+    ],
+    "start_position": [
+      20,
+      24
+    ]
+  },
+  {
+    "context": "2. Johan Capiot ( Belgium ) Collstrop",
+    "end_position": [
+      6
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "8.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "2. Johan Capiot ( Belgium ) Collstrop",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "8.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "2. Johan Capiot ( Belgium ) Collstrop",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "8.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "2. Johan Capiot ( Belgium ) Collstrop",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "8.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "1. Marty Nothstein ( U.S. ) , last 200 metres in 10.982 seconds .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "9.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "1. Marty Nothstein ( U.S. ) , last 200 metres in 10.982 seconds .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "9.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "1. Marty Nothstein ( U.S. ) , last 200 metres in 10.982 seconds .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "9.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "1. Marty Nothstein ( U.S. ) , last 200 metres in 10.982 seconds .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "9.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "To bat - Wasim Akram , Moin Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "10.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "To bat - Wasim Akram , Moin Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",
+    "end_position": [
+      4,
+      7,
+      10,
+      13,
+      16
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "10.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "3;4",
+      "6;7",
+      "9;10",
+      "12;13",
+      "15;16"
+    ],
+    "start_position": [
+      3,
+      6,
+      9,
+      12,
+      15
+    ]
+  },
+  {
+    "context": "To bat - Wasim Akram , Moin Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "10.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "To bat - Wasim Akram , Moin Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "10.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Barcelona - Ronaldo ( 5th and 89th minutes ) , Giovanni ( 31st ) , Pizzi ( 73rd ) , De la Pena ( 75th )",
+    "end_position": [
+      0
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "11.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Barcelona - Ronaldo ( 5th and 89th minutes ) , Giovanni ( 31st ) , Pizzi ( 73rd ) , De la Pena ( 75th )",
+    "end_position": [
+      2,
+      10,
+      15,
+      22
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "11.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "2;2",
+      "10;10",
+      "15;15",
+      "20;22"
+    ],
+    "start_position": [
+      2,
+      10,
+      15,
+      20
+    ]
+  },
+  {
+    "context": "Barcelona - Ronaldo ( 5th and 89th minutes ) , Giovanni ( 31st ) , Pizzi ( 73rd ) , De la Pena ( 75th )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "11.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Barcelona - Ronaldo ( 5th and 89th minutes ) , Giovanni ( 31st ) , Pizzi ( 73rd ) , De la Pena ( 75th )",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "11.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "In St Louis , Gary Sheffield and Devon White each drove in two runs and Mark Hutton scattered four hits over six innings to lead the Florida Marlins past the St. Louis Cardinals , 6-3 ,",
+    "end_position": [
+      27,
+      32
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "12.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "26;27",
+      "30;32"
+    ],
+    "start_position": [
+      26,
+      30
+    ]
+  },
+  {
+    "context": "In St Louis , Gary Sheffield and Devon White each drove in two runs and Mark Hutton scattered four hits over six innings to lead the Florida Marlins past the St. Louis Cardinals , 6-3 ,",
+    "end_position": [
+      5,
+      8,
+      16
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "12.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "4;5",
+      "7;8",
+      "15;16"
+    ],
+    "start_position": [
+      4,
+      7,
+      15
+    ]
+  },
+  {
+    "context": "In St Louis , Gary Sheffield and Devon White each drove in two runs and Mark Hutton scattered four hits over six innings to lead the Florida Marlins past the St. Louis Cardinals , 6-3 ,",
+    "end_position": [
+      2
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "12.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "In St Louis , Gary Sheffield and Devon White each drove in two runs and Mark Hutton scattered four hits over six innings to lead the Florida Marlins past the St. Louis Cardinals , 6-3 ,",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "12.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Paris 1996-08-27",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "13.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Paris 1996-08-27",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "13.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Paris 1996-08-27",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "13.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Paris 1996-08-27",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "13.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "3. Anthuan Maybank ( U.S. ) 44.92",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "14.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "3. Anthuan Maybank ( U.S. ) 44.92",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "14.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "3. Anthuan Maybank ( U.S. ) 44.92",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "14.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "3. Anthuan Maybank ( U.S. ) 44.92",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "14.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "this is an important issue in our relationship \" , said Fox , who is due to leave for Nepal on Friday .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "15.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "this is an important issue in our relationship \" , said Fox , who is due to leave for Nepal on Friday .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "15.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "this is an important issue in our relationship \" , said Fox , who is due to leave for Nepal on Friday .",
+    "end_position": [
+      19
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "15.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "19;19"
+    ],
+    "start_position": [
+      19
+    ]
+  },
+  {
+    "context": "this is an important issue in our relationship \" , said Fox , who is due to leave for Nepal on Friday .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "15.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  }
+]

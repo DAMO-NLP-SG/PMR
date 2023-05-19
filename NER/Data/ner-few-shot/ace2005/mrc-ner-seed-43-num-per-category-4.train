@@ -1,0 +1,2676 @@
+[
+  {
+    "context": "BEGALA And how ' d they get them ?",
+    "end_position": [
+      5
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "514.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "BEGALA And how ' d they get them ?",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "514.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEGALA And how ' d they get them ?",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "514.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEGALA And how ' d they get them ?",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "514.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEGALA And how ' d they get them ?",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "514.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEGALA And how ' d they get them ?",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "514.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEGALA And how ' d they get them ?",
+    "end_position": [
+      7
+    ],
+    "entity_label": "WEA",
+    "impossible": false,
+    "qas_id": "514.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "North Korea , unlike Iraq , has made no secret of its plan to develop nuclear weapons .",
+    "end_position": [
+      1,
+      4,
+      11
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "2866.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "0;1",
+      "4;4",
+      "11;11"
+    ],
+    "start_position": [
+      0,
+      4,
+      11
+    ]
+  },
+  {
+    "context": "North Korea , unlike Iraq , has made no secret of its plan to develop nuclear weapons .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "2866.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "North Korea , unlike Iraq , has made no secret of its plan to develop nuclear weapons .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2866.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "North Korea , unlike Iraq , has made no secret of its plan to develop nuclear weapons .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "2866.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "North Korea , unlike Iraq , has made no secret of its plan to develop nuclear weapons .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "2866.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "North Korea , unlike Iraq , has made no secret of its plan to develop nuclear weapons .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2866.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "North Korea , unlike Iraq , has made no secret of its plan to develop nuclear weapons .",
+    "end_position": [
+      16
+    ],
+    "entity_label": "WEA",
+    "impossible": false,
+    "qas_id": "2866.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [
+      "15;16"
+    ],
+    "start_position": [
+      15
+    ]
+  },
+  {
+    "context": "We ' ve prosecuted with the alliance a successful liberation of the Iraqi people , and we have clearly caused Saddam to destroy weapons of mass destruction , or at least to suppress evidence of them .",
+    "end_position": [
+      0,
+      6,
+      13,
+      12,
+      16
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "1740.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "0;0",
+      "5;6",
+      "11;13",
+      "12;12",
+      "16;16"
+    ],
+    "start_position": [
+      0,
+      5,
+      11,
+      12,
+      16
+    ]
+  },
+  {
+    "context": "We ' ve prosecuted with the alliance a successful liberation of the Iraqi people , and we have clearly caused Saddam to destroy weapons of mass destruction , or at least to suppress evidence of them .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "1740.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "We ' ve prosecuted with the alliance a successful liberation of the Iraqi people , and we have clearly caused Saddam to destroy weapons of mass destruction , or at least to suppress evidence of them .",
+    "end_position": [
+      20
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1740.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "20;20"
+    ],
+    "start_position": [
+      20
+    ]
+  },
+  {
+    "context": "We ' ve prosecuted with the alliance a successful liberation of the Iraqi people , and we have clearly caused Saddam to destroy weapons of mass destruction , or at least to suppress evidence of them .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "1740.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "We ' ve prosecuted with the alliance a successful liberation of the Iraqi people , and we have clearly caused Saddam to destroy weapons of mass destruction , or at least to suppress evidence of them .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "1740.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "We ' ve prosecuted with the alliance a successful liberation of the Iraqi people , and we have clearly caused Saddam to destroy weapons of mass destruction , or at least to suppress evidence of them .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "1740.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "We ' ve prosecuted with the alliance a successful liberation of the Iraqi people , and we have clearly caused Saddam to destroy weapons of mass destruction , or at least to suppress evidence of them .",
+    "end_position": [
+      26,
+      35
+    ],
+    "entity_label": "WEA",
+    "impossible": false,
+    "qas_id": "1740.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [
+      "23;26",
+      "35;35"
+    ],
+    "start_position": [
+      23,
+      35
+    ]
+  },
+  {
+    "context": "[ oMa intelligence officials believe that the existence of the testing range is evidence that the country intends to manufacture much more sophisticated weapons that would be light enough to put onto its growing arsenal of medium - and long - range missiles .",
+    "end_position": [
+      16,
+      32
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "2858.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "15;16",
+      "32;32"
+    ],
+    "start_position": [
+      15,
+      32
+    ]
+  },
+  {
+    "context": "[ oMa intelligence officials believe that the existence of the testing range is evidence that the country intends to manufacture much more sophisticated weapons that would be light enough to put onto its growing arsenal of medium - and long - range missiles .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2858.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "[ oMa intelligence officials believe that the existence of the testing range is evidence that the country intends to manufacture much more sophisticated weapons that would be light enough to put onto its growing arsenal of medium - and long - range missiles .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2858.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "[ oMa intelligence officials believe that the existence of the testing range is evidence that the country intends to manufacture much more sophisticated weapons that would be light enough to put onto its growing arsenal of medium - and long - range missiles .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "FAC",
+    "impossible": false,
+    "qas_id": "2858.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [
+      "9;11"
+    ],
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "context": "[ oMa intelligence officials believe that the existence of the testing range is evidence that the country intends to manufacture much more sophisticated weapons that would be light enough to put onto its growing arsenal of medium - and long - range missiles .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "2858.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "[ oMa intelligence officials believe that the existence of the testing range is evidence that the country intends to manufacture much more sophisticated weapons that would be light enough to put onto its growing arsenal of medium - and long - range missiles .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2858.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "[ oMa intelligence officials believe that the existence of the testing range is evidence that the country intends to manufacture much more sophisticated weapons that would be light enough to put onto its growing arsenal of medium - and long - range missiles .",
+    "end_position": [
+      42,
+      24,
+      42,
+      42
+    ],
+    "entity_label": "WEA",
+    "impossible": false,
+    "qas_id": "2858.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [
+      "20;42",
+      "24;24",
+      "32;42",
+      "36;42"
+    ],
+    "start_position": [
+      20,
+      24,
+      32,
+      36
+    ]
+  },
+  {
+    "context": "Eight - thirty - six a . m . Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+    "end_position": [
+      17,
+      21,
+      33
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "1155.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "17;17",
+      "21;21",
+      "33;33"
+    ],
+    "start_position": [
+      17,
+      21,
+      33
+    ]
+  },
+  {
+    "context": "Eight - thirty - six a . m . Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "1155.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "14;14"
+    ],
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "context": "Eight - thirty - six a . m . Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+    "end_position": [
+      10,
+      15,
+      18,
+      26
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1155.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "9;10",
+      "14;15",
+      "17;18",
+      "26;26"
+    ],
+    "start_position": [
+      9,
+      14,
+      17,
+      26
+    ]
+  },
+  {
+    "context": "Eight - thirty - six a . m . Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "1155.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Eight - thirty - six a . m . Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+    "end_position": [
+      27
+    ],
+    "entity_label": "VEH",
+    "impossible": false,
+    "qas_id": "1155.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [
+      "26;27"
+    ],
+    "start_position": [
+      26
+    ]
+  },
+  {
+    "context": "Eight - thirty - six a . m . Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "1155.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Eight - thirty - six a . m . Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "1155.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "but a toymaker and one man ' s dream have put the silver cross pram back on the stroller circuit .",
+    "end_position": [],
+    "entity_label": "GPE",
+    "impossible": true,
+    "qas_id": "3149.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "but a toymaker and one man ' s dream have put the silver cross pram back on the stroller circuit .",
+    "end_position": [
+      2,
+      13
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "3149.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "1;2",
+      "12;13"
+    ],
+    "start_position": [
+      1,
+      12
+    ]
+  },
+  {
+    "context": "but a toymaker and one man ' s dream have put the silver cross pram back on the stroller circuit .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "3149.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "4;5"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "but a toymaker and one man ' s dream have put the silver cross pram back on the stroller circuit .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "3149.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "but a toymaker and one man ' s dream have put the silver cross pram back on the stroller circuit .",
+    "end_position": [
+      14,
+      18
+    ],
+    "entity_label": "VEH",
+    "impossible": false,
+    "qas_id": "3149.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [
+      "11;14",
+      "18;18"
+    ],
+    "start_position": [
+      11,
+      18
+    ]
+  },
+  {
+    "context": "but a toymaker and one man ' s dream have put the silver cross pram back on the stroller circuit .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "3149.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "but a toymaker and one man ' s dream have put the silver cross pram back on the stroller circuit .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "3149.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "U . S . aircraft bombed Iraqi tanks holding bridges close to the city .",
+    "end_position": [
+      2,
+      6,
+      13
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "2318.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "0;2",
+      "6;6",
+      "12;13"
+    ],
+    "start_position": [
+      0,
+      6,
+      12
+    ]
+  },
+  {
+    "context": "U . S . aircraft bombed Iraqi tanks holding bridges close to the city .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "2318.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "U . S . aircraft bombed Iraqi tanks holding bridges close to the city .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2318.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "U . S . aircraft bombed Iraqi tanks holding bridges close to the city .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "FAC",
+    "impossible": false,
+    "qas_id": "2318.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [
+      "9;13"
+    ],
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "context": "U . S . aircraft bombed Iraqi tanks holding bridges close to the city .",
+    "end_position": [
+      4,
+      7
+    ],
+    "entity_label": "VEH",
+    "impossible": false,
+    "qas_id": "2318.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [
+      "0;4",
+      "6;7"
+    ],
+    "start_position": [
+      0,
+      6
+    ]
+  },
+  {
+    "context": "U . S . aircraft bombed Iraqi tanks holding bridges close to the city .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2318.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "U . S . aircraft bombed Iraqi tanks holding bridges close to the city .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "2318.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "PHILLIPS You ' re now airborne over Iraq with Commander Steve Kroto ' s ( ph ) Gray Knights , the Navy ' s P - 3 eyes in the sky .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "1356.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "PHILLIPS You ' re now airborne over Iraq with Commander Steve Kroto ' s ( ph ) Gray Knights , the Navy ' s P - 3 eyes in the sky .",
+    "end_position": [
+      21
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "1356.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "20;21"
+    ],
+    "start_position": [
+      20
+    ]
+  },
+  {
+    "context": "PHILLIPS You ' re now airborne over Iraq with Commander Steve Kroto ' s ( ph ) Gray Knights , the Navy ' s P - 3 eyes in the sky .",
+    "end_position": [
+      1,
+      9,
+      11,
+      18,
+      30
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1356.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "1;1",
+      "9;9",
+      "9;11",
+      "9;18",
+      "20;30"
+    ],
+    "start_position": [
+      1,
+      9,
+      9,
+      9,
+      20
+    ]
+  },
+  {
+    "context": "PHILLIPS You ' re now airborne over Iraq with Commander Steve Kroto ' s ( ph ) Gray Knights , the Navy ' s P - 3 eyes in the sky .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "1356.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "PHILLIPS You ' re now airborne over Iraq with Commander Steve Kroto ' s ( ph ) Gray Knights , the Navy ' s P - 3 eyes in the sky .",
+    "end_position": [
+      26
+    ],
+    "entity_label": "VEH",
+    "impossible": false,
+    "qas_id": "1356.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [
+      "20;26"
+    ],
+    "start_position": [
+      20
+    ]
+  },
+  {
+    "context": "PHILLIPS You ' re now airborne over Iraq with Commander Steve Kroto ' s ( ph ) Gray Knights , the Navy ' s P - 3 eyes in the sky .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "1356.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "PHILLIPS You ' re now airborne over Iraq with Commander Steve Kroto ' s ( ph ) Gray Knights , the Navy ' s P - 3 eyes in the sky .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "1356.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Seven prosecutors read in turn the indictment against Ba ' asyir at the makeshift court room in the Meteorology and Geophysics Agency ' s office in Central Jakarta .",
+    "end_position": [],
+    "entity_label": "GPE",
+    "impossible": true,
+    "qas_id": "2945.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Seven prosecutors read in turn the indictment against Ba ' asyir at the makeshift court room in the Meteorology and Geophysics Agency ' s office in Central Jakarta .",
+    "end_position": [
+      21
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2945.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "17;21"
+    ],
+    "start_position": [
+      17
+    ]
+  },
+  {
+    "context": "Seven prosecutors read in turn the indictment against Ba ' asyir at the makeshift court room in the Meteorology and Geophysics Agency ' s office in Central Jakarta .",
+    "end_position": [
+      1,
+      10
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2945.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;1",
+      "8;10"
+    ],
+    "start_position": [
+      0,
+      8
+    ]
+  },
+  {
+    "context": "Seven prosecutors read in turn the indictment against Ba ' asyir at the makeshift court room in the Meteorology and Geophysics Agency ' s office in Central Jakarta .",
+    "end_position": [
+      27,
+      14,
+      27
+    ],
+    "entity_label": "FAC",
+    "impossible": false,
+    "qas_id": "2945.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [
+      "12;27",
+      "14;14",
+      "17;27"
+    ],
+    "start_position": [
+      12,
+      14,
+      17
+    ]
+  },
+  {
+    "context": "Seven prosecutors read in turn the indictment against Ba ' asyir at the makeshift court room in the Meteorology and Geophysics Agency ' s office in Central Jakarta .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "2945.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Seven prosecutors read in turn the indictment against Ba ' asyir at the makeshift court room in the Meteorology and Geophysics Agency ' s office in Central Jakarta .",
+    "end_position": [
+      27
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "2945.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [
+      "26;27"
+    ],
+    "start_position": [
+      26
+    ]
+  },
+  {
+    "context": "Seven prosecutors read in turn the indictment against Ba ' asyir at the makeshift court room in the Meteorology and Geophysics Agency ' s office in Central Jakarta .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "2945.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "sharon osbourne did not enjoy her meal at a los angeles restaurant last night .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "3064.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "9;10"
+    ],
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "context": "sharon osbourne did not enjoy her meal at a los angeles restaurant last night .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "3064.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "sharon osbourne did not enjoy her meal at a los angeles restaurant last night .",
+    "end_position": [
+      1,
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "3064.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;1",
+      "5;5"
+    ],
+    "start_position": [
+      0,
+      5
+    ]
+  },
+  {
+    "context": "sharon osbourne did not enjoy her meal at a los angeles restaurant last night .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "FAC",
+    "impossible": false,
+    "qas_id": "3064.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [
+      "8;11"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "sharon osbourne did not enjoy her meal at a los angeles restaurant last night .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "3064.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "sharon osbourne did not enjoy her meal at a los angeles restaurant last night .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "3064.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "sharon osbourne did not enjoy her meal at a los angeles restaurant last night .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "3064.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Forensic specialists will now visit the scene and hope to establish the truth of what happened here and when .",
+    "end_position": [],
+    "entity_label": "GPE",
+    "impossible": true,
+    "qas_id": "1295.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Forensic specialists will now visit the scene and hope to establish the truth of what happened here and when .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "1295.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Forensic specialists will now visit the scene and hope to establish the truth of what happened here and when .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1295.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Forensic specialists will now visit the scene and hope to establish the truth of what happened here and when .",
+    "end_position": [
+      16
+    ],
+    "entity_label": "FAC",
+    "impossible": false,
+    "qas_id": "1295.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [
+      "16;16"
+    ],
+    "start_position": [
+      16
+    ]
+  },
+  {
+    "context": "Forensic specialists will now visit the scene and hope to establish the truth of what happened here and when .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "1295.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Forensic specialists will now visit the scene and hope to establish the truth of what happened here and when .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "1295.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Forensic specialists will now visit the scene and hope to establish the truth of what happened here and when .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "1295.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Military sources said the Israeli army had established roadblocks at the entrance to Beit Hanoun to prevent Palestinians militants from leaving the area .",
+    "end_position": [
+      4,
+      14,
+      17
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "2710.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "4;4",
+      "13;14",
+      "17;17"
+    ],
+    "start_position": [
+      4,
+      13,
+      17
+    ]
+  },
+  {
+    "context": "Military sources said the Israeli army had established roadblocks at the entrance to Beit Hanoun to prevent Palestinians militants from leaving the area .",
+    "end_position": [
+      0,
+      5
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2710.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "0;0",
+      "3;5"
+    ],
+    "start_position": [
+      0,
+      3
+    ]
+  },
+  {
+    "context": "Military sources said the Israeli army had established roadblocks at the entrance to Beit Hanoun to prevent Palestinians militants from leaving the area .",
+    "end_position": [
+      1,
+      18
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2710.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;1",
+      "17;18"
+    ],
+    "start_position": [
+      0,
+      17
+    ]
+  },
+  {
+    "context": "Military sources said the Israeli army had established roadblocks at the entrance to Beit Hanoun to prevent Palestinians militants from leaving the area .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "FAC",
+    "impossible": false,
+    "qas_id": "2710.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [
+      "8;14"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "Military sources said the Israeli army had established roadblocks at the entrance to Beit Hanoun to prevent Palestinians militants from leaving the area .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "2710.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Military sources said the Israeli army had established roadblocks at the entrance to Beit Hanoun to prevent Palestinians militants from leaving the area .",
+    "end_position": [
+      22
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "2710.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [
+      "21;22"
+    ],
+    "start_position": [
+      21
+    ]
+  },
+  {
+    "context": "Military sources said the Israeli army had established roadblocks at the entrance to Beit Hanoun to prevent Palestinians militants from leaving the area .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "2710.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "They have refused to participate in the political process , they have repeatedly announced their intentions to boycott the elections and to disrupt them in other areas , and they do not recognise the government or any other authority in the country beside themselves .",
+    "end_position": [
+      41
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "6567.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "40;41"
+    ],
+    "start_position": [
+      40
+    ]
+  },
+  {
+    "context": "They have refused to participate in the political process , they have repeatedly announced their intentions to boycott the elections and to disrupt them in other areas , and they do not recognise the government or any other authority in the country beside themselves .",
+    "end_position": [
+      34,
+      43
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "6567.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "33;34",
+      "36;43"
+    ],
+    "start_position": [
+      33,
+      36
+    ]
+  },
+  {
+    "context": "They have refused to participate in the political process , they have repeatedly announced their intentions to boycott the elections and to disrupt them in other areas , and they do not recognise the government or any other authority in the country beside themselves .",
+    "end_position": [
+      0,
+      10,
+      14,
+      29,
+      43
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "6567.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;0",
+      "10;10",
+      "14;14",
+      "29;29",
+      "43;43"
+    ],
+    "start_position": [
+      0,
+      10,
+      14,
+      29,
+      43
+    ]
+  },
+  {
+    "context": "They have refused to participate in the political process , they have repeatedly announced their intentions to boycott the elections and to disrupt them in other areas , and they do not recognise the government or any other authority in the country beside themselves .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "6567.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "They have refused to participate in the political process , they have repeatedly announced their intentions to boycott the elections and to disrupt them in other areas , and they do not recognise the government or any other authority in the country beside themselves .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "6567.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "They have refused to participate in the political process , they have repeatedly announced their intentions to boycott the elections and to disrupt them in other areas , and they do not recognise the government or any other authority in the country beside themselves .",
+    "end_position": [
+      26
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "6567.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [
+      "25;26"
+    ],
+    "start_position": [
+      25
+    ]
+  },
+  {
+    "context": "They have refused to participate in the political process , they have repeatedly announced their intentions to boycott the elections and to disrupt them in other areas , and they do not recognise the government or any other authority in the country beside themselves .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "6567.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "U . S . Army ' s 7th Cavalry is in the forefront of U . S . troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+    "end_position": [
+      16,
+      23,
+      29
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "876.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "14;16",
+      "23;23",
+      "29;29"
+    ],
+    "start_position": [
+      14,
+      23,
+      29
+    ]
+  },
+  {
+    "context": "U . S . Army ' s 7th Cavalry is in the forefront of U . S . troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "876.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "U . S . Army ' s 7th Cavalry is in the forefront of U . S . troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+    "end_position": [
+      8,
+      18,
+      20
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "876.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;8",
+      "14;18",
+      "20;20"
+    ],
+    "start_position": [
+      0,
+      14,
+      20
+    ]
+  },
+  {
+    "context": "U . S . Army ' s 7th Cavalry is in the forefront of U . S . troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "876.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "U . S . Army ' s 7th Cavalry is in the forefront of U . S . troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "876.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "U . S . Army ' s 7th Cavalry is in the forefront of U . S . troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+    "end_position": [
+      30
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "876.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [
+      "28;30"
+    ],
+    "start_position": [
+      28
+    ]
+  },
+  {
+    "context": "U . S . Army ' s 7th Cavalry is in the forefront of U . S . troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "876.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "as we continue to watch air force one , now on the ground outside belfast , northern ireland , we ' ll be watching president bush emerge from the plane momentarily .",
+    "end_position": [
+      17
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "3650.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "14;17"
+    ],
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "context": "as we continue to watch air force one , now on the ground outside belfast , northern ireland , we ' ll be watching president bush emerge from the plane momentarily .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "3650.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "as we continue to watch air force one , now on the ground outside belfast , northern ireland , we ' ll be watching president bush emerge from the plane momentarily .",
+    "end_position": [
+      1,
+      19,
+      24,
+      25
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "3650.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "1;1",
+      "19;19",
+      "24;24",
+      "24;25"
+    ],
+    "start_position": [
+      1,
+      19,
+      24,
+      24
+    ]
+  },
+  {
+    "context": "as we continue to watch air force one , now on the ground outside belfast , northern ireland , we ' ll be watching president bush emerge from the plane momentarily .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "3650.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "as we continue to watch air force one , now on the ground outside belfast , northern ireland , we ' ll be watching president bush emerge from the plane momentarily .",
+    "end_position": [
+      7,
+      29
+    ],
+    "entity_label": "VEH",
+    "impossible": false,
+    "qas_id": "3650.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [
+      "5;7",
+      "28;29"
+    ],
+    "start_position": [
+      5,
+      28
+    ]
+  },
+  {
+    "context": "as we continue to watch air force one , now on the ground outside belfast , northern ireland , we ' ll be watching president bush emerge from the plane momentarily .",
+    "end_position": [
+      17
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "3650.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [
+      "16;17"
+    ],
+    "start_position": [
+      16
+    ]
+  },
+  {
+    "context": "as we continue to watch air force one , now on the ground outside belfast , northern ireland , we ' ll be watching president bush emerge from the plane momentarily .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "3650.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Greg Milam is with the U . K . forces in southern Iraq .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "659.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "5;7"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Greg Milam is with the U . K . forces in southern Iraq .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "659.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Greg Milam is with the U . K . forces in southern Iraq .",
+    "end_position": [
+      1,
+      9
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "659.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;1",
+      "4;9"
+    ],
+    "start_position": [
+      0,
+      4
+    ]
+  },
+  {
+    "context": "Greg Milam is with the U . K . forces in southern Iraq .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "659.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Greg Milam is with the U . K . forces in southern Iraq .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "659.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Greg Milam is with the U . K . forces in southern Iraq .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "659.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [
+      "11;12"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "Greg Milam is with the U . K . forces in southern Iraq .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "659.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "They ' re expecting a total at this particular base near the Iraqi border of 300 sorties in a 24 - hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+    "end_position": [
+      12,
+      49,
+      49
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "643.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "12;12",
+      "43;49",
+      "47;49"
+    ],
+    "start_position": [
+      12,
+      43,
+      47
+    ]
+  },
+  {
+    "context": "They ' re expecting a total at this particular base near the Iraqi border of 300 sorties in a 24 - hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+    "end_position": [
+      0,
+      29,
+      53
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "643.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "0;0",
+      "28;29",
+      "52;53"
+    ],
+    "start_position": [
+      0,
+      28,
+      52
+    ]
+  },
+  {
+    "context": "They ' re expecting a total at this particular base near the Iraqi border of 300 sorties in a 24 - hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "643.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "They ' re expecting a total at this particular base near the Iraqi border of 300 sorties in a 24 - hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+    "end_position": [
+      13,
+      34,
+      49
+    ],
+    "entity_label": "FAC",
+    "impossible": false,
+    "qas_id": "643.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [
+      "7;13",
+      "32;34",
+      "38;49"
+    ],
+    "start_position": [
+      7,
+      32,
+      38
+    ]
+  },
+  {
+    "context": "They ' re expecting a total at this particular base near the Iraqi border of 300 sorties in a 24 - hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "643.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "They ' re expecting a total at this particular base near the Iraqi border of 300 sorties in a 24 - hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "643.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [
+      "11;13"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "They ' re expecting a total at this particular base near the Iraqi border of 300 sorties in a 24 - hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "643.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" We want to have an Iraqi voice in everything we do here but it would be wrong to do that precipitously , \" said a source at the Organisation of Reconstruction and Humanitarian Assistance ( ORHA ) , which is administering post - war Iraq .",
+    "end_position": [
+      6,
+      12,
+      45
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "2114.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "6;6",
+      "12;12",
+      "45;45"
+    ],
+    "start_position": [
+      6,
+      12,
+      45
+    ]
+  },
+  {
+    "context": "\" We want to have an Iraqi voice in everything we do here but it would be wrong to do that precipitously , \" said a source at the Organisation of Reconstruction and Humanitarian Assistance ( ORHA ) , which is administering post - war Iraq .",
+    "end_position": [
+      45,
+      36,
+      39
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2114.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "28;45",
+      "36;36",
+      "39;39"
+    ],
+    "start_position": [
+      28,
+      36,
+      39
+    ]
+  },
+  {
+    "context": "\" We want to have an Iraqi voice in everything we do here but it would be wrong to do that precipitously , \" said a source at the Organisation of Reconstruction and Humanitarian Assistance ( ORHA ) , which is administering post - war Iraq .",
+    "end_position": [
+      1,
+      10,
+      45
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2114.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "1;1",
+      "10;10",
+      "25;45"
+    ],
+    "start_position": [
+      1,
+      10,
+      25
+    ]
+  },
+  {
+    "context": "\" We want to have an Iraqi voice in everything we do here but it would be wrong to do that precipitously , \" said a source at the Organisation of Reconstruction and Humanitarian Assistance ( ORHA ) , which is administering post - war Iraq .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "2114.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" We want to have an Iraqi voice in everything we do here but it would be wrong to do that precipitously , \" said a source at the Organisation of Reconstruction and Humanitarian Assistance ( ORHA ) , which is administering post - war Iraq .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "2114.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" We want to have an Iraqi voice in everything we do here but it would be wrong to do that precipitously , \" said a source at the Organisation of Reconstruction and Humanitarian Assistance ( ORHA ) , which is administering post - war Iraq .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2114.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" We want to have an Iraqi voice in everything we do here but it would be wrong to do that precipitously , \" said a source at the Organisation of Reconstruction and Humanitarian Assistance ( ORHA ) , which is administering post - war Iraq .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "2114.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Radical leftist , Kurdish and Islamic groups are active in the country and have carried out bombings in the past .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "2677.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "10;11"
+    ],
+    "start_position": [
+      10
+    ]
+  },
+  {
+    "context": "Radical leftist , Kurdish and Islamic groups are active in the country and have carried out bombings in the past .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2677.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "0;6"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Radical leftist , Kurdish and Islamic groups are active in the country and have carried out bombings in the past .",
+    "end_position": [
+      3,
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2677.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "3;3",
+      "5;5"
+    ],
+    "start_position": [
+      3,
+      5
+    ]
+  },
+  {
+    "context": "Radical leftist , Kurdish and Islamic groups are active in the country and have carried out bombings in the past .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "2677.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Radical leftist , Kurdish and Islamic groups are active in the country and have carried out bombings in the past .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "2677.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Radical leftist , Kurdish and Islamic groups are active in the country and have carried out bombings in the past .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2677.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Radical leftist , Kurdish and Islamic groups are active in the country and have carried out bombings in the past .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "2677.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The group ' s \" Assorted Colors \" brand was ranked next - to - last with a \" poor \" mark for strength but an \" excellent \" for reliability .",
+    "end_position": [],
+    "entity_label": "GPE",
+    "impossible": true,
+    "qas_id": "5969.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The group ' s \" Assorted Colors \" brand was ranked next - to - last with a \" poor \" mark for strength but an \" excellent \" for reliability .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "5969.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "The group ' s \" Assorted Colors \" brand was ranked next - to - last with a \" poor \" mark for strength but an \" excellent \" for reliability .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "5969.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The group ' s \" Assorted Colors \" brand was ranked next - to - last with a \" poor \" mark for strength but an \" excellent \" for reliability .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "5969.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The group ' s \" Assorted Colors \" brand was ranked next - to - last with a \" poor \" mark for strength but an \" excellent \" for reliability .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "5969.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The group ' s \" Assorted Colors \" brand was ranked next - to - last with a \" poor \" mark for strength but an \" excellent \" for reliability .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "5969.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The group ' s \" Assorted Colors \" brand was ranked next - to - last with a \" poor \" mark for strength but an \" excellent \" for reliability .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "5969.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I live in Georgia , and losing that game affects me much more directly than losing the Alabama game .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "6730.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "I live in Georgia , and losing that game affects me much more directly than losing the Alabama game .",
+    "end_position": [
+      17
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "6730.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [
+      "17;17"
+    ],
+    "start_position": [
+      17
+    ]
+  },
+  {
+    "context": "I live in Georgia , and losing that game affects me much more directly than losing the Alabama game .",
+    "end_position": [
+      0,
+      10
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "6730.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;0",
+      "10;10"
+    ],
+    "start_position": [
+      0,
+      10
+    ]
+  },
+  {
+    "context": "I live in Georgia , and losing that game affects me much more directly than losing the Alabama game .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "6730.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I live in Georgia , and losing that game affects me much more directly than losing the Alabama game .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "6730.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I live in Georgia , and losing that game affects me much more directly than losing the Alabama game .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "6730.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I live in Georgia , and losing that game affects me much more directly than losing the Alabama game .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "6730.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "In December , Chinese archaeologists named a new species of dinosaur after the \" Jurassic Park \" author .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "1982.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "In December , Chinese archaeologists named a new species of dinosaur after the \" Jurassic Park \" author .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "1982.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "In December , Chinese archaeologists named a new species of dinosaur after the \" Jurassic Park \" author .",
+    "end_position": [
+      4,
+      17
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1982.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "3;4",
+      "12;17"
+    ],
+    "start_position": [
+      3,
+      12
+    ]
+  },
+  {
+    "context": "In December , Chinese archaeologists named a new species of dinosaur after the \" Jurassic Park \" author .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "1982.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "In December , Chinese archaeologists named a new species of dinosaur after the \" Jurassic Park \" author .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "1982.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "In December , Chinese archaeologists named a new species of dinosaur after the \" Jurassic Park \" author .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "1982.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "In December , Chinese archaeologists named a new species of dinosaur after the \" Jurassic Park \" author .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "1982.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Until Tuesday , the spokesman had suggested part of the package would be available to Turkey regardless of whether 62 , 000 American troops are allowed in the country .",
+    "end_position": [
+      15,
+      22,
+      28
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "2186.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "15;15",
+      "22;22",
+      "27;28"
+    ],
+    "start_position": [
+      15,
+      22,
+      27
+    ]
+  },
+  {
+    "context": "Until Tuesday , the spokesman had suggested part of the package would be available to Turkey regardless of whether 62 , 000 American troops are allowed in the country .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "2186.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Until Tuesday , the spokesman had suggested part of the package would be available to Turkey regardless of whether 62 , 000 American troops are allowed in the country .",
+    "end_position": [
+      4,
+      23
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2186.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "3;4",
+      "19;23"
+    ],
+    "start_position": [
+      3,
+      19
+    ]
+  },
+  {
+    "context": "Until Tuesday , the spokesman had suggested part of the package would be available to Turkey regardless of whether 62 , 000 American troops are allowed in the country .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "2186.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Until Tuesday , the spokesman had suggested part of the package would be available to Turkey regardless of whether 62 , 000 American troops are allowed in the country .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "2186.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Until Tuesday , the spokesman had suggested part of the package would be available to Turkey regardless of whether 62 , 000 American troops are allowed in the country .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2186.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Until Tuesday , the spokesman had suggested part of the package would be available to Turkey regardless of whether 62 , 000 American troops are allowed in the country .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "2186.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Nearly fifty - two percent of the district voted for John Kerry in 2004 , and Governor Mark Warner won the district with similar margins in 2001 .",
+    "end_position": [
+      7,
+      21
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "6101.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "6;7",
+      "20;21"
+    ],
+    "start_position": [
+      6,
+      20
+    ]
+  },
+  {
+    "context": "Nearly fifty - two percent of the district voted for John Kerry in 2004 , and Governor Mark Warner won the district with similar margins in 2001 .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "6101.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Nearly fifty - two percent of the district voted for John Kerry in 2004 , and Governor Mark Warner won the district with similar margins in 2001 .",
+    "end_position": [
+      7,
+      11,
+      16,
+      18
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "6101.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;7",
+      "10;11",
+      "16;16",
+      "16;18"
+    ],
+    "start_position": [
+      0,
+      10,
+      16,
+      16
+    ]
+  },
+  {
+    "context": "Nearly fifty - two percent of the district voted for John Kerry in 2004 , and Governor Mark Warner won the district with similar margins in 2001 .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "6101.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Nearly fifty - two percent of the district voted for John Kerry in 2004 , and Governor Mark Warner won the district with similar margins in 2001 .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "6101.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Nearly fifty - two percent of the district voted for John Kerry in 2004 , and Governor Mark Warner won the district with similar margins in 2001 .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "6101.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Nearly fifty - two percent of the district voted for John Kerry in 2004 , and Governor Mark Warner won the district with similar margins in 2001 .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "6101.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Rashid said that Pakistan has very good relations with the brotherly country of Afghanistan .",
+    "end_position": [
+      3,
+      13,
+      13
+    ],
+    "entity_label": "GPE",
+    "impossible": false,
+    "qas_id": "2954.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [
+      "3;3",
+      "9;13",
+      "13;13"
+    ],
+    "start_position": [
+      3,
+      9,
+      13
+    ]
+  },
+  {
+    "context": "Rashid said that Pakistan has very good relations with the brotherly country of Afghanistan .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "2954.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Rashid said that Pakistan has very good relations with the brotherly country of Afghanistan .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2954.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Rashid said that Pakistan has very good relations with the brotherly country of Afghanistan .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "2954.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Rashid said that Pakistan has very good relations with the brotherly country of Afghanistan .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "2954.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Rashid said that Pakistan has very good relations with the brotherly country of Afghanistan .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2954.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Rashid said that Pakistan has very good relations with the brotherly country of Afghanistan .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "2954.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEGALA Dr . Palmisano , first thank you for being here .",
+    "end_position": [],
+    "entity_label": "GPE",
+    "impossible": true,
+    "qas_id": "183.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEGALA Dr . Palmisano , first thank you for being here .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "183.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEGALA Dr . Palmisano , first thank you for being here .",
+    "end_position": [
+      1,
+      3,
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "183.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "1;1",
+      "1;3",
+      "7;7"
+    ],
+    "start_position": [
+      1,
+      1,
+      7
+    ]
+  },
+  {
+    "context": "BEGALA Dr . Palmisano , first thank you for being here .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "FAC",
+    "impossible": false,
+    "qas_id": "183.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [
+      "10;10"
+    ],
+    "start_position": [
+      10
+    ]
+  },
+  {
+    "context": "BEGALA Dr . Palmisano , first thank you for being here .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "183.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEGALA Dr . Palmisano , first thank you for being here .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "183.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEGALA Dr . Palmisano , first thank you for being here .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "183.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "More than 65 journalists of many nationalities died in Southeast Asia .",
+    "end_position": [],
+    "entity_label": "GPE",
+    "impossible": true,
+    "qas_id": "1490.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "More than 65 journalists of many nationalities died in Southeast Asia .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "1490.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "More than 65 journalists of many nationalities died in Southeast Asia .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "1490.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "0;6"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "More than 65 journalists of many nationalities died in Southeast Asia .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "1490.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "More than 65 journalists of many nationalities died in Southeast Asia .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "1490.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "More than 65 journalists of many nationalities died in Southeast Asia .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "1490.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [
+      "9;10"
+    ],
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "context": "More than 65 journalists of many nationalities died in Southeast Asia .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "1490.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The decision was made in response to the recommendation of Prime Minister Vladimir Spidla .",
+    "end_position": [],
+    "entity_label": "GPE",
+    "impossible": true,
+    "qas_id": "2978.1",
+    "query": "geographical political entities are geographical regions defined by political and or social groups such as countries, nations, regions, cities, states, government and its people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The decision was made in response to the recommendation of Prime Minister Vladimir Spidla .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "2978.2",
+    "query": "organization entities are limited to companies, corporations, agencies, institutions and other groups of people.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The decision was made in response to the recommendation of Prime Minister Vladimir Spidla .",
+    "end_position": [
+      11,
+      13
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "2978.3",
+    "query": "a person entity is limited to human including a single individual or a group.",
+    "span_position": [
+      "10;11",
+      "10;13"
+    ],
+    "start_position": [
+      10,
+      10
+    ]
+  },
+  {
+    "context": "The decision was made in response to the recommendation of Prime Minister Vladimir Spidla .",
+    "end_position": [],
+    "entity_label": "FAC",
+    "impossible": true,
+    "qas_id": "2978.4",
+    "query": "facility entities are limited to buildings and other permanent man-made structures such as buildings, airports, highways, bridges.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The decision was made in response to the recommendation of Prime Minister Vladimir Spidla .",
+    "end_position": [],
+    "entity_label": "VEH",
+    "impossible": true,
+    "qas_id": "2978.5",
+    "query": "vehicle entities are physical devices primarily designed to move, carry, pull or push the transported object such as helicopters, trains, ship and motorcycles.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The decision was made in response to the recommendation of Prime Minister Vladimir Spidla .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2978.6",
+    "query": "location entities are limited to geographical entities such as geographical areas and landmasses, mountains, bodies of water, and geological formations.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The decision was made in response to the recommendation of Prime Minister Vladimir Spidla .",
+    "end_position": [],
+    "entity_label": "WEA",
+    "impossible": true,
+    "qas_id": "2978.7",
+    "query": "weapon entities are limited to physical devices such as instruments for physically harming such as guns, arms and gunpowder.",
+    "span_position": [],
+    "start_position": []
+  }
+]

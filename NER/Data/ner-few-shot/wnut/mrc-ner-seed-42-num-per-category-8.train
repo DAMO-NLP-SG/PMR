@@ -1,0 +1,3344 @@
+[
+  {
+    "context": "Whoa ! New York City is getting almost 70cm of snow on Monday and Tuesday combined ! Checked Montreal and we're only getting 5 ! #crisisaverted",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "0.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Whoa ! New York City is getting almost 70cm of snow on Monday and Tuesday combined ! Checked Montreal and we're only getting 5 ! #crisisaverted",
+    "end_position": [
+      4,
+      18
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "0.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "2;4",
+      "18;18"
+    ],
+    "start_position": [
+      2,
+      18
+    ]
+  },
+  {
+    "context": "Whoa ! New York City is getting almost 70cm of snow on Monday and Tuesday combined ! Checked Montreal and we're only getting 5 ! #crisisaverted",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "0.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Whoa ! New York City is getting almost 70cm of snow on Monday and Tuesday combined ! Checked Montreal and we're only getting 5 ! #crisisaverted",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "0.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Whoa ! New York City is getting almost 70cm of snow on Monday and Tuesday combined ! Checked Montreal and we're only getting 5 ! #crisisaverted",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "0.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Whoa ! New York City is getting almost 70cm of snow on Monday and Tuesday combined ! Checked Montreal and we're only getting 5 ! #crisisaverted",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "0.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I want it NOW ! ;) RT : @corsairartisan Pumpkin Moonshine has arrived in Nashville -- Give it a week to get it in stores . KY ships next week !",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "1.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I want it NOW ! ;) RT : @corsairartisan Pumpkin Moonshine has arrived in Nashville -- Give it a week to get it in stores . KY ships next week !",
+    "end_position": [
+      14,
+      26
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "1.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "14;14",
+      "26;26"
+    ],
+    "start_position": [
+      14,
+      26
+    ]
+  },
+  {
+    "context": "I want it NOW ! ;) RT : @corsairartisan Pumpkin Moonshine has arrived in Nashville -- Give it a week to get it in stores . KY ships next week !",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "1.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I want it NOW ! ;) RT : @corsairartisan Pumpkin Moonshine has arrived in Nashville -- Give it a week to get it in stores . KY ships next week !",
+    "end_position": [
+      10
+    ],
+    "entity_label": "product",
+    "impossible": false,
+    "qas_id": "1.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [
+      "9;10"
+    ],
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "context": "I want it NOW ! ;) RT : @corsairartisan Pumpkin Moonshine has arrived in Nashville -- Give it a week to get it in stores . KY ships next week !",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "1.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I want it NOW ! ;) RT : @corsairartisan Pumpkin Moonshine has arrived in Nashville -- Give it a week to get it in stores . KY ships next week !",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "1.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @509pilots : If you want to dance tomorrow night , Rays is the spot man i'm telling you . Ask ya momma she know #Topp",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "2.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @509pilots : If you want to dance tomorrow night , Rays is the spot man i'm telling you . Ask ya momma she know #Topp",
+    "end_position": [
+      11
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "2.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "RT @509pilots : If you want to dance tomorrow night , Rays is the spot man i'm telling you . Ask ya momma she know #Topp",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "2.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @509pilots : If you want to dance tomorrow night , Rays is the spot man i'm telling you . Ask ya momma she know #Topp",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "2.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @509pilots : If you want to dance tomorrow night , Rays is the spot man i'm telling you . Ask ya momma she know #Topp",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "2.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @509pilots : If you want to dance tomorrow night , Rays is the spot man i'm telling you . Ask ya momma she know #Topp",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "2.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @TheOutlawz : EVERYBODY WHO WANT A FOLLOW FROM ME FOR FOLLOW FRIDAY LET ME KNOW !! WE AINT LIKE THESE HOLLYWOOD AZZ RAPPERS WE FOLLOW BACK !",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "3.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @TheOutlawz : EVERYBODY WHO WANT A FOLLOW FROM ME FOR FOLLOW FRIDAY LET ME KNOW !! WE AINT LIKE THESE HOLLYWOOD AZZ RAPPERS WE FOLLOW BACK !",
+    "end_position": [
+      21
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "3.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "21;21"
+    ],
+    "start_position": [
+      21
+    ]
+  },
+  {
+    "context": "RT @TheOutlawz : EVERYBODY WHO WANT A FOLLOW FROM ME FOR FOLLOW FRIDAY LET ME KNOW !! WE AINT LIKE THESE HOLLYWOOD AZZ RAPPERS WE FOLLOW BACK !",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "3.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @TheOutlawz : EVERYBODY WHO WANT A FOLLOW FROM ME FOR FOLLOW FRIDAY LET ME KNOW !! WE AINT LIKE THESE HOLLYWOOD AZZ RAPPERS WE FOLLOW BACK !",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "3.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @TheOutlawz : EVERYBODY WHO WANT A FOLLOW FROM ME FOR FOLLOW FRIDAY LET ME KNOW !! WE AINT LIKE THESE HOLLYWOOD AZZ RAPPERS WE FOLLOW BACK !",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "3.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @TheOutlawz : EVERYBODY WHO WANT A FOLLOW FROM ME FOR FOLLOW FRIDAY LET ME KNOW !! WE AINT LIKE THESE HOLLYWOOD AZZ RAPPERS WE FOLLOW BACK !",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "3.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@therowdydog Me neither . It 's tough to get away . There is one Tuesday in AUS and the one in RR on Friday . We should go so I have a friend !",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "4.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@therowdydog Me neither . It 's tough to get away . There is one Tuesday in AUS and the one in RR on Friday . We should go so I have a friend !",
+    "end_position": [
+      16,
+      21
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "4.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "16;16",
+      "21;21"
+    ],
+    "start_position": [
+      16,
+      21
+    ]
+  },
+  {
+    "context": "@therowdydog Me neither . It 's tough to get away . There is one Tuesday in AUS and the one in RR on Friday . We should go so I have a friend !",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "4.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@therowdydog Me neither . It 's tough to get away . There is one Tuesday in AUS and the one in RR on Friday . We should go so I have a friend !",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "4.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@therowdydog Me neither . It 's tough to get away . There is one Tuesday in AUS and the one in RR on Friday . We should go so I have a friend !",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "4.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@therowdydog Me neither . It 's tough to get away . There is one Tuesday in AUS and the one in RR on Friday . We should go so I have a friend !",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "4.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @nbcwashington : SCHOOL DELAY : Prince William Co . Public Schools will open two hours late today , January 22 2015 .",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "5.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @nbcwashington : SCHOOL DELAY : Prince William Co . Public Schools will open two hours late today , January 22 2015 .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "5.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "6;8"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "RT @nbcwashington : SCHOOL DELAY : Prince William Co . Public Schools will open two hours late today , January 22 2015 .",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "5.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @nbcwashington : SCHOOL DELAY : Prince William Co . Public Schools will open two hours late today , January 22 2015 .",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "5.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @nbcwashington : SCHOOL DELAY : Prince William Co . Public Schools will open two hours late today , January 22 2015 .",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "5.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @nbcwashington : SCHOOL DELAY : Prince William Co . Public Schools will open two hours late today , January 22 2015 .",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "5.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@Retail_Surveys #Belgium #Shoppers #Survey EPC Familia - January sales erratic . [URL]",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "6.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@Retail_Surveys #Belgium #Shoppers #Survey EPC Familia - January sales erratic . [URL]",
+    "end_position": [
+      1
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "6.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "@Retail_Surveys #Belgium #Shoppers #Survey EPC Familia - January sales erratic . [URL]",
+    "end_position": [
+      5
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "6.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "4;5"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "@Retail_Surveys #Belgium #Shoppers #Survey EPC Familia - January sales erratic . [URL]",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "6.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@Retail_Surveys #Belgium #Shoppers #Survey EPC Familia - January sales erratic . [URL]",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "6.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@Retail_Surveys #Belgium #Shoppers #Survey EPC Familia - January sales erratic . [URL]",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "6.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Why do that to begin with ? lols . @mggykills @dieSIBdie When on vacation in Cebu , you do not sniff your roommate 's boxers . #rulesbetweenmen",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "7.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Why do that to begin with ? lols . @mggykills @dieSIBdie When on vacation in Cebu , you do not sniff your roommate 's boxers . #rulesbetweenmen",
+    "end_position": [
+      15
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "7.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "15;15"
+    ],
+    "start_position": [
+      15
+    ]
+  },
+  {
+    "context": "Why do that to begin with ? lols . @mggykills @dieSIBdie When on vacation in Cebu , you do not sniff your roommate 's boxers . #rulesbetweenmen",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "7.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Why do that to begin with ? lols . @mggykills @dieSIBdie When on vacation in Cebu , you do not sniff your roommate 's boxers . #rulesbetweenmen",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "7.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Why do that to begin with ? lols . @mggykills @dieSIBdie When on vacation in Cebu , you do not sniff your roommate 's boxers . #rulesbetweenmen",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "7.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Why do that to begin with ? lols . @mggykills @dieSIBdie When on vacation in Cebu , you do not sniff your roommate 's boxers . #rulesbetweenmen",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "7.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "And #nowplaying With You - Delirious ? [ World Service ] May our Lord Jesus be with u , watching over &amp; directing u . Have a lovely night , all !",
+    "end_position": [
+      14
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "8.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "13;14"
+    ],
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "context": "And #nowplaying With You - Delirious ? [ World Service ] May our Lord Jesus be with u , watching over &amp; directing u . Have a lovely night , all !",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "8.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "And #nowplaying With You - Delirious ? [ World Service ] May our Lord Jesus be with u , watching over &amp; directing u . Have a lovely night , all !",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "8.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "And #nowplaying With You - Delirious ? [ World Service ] May our Lord Jesus be with u , watching over &amp; directing u . Have a lovely night , all !",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "8.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "And #nowplaying With You - Delirious ? [ World Service ] May our Lord Jesus be with u , watching over &amp; directing u . Have a lovely night , all !",
+    "end_position": [
+      3
+    ],
+    "entity_label": "creative_work",
+    "impossible": false,
+    "qas_id": "8.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "And #nowplaying With You - Delirious ? [ World Service ] May our Lord Jesus be with u , watching over &amp; directing u . Have a lovely night , all !",
+    "end_position": [
+      5
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "8.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "@TheWon_A Crooked is in town October 7th !!",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "9.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@TheWon_A Crooked is in town October 7th !!",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "9.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@TheWon_A Crooked is in town October 7th !!",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "9.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@TheWon_A Crooked is in town October 7th !!",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "9.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@TheWon_A Crooked is in town October 7th !!",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "9.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@TheWon_A Crooked is in town October 7th !!",
+    "end_position": [
+      1
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "9.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Stairs : One more chance to win Roger Waters tickets on KLH tonight between 6:15 &amp; 6:45 !! [URL]",
+    "end_position": [
+      8
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "10.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Stairs : One more chance to win Roger Waters tickets on KLH tonight between 6:15 &amp; 6:45 !! [URL]",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "10.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Stairs : One more chance to win Roger Waters tickets on KLH tonight between 6:15 &amp; 6:45 !! [URL]",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "10.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Stairs : One more chance to win Roger Waters tickets on KLH tonight between 6:15 &amp; 6:45 !! [URL]",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "10.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Stairs : One more chance to win Roger Waters tickets on KLH tonight between 6:15 &amp; 6:45 !! [URL]",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "10.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Stairs : One more chance to win Roger Waters tickets on KLH tonight between 6:15 &amp; 6:45 !! [URL]",
+    "end_position": [
+      11
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "10.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "The Wolves to host the Lions for game time ! Follow us for scores and updates throughout the game !",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "11.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Wolves to host the Lions for game time ! Follow us for scores and updates throughout the game !",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "11.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Wolves to host the Lions for game time ! Follow us for scores and updates throughout the game !",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "11.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Wolves to host the Lions for game time ! Follow us for scores and updates throughout the game !",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "11.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Wolves to host the Lions for game time ! Follow us for scores and updates throughout the game !",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "11.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Wolves to host the Lions for game time ! Follow us for scores and updates throughout the game !",
+    "end_position": [
+      1,
+      5
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "11.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "0;1",
+      "4;5"
+    ],
+    "start_position": [
+      0,
+      4
+    ]
+  },
+  {
+    "context": "Totes just pissed off the Vista del Lago Eagles , well some of em by saying \" Go Lancers !!\" teehee . They're playing each other tonite ! lol",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "12.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Totes just pissed off the Vista del Lago Eagles , well some of em by saying \" Go Lancers !!\" teehee . They're playing each other tonite ! lol",
+    "end_position": [
+      7
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "12.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "5;7"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Totes just pissed off the Vista del Lago Eagles , well some of em by saying \" Go Lancers !!\" teehee . They're playing each other tonite ! lol",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "12.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Totes just pissed off the Vista del Lago Eagles , well some of em by saying \" Go Lancers !!\" teehee . They're playing each other tonite ! lol",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "12.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Totes just pissed off the Vista del Lago Eagles , well some of em by saying \" Go Lancers !!\" teehee . They're playing each other tonite ! lol",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "12.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Totes just pissed off the Vista del Lago Eagles , well some of em by saying \" Go Lancers !!\" teehee . They're playing each other tonite ! lol",
+    "end_position": [
+      8,
+      18
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "12.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "8;8",
+      "18;18"
+    ],
+    "start_position": [
+      8,
+      18
+    ]
+  },
+  {
+    "context": "The ppl who organized the dept . picnic at 1 on Sunday clearly didn't want me to go or they wouldn't have scheduled it during a Packer game .",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "13.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The ppl who organized the dept . picnic at 1 on Sunday clearly didn't want me to go or they wouldn't have scheduled it during a Packer game .",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "13.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The ppl who organized the dept . picnic at 1 on Sunday clearly didn't want me to go or they wouldn't have scheduled it during a Packer game .",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "13.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The ppl who organized the dept . picnic at 1 on Sunday clearly didn't want me to go or they wouldn't have scheduled it during a Packer game .",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "13.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The ppl who organized the dept . picnic at 1 on Sunday clearly didn't want me to go or they wouldn't have scheduled it during a Packer game .",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "13.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The ppl who organized the dept . picnic at 1 on Sunday clearly didn't want me to go or they wouldn't have scheduled it during a Packer game .",
+    "end_position": [
+      26
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "13.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "26;26"
+    ],
+    "start_position": [
+      26
+    ]
+  },
+  {
+    "context": "RT @NOT_MOTD : Alberto Moreno is a fitness worry for Liverpool tomorrow after losing his head . [URL]",
+    "end_position": [
+      4
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "14.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "3;4"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "RT @NOT_MOTD : Alberto Moreno is a fitness worry for Liverpool tomorrow after losing his head . [URL]",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "14.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @NOT_MOTD : Alberto Moreno is a fitness worry for Liverpool tomorrow after losing his head . [URL]",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "14.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @NOT_MOTD : Alberto Moreno is a fitness worry for Liverpool tomorrow after losing his head . [URL]",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "14.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @NOT_MOTD : Alberto Moreno is a fitness worry for Liverpool tomorrow after losing his head . [URL]",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "14.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @NOT_MOTD : Alberto Moreno is a fitness worry for Liverpool tomorrow after losing his head . [URL]",
+    "end_position": [
+      10
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "14.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "10;10"
+    ],
+    "start_position": [
+      10
+    ]
+  },
+  {
+    "context": "A local veteran Army nurse will receive the highest honor from France tomorrow for her service to our country . [URL]",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "15.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "A local veteran Army nurse will receive the highest honor from France tomorrow for her service to our country . [URL]",
+    "end_position": [
+      11
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "15.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "A local veteran Army nurse will receive the highest honor from France tomorrow for her service to our country . [URL]",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "15.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "A local veteran Army nurse will receive the highest honor from France tomorrow for her service to our country . [URL]",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "15.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "A local veteran Army nurse will receive the highest honor from France tomorrow for her service to our country . [URL]",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "15.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "A local veteran Army nurse will receive the highest honor from France tomorrow for her service to our country . [URL]",
+    "end_position": [
+      3
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "15.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "RT @KdotDeeZy : Yes we do !!! Is part 2 in the making ? RT @GOTEMSAYNBABY remember when i was on twitter violating some girl in the summer ?",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "16.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @KdotDeeZy : Yes we do !!! Is part 2 in the making ? RT @GOTEMSAYNBABY remember when i was on twitter violating some girl in the summer ?",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "16.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @KdotDeeZy : Yes we do !!! Is part 2 in the making ? RT @GOTEMSAYNBABY remember when i was on twitter violating some girl in the summer ?",
+    "end_position": [
+      21
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "16.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "21;21"
+    ],
+    "start_position": [
+      21
+    ]
+  },
+  {
+    "context": "RT @KdotDeeZy : Yes we do !!! Is part 2 in the making ? RT @GOTEMSAYNBABY remember when i was on twitter violating some girl in the summer ?",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "16.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @KdotDeeZy : Yes we do !!! Is part 2 in the making ? RT @GOTEMSAYNBABY remember when i was on twitter violating some girl in the summer ?",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "16.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @KdotDeeZy : Yes we do !!! Is part 2 in the making ? RT @GOTEMSAYNBABY remember when i was on twitter violating some girl in the summer ?",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "16.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "#Huawei #AscendGX1 - Huawei on Monday launched its latest phablet , the Ascend GX1 , in China at ... [URL] - #Google #Tech",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "17.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "#Huawei #AscendGX1 - Huawei on Monday launched its latest phablet , the Ascend GX1 , in China at ... [URL] - #Google #Tech",
+    "end_position": [
+      16
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "17.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "16;16"
+    ],
+    "start_position": [
+      16
+    ]
+  },
+  {
+    "context": "#Huawei #AscendGX1 - Huawei on Monday launched its latest phablet , the Ascend GX1 , in China at ... [URL] - #Google #Tech",
+    "end_position": [
+      3
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "17.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "#Huawei #AscendGX1 - Huawei on Monday launched its latest phablet , the Ascend GX1 , in China at ... [URL] - #Google #Tech",
+    "end_position": [
+      13
+    ],
+    "entity_label": "product",
+    "impossible": false,
+    "qas_id": "17.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [
+      "12;13"
+    ],
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "context": "#Huawei #AscendGX1 - Huawei on Monday launched its latest phablet , the Ascend GX1 , in China at ... [URL] - #Google #Tech",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "17.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "#Huawei #AscendGX1 - Huawei on Monday launched its latest phablet , the Ascend GX1 , in China at ... [URL] - #Google #Tech",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "17.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I'm pleased to have introduced @TheSmokingGunn to twitter . May he become as inane as me .",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "18.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I'm pleased to have introduced @TheSmokingGunn to twitter . May he become as inane as me .",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "18.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I'm pleased to have introduced @TheSmokingGunn to twitter . May he become as inane as me .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "18.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "I'm pleased to have introduced @TheSmokingGunn to twitter . May he become as inane as me .",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "18.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I'm pleased to have introduced @TheSmokingGunn to twitter . May he become as inane as me .",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "18.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I'm pleased to have introduced @TheSmokingGunn to twitter . May he become as inane as me .",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "18.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Our Favorite YouTube Videos This Week : The Drama Edition [URL] | mashable",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "19.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Our Favorite YouTube Videos This Week : The Drama Edition [URL] | mashable",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "19.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Our Favorite YouTube Videos This Week : The Drama Edition [URL] | mashable",
+    "end_position": [
+      2
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "19.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Our Favorite YouTube Videos This Week : The Drama Edition [URL] | mashable",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "19.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Our Favorite YouTube Videos This Week : The Drama Edition [URL] | mashable",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "19.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Our Favorite YouTube Videos This Week : The Drama Edition [URL] | mashable",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "19.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Creighton @ North Texas on Sunday looks to be on about every RSN affiliate out there so should be able to find on TV in your market .",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "20.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Creighton @ North Texas on Sunday looks to be on about every RSN affiliate out there so should be able to find on TV in your market .",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "20.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Creighton @ North Texas on Sunday looks to be on about every RSN affiliate out there so should be able to find on TV in your market .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "20.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "12;12"
+    ],
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "context": "Creighton @ North Texas on Sunday looks to be on about every RSN affiliate out there so should be able to find on TV in your market .",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "20.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Creighton @ North Texas on Sunday looks to be on about every RSN affiliate out there so should be able to find on TV in your market .",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "20.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Creighton @ North Texas on Sunday looks to be on about every RSN affiliate out there so should be able to find on TV in your market .",
+    "end_position": [
+      0,
+      3
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "20.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "0;0",
+      "2;3"
+    ],
+    "start_position": [
+      0,
+      2
+    ]
+  },
+  {
+    "context": "NASCAR 's Popular Regional Series , ACT Return to Help Celebrate 25th ... - RaceDayCT [URL] #nascar",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "21.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "NASCAR 's Popular Regional Series , ACT Return to Help Celebrate 25th ... - RaceDayCT [URL] #nascar",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "21.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "NASCAR 's Popular Regional Series , ACT Return to Help Celebrate 25th ... - RaceDayCT [URL] #nascar",
+    "end_position": [
+      0
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "21.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "NASCAR 's Popular Regional Series , ACT Return to Help Celebrate 25th ... - RaceDayCT [URL] #nascar",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "21.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "NASCAR 's Popular Regional Series , ACT Return to Help Celebrate 25th ... - RaceDayCT [URL] #nascar",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "21.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "NASCAR 's Popular Regional Series , ACT Return to Help Celebrate 25th ... - RaceDayCT [URL] #nascar",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "21.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Haven't tweeted since june wow ....................... but I did get a facebook so who cares about twitter",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "22.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Haven't tweeted since june wow ....................... but I did get a facebook so who cares about twitter",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "22.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Haven't tweeted since june wow ....................... but I did get a facebook so who cares about twitter",
+    "end_position": [
+      11,
+      16
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "22.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "11;11",
+      "16;16"
+    ],
+    "start_position": [
+      11,
+      16
+    ]
+  },
+  {
+    "context": "Haven't tweeted since june wow ....................... but I did get a facebook so who cares about twitter",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "22.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Haven't tweeted since june wow ....................... but I did get a facebook so who cares about twitter",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "22.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Haven't tweeted since june wow ....................... but I did get a facebook so who cares about twitter",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "22.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "This . RT @bethanyshondark : RT @duchess_rebecca : Twitter is going to be less fun tonight without the snarky Joos . Aw !!",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "23.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "This . RT @bethanyshondark : RT @duchess_rebecca : Twitter is going to be less fun tonight without the snarky Joos . Aw !!",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "23.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "This . RT @bethanyshondark : RT @duchess_rebecca : Twitter is going to be less fun tonight without the snarky Joos . Aw !!",
+    "end_position": [
+      8
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "23.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "8;8"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "This . RT @bethanyshondark : RT @duchess_rebecca : Twitter is going to be less fun tonight without the snarky Joos . Aw !!",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "23.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "This . RT @bethanyshondark : RT @duchess_rebecca : Twitter is going to be less fun tonight without the snarky Joos . Aw !!",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "23.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "This . RT @bethanyshondark : RT @duchess_rebecca : Twitter is going to be less fun tonight without the snarky Joos . Aw !!",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "23.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2020 PG Khalen \" KK \" Robinson w/ 15 points , 5 assists , 2 rebounds and 2 steals in 9th grade game !! Episcopal 48 Mayflower 36",
+    "end_position": [
+      6
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "24.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "2;6"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "2020 PG Khalen \" KK \" Robinson w/ 15 points , 5 assists , 2 rebounds and 2 steals in 9th grade game !! Episcopal 48 Mayflower 36",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "24.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2020 PG Khalen \" KK \" Robinson w/ 15 points , 5 assists , 2 rebounds and 2 steals in 9th grade game !! Episcopal 48 Mayflower 36",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "24.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2020 PG Khalen \" KK \" Robinson w/ 15 points , 5 assists , 2 rebounds and 2 steals in 9th grade game !! Episcopal 48 Mayflower 36",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "24.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2020 PG Khalen \" KK \" Robinson w/ 15 points , 5 assists , 2 rebounds and 2 steals in 9th grade game !! Episcopal 48 Mayflower 36",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "24.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2020 PG Khalen \" KK \" Robinson w/ 15 points , 5 assists , 2 rebounds and 2 steals in 9th grade game !! Episcopal 48 Mayflower 36",
+    "end_position": [
+      24,
+      26
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "24.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "24;24",
+      "26;26"
+    ],
+    "start_position": [
+      24,
+      26
+    ]
+  },
+  {
+    "context": "RT @DatBabi___ : Dee Whit having something Saturday , ima slide through &amp; show my face .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "25.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "3;4"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "RT @DatBabi___ : Dee Whit having something Saturday , ima slide through &amp; show my face .",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "25.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @DatBabi___ : Dee Whit having something Saturday , ima slide through &amp; show my face .",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "25.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @DatBabi___ : Dee Whit having something Saturday , ima slide through &amp; show my face .",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "25.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @DatBabi___ : Dee Whit having something Saturday , ima slide through &amp; show my face .",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "25.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @DatBabi___ : Dee Whit having something Saturday , ima slide through &amp; show my face .",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "25.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "When you judge another you don't define them , you define yourself . ~Wayne Dyer",
+    "end_position": [
+      14
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "26.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "13;14"
+    ],
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "context": "When you judge another you don't define them , you define yourself . ~Wayne Dyer",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "26.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "When you judge another you don't define them , you define yourself . ~Wayne Dyer",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "26.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "When you judge another you don't define them , you define yourself . ~Wayne Dyer",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "26.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "When you judge another you don't define them , you define yourself . ~Wayne Dyer",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "26.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "When you judge another you don't define them , you define yourself . ~Wayne Dyer",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "26.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @JBCrewdotcom : More photos of Justin Bieber with fans in California today . ( January 11 ) [URL]",
+    "end_position": [
+      7
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "27.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "6;7"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "RT @JBCrewdotcom : More photos of Justin Bieber with fans in California today . ( January 11 ) [URL]",
+    "end_position": [
+      11
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "27.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "RT @JBCrewdotcom : More photos of Justin Bieber with fans in California today . ( January 11 ) [URL]",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "27.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @JBCrewdotcom : More photos of Justin Bieber with fans in California today . ( January 11 ) [URL]",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "27.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @JBCrewdotcom : More photos of Justin Bieber with fans in California today . ( January 11 ) [URL]",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "27.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @JBCrewdotcom : More photos of Justin Bieber with fans in California today . ( January 11 ) [URL]",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "27.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I was rotfl at lunch today . xD My BFF &amp; I sat next to these 2 boys , Shane &amp; Jonah . And this girl , Claire . ( cont )",
+    "end_position": [
+      19,
+      21,
+      27
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "28.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "19;19",
+      "21;21",
+      "27;27"
+    ],
+    "start_position": [
+      19,
+      21,
+      27
+    ]
+  },
+  {
+    "context": "I was rotfl at lunch today . xD My BFF &amp; I sat next to these 2 boys , Shane &amp; Jonah . And this girl , Claire . ( cont )",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "28.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I was rotfl at lunch today . xD My BFF &amp; I sat next to these 2 boys , Shane &amp; Jonah . And this girl , Claire . ( cont )",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "28.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I was rotfl at lunch today . xD My BFF &amp; I sat next to these 2 boys , Shane &amp; Jonah . And this girl , Claire . ( cont )",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "28.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I was rotfl at lunch today . xD My BFF &amp; I sat next to these 2 boys , Shane &amp; Jonah . And this girl , Claire . ( cont )",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "28.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I was rotfl at lunch today . xD My BFF &amp; I sat next to these 2 boys , Shane &amp; Jonah . And this girl , Claire . ( cont )",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "28.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@DONNlEDORKO GOOD LUCK MEETING JAKE TOMORROW IM SO EXCITED FOR YOU OMG !!!!",
+    "end_position": [
+      4
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "29.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "@DONNlEDORKO GOOD LUCK MEETING JAKE TOMORROW IM SO EXCITED FOR YOU OMG !!!!",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "29.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@DONNlEDORKO GOOD LUCK MEETING JAKE TOMORROW IM SO EXCITED FOR YOU OMG !!!!",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "29.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@DONNlEDORKO GOOD LUCK MEETING JAKE TOMORROW IM SO EXCITED FOR YOU OMG !!!!",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "29.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@DONNlEDORKO GOOD LUCK MEETING JAKE TOMORROW IM SO EXCITED FOR YOU OMG !!!!",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "29.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@DONNlEDORKO GOOD LUCK MEETING JAKE TOMORROW IM SO EXCITED FOR YOU OMG !!!!",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "29.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "David 's new season celery @OrfordMarket tomorrow , plus local apples from High House Farm = mighty fine local Waldorf Salad . Yes please .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "30.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "David 's new season celery @OrfordMarket tomorrow , plus local apples from High House Farm = mighty fine local Waldorf Salad . Yes please .",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "30.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "David 's new season celery @OrfordMarket tomorrow , plus local apples from High House Farm = mighty fine local Waldorf Salad . Yes please .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "30.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "12;14"
+    ],
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "context": "David 's new season celery @OrfordMarket tomorrow , plus local apples from High House Farm = mighty fine local Waldorf Salad . Yes please .",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "30.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "David 's new season celery @OrfordMarket tomorrow , plus local apples from High House Farm = mighty fine local Waldorf Salad . Yes please .",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "30.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "David 's new season celery @OrfordMarket tomorrow , plus local apples from High House Farm = mighty fine local Waldorf Salad . Yes please .",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "30.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "This guy can do it all 1st he breaks Lincoln Burrows out of prison now he 's playing in the Super Bowl [URL] @snailthesanil",
+    "end_position": [
+      10
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "31.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "9;10"
+    ],
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "context": "This guy can do it all 1st he breaks Lincoln Burrows out of prison now he 's playing in the Super Bowl [URL] @snailthesanil",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "31.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "This guy can do it all 1st he breaks Lincoln Burrows out of prison now he 's playing in the Super Bowl [URL] @snailthesanil",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "31.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "This guy can do it all 1st he breaks Lincoln Burrows out of prison now he 's playing in the Super Bowl [URL] @snailthesanil",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "31.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "This guy can do it all 1st he breaks Lincoln Burrows out of prison now he 's playing in the Super Bowl [URL] @snailthesanil",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "31.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "This guy can do it all 1st he breaks Lincoln Burrows out of prison now he 's playing in the Super Bowl [URL] @snailthesanil",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "31.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Town might be one of the best movies I have seen all year . So , so good . And don't worry Ben , we already forgave you for Gigli . Really .",
+    "end_position": [
+      23
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "32.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "23;23"
+    ],
+    "start_position": [
+      23
+    ]
+  },
+  {
+    "context": "The Town might be one of the best movies I have seen all year . So , so good . And don't worry Ben , we already forgave you for Gigli . Really .",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "32.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Town might be one of the best movies I have seen all year . So , so good . And don't worry Ben , we already forgave you for Gigli . Really .",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "32.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Town might be one of the best movies I have seen all year . So , so good . And don't worry Ben , we already forgave you for Gigli . Really .",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "32.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The Town might be one of the best movies I have seen all year . So , so good . And don't worry Ben , we already forgave you for Gigli . Really .",
+    "end_position": [
+      1,
+      30
+    ],
+    "entity_label": "creative_work",
+    "impossible": false,
+    "qas_id": "32.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [
+      "0;1",
+      "30;30"
+    ],
+    "start_position": [
+      0,
+      30
+    ]
+  },
+  {
+    "context": "The Town might be one of the best movies I have seen all year . So , so good . And don't worry Ben , we already forgave you for Gigli . Really .",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "32.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I favorited a YouTube video -- Water by Testing Tomorrow [URL]",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "33.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I favorited a YouTube video -- Water by Testing Tomorrow [URL]",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "33.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I favorited a YouTube video -- Water by Testing Tomorrow [URL]",
+    "end_position": [
+      3
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "33.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "I favorited a YouTube video -- Water by Testing Tomorrow [URL]",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "33.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "I favorited a YouTube video -- Water by Testing Tomorrow [URL]",
+    "end_position": [
+      6
+    ],
+    "entity_label": "creative_work",
+    "impossible": false,
+    "qas_id": "33.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "I favorited a YouTube video -- Water by Testing Tomorrow [URL]",
+    "end_position": [
+      9
+    ],
+    "entity_label": "group",
+    "impossible": false,
+    "qas_id": "33.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [
+      "8;9"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "RT @V0Ella : The 6th poem in our Poetry Challenge shortlist is Stubborn Heart by @Me_Marina [URL] [URL]",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "34.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @V0Ella : The 6th poem in our Poetry Challenge shortlist is Stubborn Heart by @Me_Marina [URL] [URL]",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "34.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @V0Ella : The 6th poem in our Poetry Challenge shortlist is Stubborn Heart by @Me_Marina [URL] [URL]",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "34.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @V0Ella : The 6th poem in our Poetry Challenge shortlist is Stubborn Heart by @Me_Marina [URL] [URL]",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "34.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @V0Ella : The 6th poem in our Poetry Challenge shortlist is Stubborn Heart by @Me_Marina [URL] [URL]",
+    "end_position": [
+      13
+    ],
+    "entity_label": "creative_work",
+    "impossible": false,
+    "qas_id": "34.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [
+      "12;13"
+    ],
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "context": "RT @V0Ella : The 6th poem in our Poetry Challenge shortlist is Stubborn Heart by @Me_Marina [URL] [URL]",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "34.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @PhilKeoghan : Private sneak peak of ' The Ride ' my ride across USA , tonight only , San Francisco 6pm contact Jennifer . Gainza@nmss . org",
+    "end_position": [
+      23
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "35.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "23;23"
+    ],
+    "start_position": [
+      23
+    ]
+  },
+  {
+    "context": "RT @PhilKeoghan : Private sneak peak of ' The Ride ' my ride across USA , tonight only , San Francisco 6pm contact Jennifer . Gainza@nmss . org",
+    "end_position": [
+      14,
+      20
+    ],
+    "entity_label": "location",
+    "impossible": false,
+    "qas_id": "35.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [
+      "14;14",
+      "19;20"
+    ],
+    "start_position": [
+      14,
+      19
+    ]
+  },
+  {
+    "context": "RT @PhilKeoghan : Private sneak peak of ' The Ride ' my ride across USA , tonight only , San Francisco 6pm contact Jennifer . Gainza@nmss . org",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "35.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @PhilKeoghan : Private sneak peak of ' The Ride ' my ride across USA , tonight only , San Francisco 6pm contact Jennifer . Gainza@nmss . org",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "35.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @PhilKeoghan : Private sneak peak of ' The Ride ' my ride across USA , tonight only , San Francisco 6pm contact Jennifer . Gainza@nmss . org",
+    "end_position": [
+      9
+    ],
+    "entity_label": "creative_work",
+    "impossible": false,
+    "qas_id": "35.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [
+      "8;9"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "RT @PhilKeoghan : Private sneak peak of ' The Ride ' my ride across USA , tonight only , San Francisco 6pm contact Jennifer . Gainza@nmss . org",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "35.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "DUDE I CAN WATCH JENNIFERS BODY :O I KNOW WHAT IMMA BE DOING ALL WEEK xD I LOVE THESE MOVIES !",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "36.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "DUDE I CAN WATCH JENNIFERS BODY :O I KNOW WHAT IMMA BE DOING ALL WEEK xD I LOVE THESE MOVIES !",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "36.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "DUDE I CAN WATCH JENNIFERS BODY :O I KNOW WHAT IMMA BE DOING ALL WEEK xD I LOVE THESE MOVIES !",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "36.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "DUDE I CAN WATCH JENNIFERS BODY :O I KNOW WHAT IMMA BE DOING ALL WEEK xD I LOVE THESE MOVIES !",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "36.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "DUDE I CAN WATCH JENNIFERS BODY :O I KNOW WHAT IMMA BE DOING ALL WEEK xD I LOVE THESE MOVIES !",
+    "end_position": [
+      5
+    ],
+    "entity_label": "creative_work",
+    "impossible": false,
+    "qas_id": "36.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [
+      "4;5"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "DUDE I CAN WATCH JENNIFERS BODY :O I KNOW WHAT IMMA BE DOING ALL WEEK xD I LOVE THESE MOVIES !",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "36.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @JenLawUS : DVD DATE : Mockingjay : Part 1 will be released 6th March on DVD . [URL]",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "37.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @JenLawUS : DVD DATE : Mockingjay : Part 1 will be released 6th March on DVD . [URL]",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "37.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @JenLawUS : DVD DATE : Mockingjay : Part 1 will be released 6th March on DVD . [URL]",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "37.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @JenLawUS : DVD DATE : Mockingjay : Part 1 will be released 6th March on DVD . [URL]",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "37.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @JenLawUS : DVD DATE : Mockingjay : Part 1 will be released 6th March on DVD . [URL]",
+    "end_position": [
+      9
+    ],
+    "entity_label": "creative_work",
+    "impossible": false,
+    "qas_id": "37.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [
+      "6;9"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "RT @JenLawUS : DVD DATE : Mockingjay : Part 1 will be released 6th March on DVD . [URL]",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "37.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @johan0394 : Soulja Boy | TheDeAndreWay . com -- The DeAndre Way in stores Nov 2 , 2010 [URL] via @SouljaBoy",
+    "end_position": [
+      4
+    ],
+    "entity_label": "person",
+    "impossible": false,
+    "qas_id": "38.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [
+      "3;4"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "RT @johan0394 : Soulja Boy | TheDeAndreWay . com -- The DeAndre Way in stores Nov 2 , 2010 [URL] via @SouljaBoy",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "38.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @johan0394 : Soulja Boy | TheDeAndreWay . com -- The DeAndre Way in stores Nov 2 , 2010 [URL] via @SouljaBoy",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "38.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @johan0394 : Soulja Boy | TheDeAndreWay . com -- The DeAndre Way in stores Nov 2 , 2010 [URL] via @SouljaBoy",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "38.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @johan0394 : Soulja Boy | TheDeAndreWay . com -- The DeAndre Way in stores Nov 2 , 2010 [URL] via @SouljaBoy",
+    "end_position": [
+      6,
+      12
+    ],
+    "entity_label": "creative_work",
+    "impossible": false,
+    "qas_id": "38.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [
+      "6;6",
+      "10;12"
+    ],
+    "start_position": [
+      6,
+      10
+    ]
+  },
+  {
+    "context": "RT @johan0394 : Soulja Boy | TheDeAndreWay . com -- The DeAndre Way in stores Nov 2 , 2010 [URL] via @SouljaBoy",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "38.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Beginning what I hope will be a long and wonderful relationship with it 's always sunny . Since I do own season 1 and 2 on DVD already .",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "39.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Beginning what I hope will be a long and wonderful relationship with it 's always sunny . Since I do own season 1 and 2 on DVD already .",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "39.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Beginning what I hope will be a long and wonderful relationship with it 's always sunny . Since I do own season 1 and 2 on DVD already .",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "39.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Beginning what I hope will be a long and wonderful relationship with it 's always sunny . Since I do own season 1 and 2 on DVD already .",
+    "end_position": [],
+    "entity_label": "product",
+    "impossible": true,
+    "qas_id": "39.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Beginning what I hope will be a long and wonderful relationship with it 's always sunny . Since I do own season 1 and 2 on DVD already .",
+    "end_position": [
+      15
+    ],
+    "entity_label": "creative_work",
+    "impossible": false,
+    "qas_id": "39.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [
+      "12;15"
+    ],
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "context": "Beginning what I hope will be a long and wonderful relationship with it 's always sunny . Since I do own season 1 and 2 on DVD already .",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "39.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEAUTY TIPS : [URL] #3146 SK-II Facial Treatment UV Protection SPF 25 PA++ 30g Sun Care SK2 SK ... [URL]",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "40.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEAUTY TIPS : [URL] #3146 SK-II Facial Treatment UV Protection SPF 25 PA++ 30g Sun Care SK2 SK ... [URL]",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "40.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEAUTY TIPS : [URL] #3146 SK-II Facial Treatment UV Protection SPF 25 PA++ 30g Sun Care SK2 SK ... [URL]",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "40.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEAUTY TIPS : [URL] #3146 SK-II Facial Treatment UV Protection SPF 25 PA++ 30g Sun Care SK2 SK ... [URL]",
+    "end_position": [
+      15
+    ],
+    "entity_label": "product",
+    "impossible": false,
+    "qas_id": "40.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [
+      "5;15"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "BEAUTY TIPS : [URL] #3146 SK-II Facial Treatment UV Protection SPF 25 PA++ 30g Sun Care SK2 SK ... [URL]",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "40.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "BEAUTY TIPS : [URL] #3146 SK-II Facial Treatment UV Protection SPF 25 PA++ 30g Sun Care SK2 SK ... [URL]",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "40.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The forced ads in ngmoco games are outstandingly annoying ! Looks like it 's time to delete all their apps from my iOS devices !",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "41.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The forced ads in ngmoco games are outstandingly annoying ! Looks like it 's time to delete all their apps from my iOS devices !",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "41.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The forced ads in ngmoco games are outstandingly annoying ! Looks like it 's time to delete all their apps from my iOS devices !",
+    "end_position": [
+      4
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "41.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "The forced ads in ngmoco games are outstandingly annoying ! Looks like it 's time to delete all their apps from my iOS devices !",
+    "end_position": [
+      22
+    ],
+    "entity_label": "product",
+    "impossible": false,
+    "qas_id": "41.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [
+      "22;22"
+    ],
+    "start_position": [
+      22
+    ]
+  },
+  {
+    "context": "The forced ads in ngmoco games are outstandingly annoying ! Looks like it 's time to delete all their apps from my iOS devices !",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "41.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The forced ads in ngmoco games are outstandingly annoying ! Looks like it 's time to delete all their apps from my iOS devices !",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "41.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "AppleMagazine December 12 , 2014 ( True PDF ) [URL] via @VIVAnews",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "42.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "AppleMagazine December 12 , 2014 ( True PDF ) [URL] via @VIVAnews",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "42.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "AppleMagazine December 12 , 2014 ( True PDF ) [URL] via @VIVAnews",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "42.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "AppleMagazine December 12 , 2014 ( True PDF ) [URL] via @VIVAnews",
+    "end_position": [
+      0
+    ],
+    "entity_label": "product",
+    "impossible": false,
+    "qas_id": "42.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "AppleMagazine December 12 , 2014 ( True PDF ) [URL] via @VIVAnews",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "42.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "AppleMagazine December 12 , 2014 ( True PDF ) [URL] via @VIVAnews",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "42.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@_icze4r Mechanical keyboards are so prohibitively expensive in my 3rd world shithole .. At least the keyboard of my Thinkpad ain't bad",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "43.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@_icze4r Mechanical keyboards are so prohibitively expensive in my 3rd world shithole .. At least the keyboard of my Thinkpad ain't bad",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "43.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@_icze4r Mechanical keyboards are so prohibitively expensive in my 3rd world shithole .. At least the keyboard of my Thinkpad ain't bad",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "43.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@_icze4r Mechanical keyboards are so prohibitively expensive in my 3rd world shithole .. At least the keyboard of my Thinkpad ain't bad",
+    "end_position": [
+      19
+    ],
+    "entity_label": "product",
+    "impossible": false,
+    "qas_id": "43.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [
+      "19;19"
+    ],
+    "start_position": [
+      19
+    ]
+  },
+  {
+    "context": "@_icze4r Mechanical keyboards are so prohibitively expensive in my 3rd world shithole .. At least the keyboard of my Thinkpad ain't bad",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "43.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "@_icze4r Mechanical keyboards are so prohibitively expensive in my 3rd world shithole .. At least the keyboard of my Thinkpad ain't bad",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "43.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "was on club penguin with @twilightmarisa till she decided to log of to go bed and leave me loool reminded me of my old cp days lol",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "44.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "was on club penguin with @twilightmarisa till she decided to log of to go bed and leave me loool reminded me of my old cp days lol",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "44.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "was on club penguin with @twilightmarisa till she decided to log of to go bed and leave me loool reminded me of my old cp days lol",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "44.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "was on club penguin with @twilightmarisa till she decided to log of to go bed and leave me loool reminded me of my old cp days lol",
+    "end_position": [
+      3
+    ],
+    "entity_label": "product",
+    "impossible": false,
+    "qas_id": "44.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "was on club penguin with @twilightmarisa till she decided to log of to go bed and leave me loool reminded me of my old cp days lol",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "44.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "was on club penguin with @twilightmarisa till she decided to log of to go bed and leave me loool reminded me of my old cp days lol",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "44.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Peace green tea time !! Happyzone !!!! :) ))))",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "45.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Peace green tea time !! Happyzone !!!! :) ))))",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "45.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Peace green tea time !! Happyzone !!!! :) ))))",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "45.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Peace green tea time !! Happyzone !!!! :) ))))",
+    "end_position": [
+      2
+    ],
+    "entity_label": "product",
+    "impossible": false,
+    "qas_id": "45.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Peace green tea time !! Happyzone !!!! :) ))))",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "45.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Peace green tea time !! Happyzone !!!! :) ))))",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "45.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @TechZader : iPad Refresh Due in January [URL]",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "46.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @TechZader : iPad Refresh Due in January [URL]",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "46.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @TechZader : iPad Refresh Due in January [URL]",
+    "end_position": [],
+    "entity_label": "corporation",
+    "impossible": true,
+    "qas_id": "46.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @TechZader : iPad Refresh Due in January [URL]",
+    "end_position": [
+      3
+    ],
+    "entity_label": "product",
+    "impossible": false,
+    "qas_id": "46.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "RT @TechZader : iPad Refresh Due in January [URL]",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "46.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "RT @TechZader : iPad Refresh Due in January [URL]",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "46.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Amazon U.K. Offering HTC Desire Z Unlocked October 11 : We just got official word of the HTC Desire Z earlier in Lo ... [URL]",
+    "end_position": [],
+    "entity_label": "person",
+    "impossible": true,
+    "qas_id": "47.0",
+    "query": "Names of people (e.g. Virginia Wade).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Amazon U.K. Offering HTC Desire Z Unlocked October 11 : We just got official word of the HTC Desire Z earlier in Lo ... [URL]",
+    "end_position": [],
+    "entity_label": "location",
+    "impossible": true,
+    "qas_id": "47.1",
+    "query": "Names that are locations (e.g. France).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Amazon U.K. Offering HTC Desire Z Unlocked October 11 : We just got official word of the HTC Desire Z earlier in Lo ... [URL]",
+    "end_position": [
+      1
+    ],
+    "entity_label": "corporation",
+    "impossible": false,
+    "qas_id": "47.2",
+    "query": "Names of corporations (e.g. Google).",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Amazon U.K. Offering HTC Desire Z Unlocked October 11 : We just got official word of the HTC Desire Z earlier in Lo ... [URL]",
+    "end_position": [
+      5,
+      19
+    ],
+    "entity_label": "product",
+    "impossible": false,
+    "qas_id": "47.3",
+    "query": "Name of products (e.g. iPhone**).",
+    "span_position": [
+      "3;5",
+      "17;19"
+    ],
+    "start_position": [
+      3,
+      17
+    ]
+  },
+  {
+    "context": "Amazon U.K. Offering HTC Desire Z Unlocked October 11 : We just got official word of the HTC Desire Z earlier in Lo ... [URL]",
+    "end_position": [],
+    "entity_label": "creative_work",
+    "impossible": true,
+    "qas_id": "47.4",
+    "query": "Names of creative works (e.g. Bohemian Rhapsody).",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Amazon U.K. Offering HTC Desire Z Unlocked October 11 : We just got official word of the HTC Desire Z earlier in Lo ... [URL]",
+    "end_position": [],
+    "entity_label": "group",
+    "impossible": true,
+    "qas_id": "47.5",
+    "query": "Names of groups (e.g. Nirvana, San Diego Padres).",
+    "span_position": [],
+    "start_position": []
+  }
+]

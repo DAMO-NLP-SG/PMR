@@ -1,0 +1,1681 @@
+[
+  {
+    "context": "\" It did n't do as well as it could have , \" said Rob Enderle , an analyst with Giga Information Group .",
+    "end_position": [
+      22
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "0.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "20;22"
+    ],
+    "start_position": [
+      20
+    ]
+  },
+  {
+    "context": "\" It did n't do as well as it could have , \" said Rob Enderle , an analyst with Giga Information Group .",
+    "end_position": [
+      15
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "0.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "14;15"
+    ],
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "context": "\" It did n't do as well as it could have , \" said Rob Enderle , an analyst with Giga Information Group .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "0.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" It did n't do as well as it could have , \" said Rob Enderle , an analyst with Giga Information Group .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "0.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Schalke 4 0 3 1 5 9 3",
+    "end_position": [
+      0
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "1.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Schalke 4 0 3 1 5 9 3",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Schalke 4 0 3 1 5 9 3",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "1.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Schalke 4 0 3 1 5 9 3",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "1.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Manchester City v Charlton , Norwich v Wolverhampton , Oldham v",
+    "end_position": [
+      1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;1",
+      "3;3",
+      "5;5",
+      "7;7",
+      "9;9"
+    ],
+    "start_position": [
+      0,
+      3,
+      5,
+      7,
+      9
+    ]
+  },
+  {
+    "context": "Manchester City v Charlton , Norwich v Wolverhampton , Oldham v",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Manchester City v Charlton , Norwich v Wolverhampton , Oldham v",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "2.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Manchester City v Charlton , Norwich v Wolverhampton , Oldham v",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "2.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "It did not provide details of KDP casualties and a PUK spokesman was not immediately available for comment .",
+    "end_position": [
+      6,
+      10
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "3.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "6;6",
+      "10;10"
+    ],
+    "start_position": [
+      6,
+      10
+    ]
+  },
+  {
+    "context": "It did not provide details of KDP casualties and a PUK spokesman was not immediately available for comment .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "3.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "It did not provide details of KDP casualties and a PUK spokesman was not immediately available for comment .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "3.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "It did not provide details of KDP casualties and a PUK spokesman was not immediately available for comment .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "3.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alaska Milk beat Purefoods Hotdogs 103-95 ( 34-48 half-time )",
+    "end_position": [
+      1,
+      4
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "4.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;1",
+      "3;4"
+    ],
+    "start_position": [
+      0,
+      3
+    ]
+  },
+  {
+    "context": "Alaska Milk beat Purefoods Hotdogs 103-95 ( 34-48 half-time )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "4.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alaska Milk beat Purefoods Hotdogs 103-95 ( 34-48 half-time )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "4.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alaska Milk beat Purefoods Hotdogs 103-95 ( 34-48 half-time )",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "4.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "We cannot object to people wanting to visit Nigeria , \" Ikimi told Reuters by telephone from the capital Abuja .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "5.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "13;13"
+    ],
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "context": "We cannot object to people wanting to visit Nigeria , \" Ikimi told Reuters by telephone from the capital Abuja .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "5.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "We cannot object to people wanting to visit Nigeria , \" Ikimi told Reuters by telephone from the capital Abuja .",
+    "end_position": [
+      8,
+      19
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "5.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "8;8",
+      "19;19"
+    ],
+    "start_position": [
+      8,
+      19
+    ]
+  },
+  {
+    "context": "We cannot object to people wanting to visit Nigeria , \" Ikimi told Reuters by telephone from the capital Abuja .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "5.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Feyenoord 2 ( Larsson 73rd , Van Gastel 83rd penalty ) Graafschap",
+    "end_position": [
+      0,
+      11
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "6.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;0",
+      "11;11"
+    ],
+    "start_position": [
+      0,
+      11
+    ]
+  },
+  {
+    "context": "Feyenoord 2 ( Larsson 73rd , Van Gastel 83rd penalty ) Graafschap",
+    "end_position": [
+      3,
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "6.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "3;3",
+      "6;7"
+    ],
+    "start_position": [
+      3,
+      6
+    ]
+  },
+  {
+    "context": "Feyenoord 2 ( Larsson 73rd , Van Gastel 83rd penalty ) Graafschap",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "6.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Feyenoord 2 ( Larsson 73rd , Van Gastel 83rd penalty ) Graafschap",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "6.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" Roy agreed a new deal before last night 's game against Everton and we are delighted , \" said United manager Alex Ferguson on Thursday .",
+    "end_position": [
+      12,
+      20
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "7.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "12;12",
+      "20;20"
+    ],
+    "start_position": [
+      12,
+      20
+    ]
+  },
+  {
+    "context": "\" Roy agreed a new deal before last night 's game against Everton and we are delighted , \" said United manager Alex Ferguson on Thursday .",
+    "end_position": [
+      1,
+      23
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "7.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;1",
+      "22;23"
+    ],
+    "start_position": [
+      1,
+      22
+    ]
+  },
+  {
+    "context": "\" Roy agreed a new deal before last night 's game against Everton and we are delighted , \" said United manager Alex Ferguson on Thursday .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "7.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" Roy agreed a new deal before last night 's game against Everton and we are delighted , \" said United manager Alex Ferguson on Thursday .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "7.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "An Iraqi Kurdish group on Wednesday said it had agreed a new U.S.-brokered ceasefire with a rival faction after a previous accord was shattered by sporadic fighting between the groups in recent days .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "8.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "An Iraqi Kurdish group on Wednesday said it had agreed a new U.S.-brokered ceasefire with a rival faction after a previous accord was shattered by sporadic fighting between the groups in recent days .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "8.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "An Iraqi Kurdish group on Wednesday said it had agreed a new U.S.-brokered ceasefire with a rival faction after a previous accord was shattered by sporadic fighting between the groups in recent days .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "8.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "An Iraqi Kurdish group on Wednesday said it had agreed a new U.S.-brokered ceasefire with a rival faction after a previous accord was shattered by sporadic fighting between the groups in recent days .",
+    "end_position": [
+      2,
+      12
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "8.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "1;2",
+      "12;12"
+    ],
+    "start_position": [
+      1,
+      12
+    ]
+  },
+  {
+    "context": "\" From an earnings perspective , the current fiscal year has begun with great promise due to the hit motion picture ' Independence Day , ' \" News Corp said in a statement announcing its results for the year to June 30 , 1996 .",
+    "end_position": [
+      28
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "9.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "27;28"
+    ],
+    "start_position": [
+      27
+    ]
+  },
+  {
+    "context": "\" From an earnings perspective , the current fiscal year has begun with great promise due to the hit motion picture ' Independence Day , ' \" News Corp said in a statement announcing its results for the year to June 30 , 1996 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "9.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" From an earnings perspective , the current fiscal year has begun with great promise due to the hit motion picture ' Independence Day , ' \" News Corp said in a statement announcing its results for the year to June 30 , 1996 .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "9.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" From an earnings perspective , the current fiscal year has begun with great promise due to the hit motion picture ' Independence Day , ' \" News Corp said in a statement announcing its results for the year to June 30 , 1996 .",
+    "end_position": [
+      23
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "9.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "22;23"
+    ],
+    "start_position": [
+      22
+    ]
+  },
+  {
+    "context": "\" The two-day visit will take place at the invitation of Jordanian Prime Minister Abdul-Karim al-Kabariti , \" he told reporters .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "10.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" The two-day visit will take place at the invitation of Jordanian Prime Minister Abdul-Karim al-Kabariti , \" he told reporters .",
+    "end_position": [
+      15
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "10.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "14;15"
+    ],
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "context": "\" The two-day visit will take place at the invitation of Jordanian Prime Minister Abdul-Karim al-Kabariti , \" he told reporters .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "10.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" The two-day visit will take place at the invitation of Jordanian Prime Minister Abdul-Karim al-Kabariti , \" he told reporters .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "10.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "\" After the ( Bosnian ) elections ( on September 14 ) the troops will start being reduced from the beginning of October from 60,000 to about 20,000 .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "11.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" After the ( Bosnian ) elections ( on September 14 ) the troops will start being reduced from the beginning of October from 60,000 to about 20,000 .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "11.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" After the ( Bosnian ) elections ( on September 14 ) the troops will start being reduced from the beginning of October from 60,000 to about 20,000 .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "11.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" After the ( Bosnian ) elections ( on September 14 ) the troops will start being reduced from the beginning of October from 60,000 to about 20,000 .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "11.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Seven Iraqi suspected hijackers surrendered and British police said they had apparently asked for political asylum .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "12.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Seven Iraqi suspected hijackers surrendered and British police said they had apparently asked for political asylum .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "12.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Seven Iraqi suspected hijackers surrendered and British police said they had apparently asked for political asylum .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "12.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Seven Iraqi suspected hijackers surrendered and British police said they had apparently asked for political asylum .",
+    "end_position": [
+      1,
+      6
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "12.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "1;1",
+      "6;6"
+    ],
+    "start_position": [
+      1,
+      6
+    ]
+  },
+  {
+    "context": "London FTSE-100 index -- 3,907.5 ( Aug 23/96 )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "13.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "London FTSE-100 index -- 3,907.5 ( Aug 23/96 )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "13.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "London FTSE-100 index -- 3,907.5 ( Aug 23/96 )",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "13.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "London FTSE-100 index -- 3,907.5 ( Aug 23/96 )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "13.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Berlin prosecutors said on Wednesday they had filed charges against two German men for sexually abusing children in Thailand and distributing pornographic films and pictures of their degrading acts .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "14.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Berlin prosecutors said on Wednesday they had filed charges against two German men for sexually abusing children in Thailand and distributing pornographic films and pictures of their degrading acts .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "14.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Berlin prosecutors said on Wednesday they had filed charges against two German men for sexually abusing children in Thailand and distributing pornographic films and pictures of their degrading acts .",
+    "end_position": [
+      0,
+      18
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "14.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0",
+      "18;18"
+    ],
+    "start_position": [
+      0,
+      18
+    ]
+  },
+  {
+    "context": "Berlin prosecutors said on Wednesday they had filed charges against two German men for sexually abusing children in Thailand and distributing pornographic films and pictures of their degrading acts .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "14.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "Christie , who is retiring from international competition at the end of the season , was not due to compete in the German capital but Berlin promoter Rudi Thiel said : \" We are still hopeful of getting him to come . \"",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "15.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Christie , who is retiring from international competition at the end of the season , was not due to compete in the German capital but Berlin promoter Rudi Thiel said : \" We are still hopeful of getting him to come . \"",
+    "end_position": [
+      0,
+      28
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "15.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;0",
+      "27;28"
+    ],
+    "start_position": [
+      0,
+      27
+    ]
+  },
+  {
+    "context": "Christie , who is retiring from international competition at the end of the season , was not due to compete in the German capital but Berlin promoter Rudi Thiel said : \" We are still hopeful of getting him to come . \"",
+    "end_position": [
+      25
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "15.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "25;25"
+    ],
+    "start_position": [
+      25
+    ]
+  },
+  {
+    "context": "Christie , who is retiring from international competition at the end of the season , was not due to compete in the German capital but Berlin promoter Rudi Thiel said : \" We are still hopeful of getting him to come . \"",
+    "end_position": [
+      22
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "15.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "22;22"
+    ],
+    "start_position": [
+      22
+    ]
+  },
+  {
+    "context": "The side from northern France , forced to fight an uphill battle from then on , pulled level thanks to Tony Vairelles in the eighth minute but young striker Fabien Lefevre made it two for Montpellier five minutes later .",
+    "end_position": [
+      35
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "16.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "35;35"
+    ],
+    "start_position": [
+      35
+    ]
+  },
+  {
+    "context": "The side from northern France , forced to fight an uphill battle from then on , pulled level thanks to Tony Vairelles in the eighth minute but young striker Fabien Lefevre made it two for Montpellier five minutes later .",
+    "end_position": [
+      21,
+      30
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "16.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "20;21",
+      "29;30"
+    ],
+    "start_position": [
+      20,
+      29
+    ]
+  },
+  {
+    "context": "The side from northern France , forced to fight an uphill battle from then on , pulled level thanks to Tony Vairelles in the eighth minute but young striker Fabien Lefevre made it two for Montpellier five minutes later .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "16.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "The side from northern France , forced to fight an uphill battle from then on , pulled level thanks to Tony Vairelles in the eighth minute but young striker Fabien Lefevre made it two for Montpellier five minutes later .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "16.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Weiss said the Australian share market had been somewhat negative for much of 1996 and this had some effect on the company 's first half results .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "17.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Weiss said the Australian share market had been somewhat negative for much of 1996 and this had some effect on the company 's first half results .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "17.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Weiss said the Australian share market had been somewhat negative for much of 1996 and this had some effect on the company 's first half results .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "17.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Weiss said the Australian share market had been somewhat negative for much of 1996 and this had some effect on the company 's first half results .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "17.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "The $ 378,000 first place check brings Mickelson back to the top of the money list with $ 1,574,799 won this year .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "18.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The $ 378,000 first place check brings Mickelson back to the top of the money list with $ 1,574,799 won this year .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "18.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "The $ 378,000 first place check brings Mickelson back to the top of the money list with $ 1,574,799 won this year .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "18.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The $ 378,000 first place check brings Mickelson back to the top of the money list with $ 1,574,799 won this year .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "18.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Rosado ( 5-3 ) allowed two runs -- one earned -- and seven hits over 8-2/3 innings with three walks and six strikeouts .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "19.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Rosado ( 5-3 ) allowed two runs -- one earned -- and seven hits over 8-2/3 innings with three walks and six strikeouts .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "19.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Rosado ( 5-3 ) allowed two runs -- one earned -- and seven hits over 8-2/3 innings with three walks and six strikeouts .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "19.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Rosado ( 5-3 ) allowed two runs -- one earned -- and seven hits over 8-2/3 innings with three walks and six strikeouts .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "19.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dole 's remarks prompted questions about whether he was seeking a ban on cigarettes . \"",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "20.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dole 's remarks prompted questions about whether he was seeking a ban on cigarettes . \"",
+    "end_position": [
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "20.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Dole 's remarks prompted questions about whether he was seeking a ban on cigarettes . \"",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "20.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dole 's remarks prompted questions about whether he was seeking a ban on cigarettes . \"",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "20.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Jeff Tarango ( U.S. ) vs. Alex Radulescu ( Germany )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "21.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Jeff Tarango ( U.S. ) vs. Alex Radulescu ( Germany )",
+    "end_position": [
+      1,
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "21.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1",
+      "6;7"
+    ],
+    "start_position": [
+      0,
+      6
+    ]
+  },
+  {
+    "context": "Jeff Tarango ( U.S. ) vs. Alex Radulescu ( Germany )",
+    "end_position": [
+      3,
+      9
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "21.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "3;3",
+      "9;9"
+    ],
+    "start_position": [
+      3,
+      9
+    ]
+  },
+  {
+    "context": "Jeff Tarango ( U.S. ) vs. Alex Radulescu ( Germany )",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "21.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Qualifier vs. Michael Stich ( Germany )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "22.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Qualifier vs. Michael Stich ( Germany )",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "22.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Qualifier vs. Michael Stich ( Germany )",
+    "end_position": [
+      5
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "22.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Qualifier vs. Michael Stich ( Germany )",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "22.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" Edgar is a tremendous player right now , \" said Florida manager John Boles . \"",
+    "end_position": [
+      11
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "23.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "\" Edgar is a tremendous player right now , \" said Florida manager John Boles . \"",
+    "end_position": [
+      1,
+      14
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "23.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;1",
+      "13;14"
+    ],
+    "start_position": [
+      1,
+      13
+    ]
+  },
+  {
+    "context": "\" Edgar is a tremendous player right now , \" said Florida manager John Boles . \"",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "23.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "\" Edgar is a tremendous player right now , \" said Florida manager John Boles . \"",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "23.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Chicago 1996-08-29",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "24.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Chicago 1996-08-29",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "24.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Chicago 1996-08-29",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "24.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Chicago 1996-08-29",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "24.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Traders in Asia said CNIEC could well have lent it to the market at around US$ 2,700 a tonne , and then paid somewhere between $ 2,200 and $ 2,400 a tonne when it started taking the metal back earlier this year .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "25.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Traders in Asia said CNIEC could well have lent it to the market at around US$ 2,700 a tonne , and then paid somewhere between $ 2,200 and $ 2,400 a tonne when it started taking the metal back earlier this year .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "25.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Traders in Asia said CNIEC could well have lent it to the market at around US$ 2,700 a tonne , and then paid somewhere between $ 2,200 and $ 2,400 a tonne when it started taking the metal back earlier this year .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "25.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Traders in Asia said CNIEC could well have lent it to the market at around US$ 2,700 a tonne , and then paid somewhere between $ 2,200 and $ 2,400 a tonne when it started taking the metal back earlier this year .",
+    "end_position": [
+      15
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "25.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "15;15"
+    ],
+    "start_position": [
+      15
+    ]
+  },
+  {
+    "context": "Karol Kucera ( Slovakia ) beat Hicham Arazi ( Morocco ) 7-6 ( 7-4 )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "26.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Karol Kucera ( Slovakia ) beat Hicham Arazi ( Morocco ) 7-6 ( 7-4 )",
+    "end_position": [
+      1,
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "26.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1",
+      "6;7"
+    ],
+    "start_position": [
+      0,
+      6
+    ]
+  },
+  {
+    "context": "Karol Kucera ( Slovakia ) beat Hicham Arazi ( Morocco ) 7-6 ( 7-4 )",
+    "end_position": [
+      3,
+      9
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "26.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "3;3",
+      "9;9"
+    ],
+    "start_position": [
+      3,
+      9
+    ]
+  },
+  {
+    "context": "Karol Kucera ( Slovakia ) beat Hicham Arazi ( Morocco ) 7-6 ( 7-4 )",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "26.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "London 3,907.5 +16.4 3,907.5 3,632.3",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "27.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "London 3,907.5 +16.4 3,907.5 3,632.3",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "27.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "London 3,907.5 +16.4 3,907.5 3,632.3",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "27.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "London 3,907.5 +16.4 3,907.5 3,632.3",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "27.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Harvest was also progressing well in parts of North Dakota , but one dealer there said new crop movement remained limited to a steady trickle . \"",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "28.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Harvest was also progressing well in parts of North Dakota , but one dealer there said new crop movement remained limited to a steady trickle . \"",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "28.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Harvest was also progressing well in parts of North Dakota , but one dealer there said new crop movement remained limited to a steady trickle . \"",
+    "end_position": [
+      9
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "28.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "8;9"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "Harvest was also progressing well in parts of North Dakota , but one dealer there said new crop movement remained limited to a steady trickle . \"",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "28.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The explosion was the latest in series of bomb attacks in Algeria 's four-year-old civil strife .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "29.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The explosion was the latest in series of bomb attacks in Algeria 's four-year-old civil strife .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "29.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The explosion was the latest in series of bomb attacks in Algeria 's four-year-old civil strife .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "29.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "The explosion was the latest in series of bomb attacks in Algeria 's four-year-old civil strife .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "29.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kathmandu 1996-08-23",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "30.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kathmandu 1996-08-23",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "30.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kathmandu 1996-08-23",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "30.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Kathmandu 1996-08-23",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "30.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Portsmouth : Middlesex 199 and 226-1 ( J. Pooley 106 not out , M. Ramprakash 81 not out ) , Hampshire 232 ( A. Fraser 5-55 , R. Fay 4-77 )",
+    "end_position": [
+      2,
+      20
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "31.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "2;2",
+      "20;20"
+    ],
+    "start_position": [
+      2,
+      20
+    ]
+  },
+  {
+    "context": "Portsmouth : Middlesex 199 and 226-1 ( J. Pooley 106 not out , M. Ramprakash 81 not out ) , Hampshire 232 ( A. Fraser 5-55 , R. Fay 4-77 )",
+    "end_position": [
+      8,
+      14,
+      24,
+      28
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "31.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;8",
+      "13;14",
+      "23;24",
+      "27;28"
+    ],
+    "start_position": [
+      7,
+      13,
+      23,
+      27
+    ]
+  },
+  {
+    "context": "Portsmouth : Middlesex 199 and 226-1 ( J. Pooley 106 not out , M. Ramprakash 81 not out ) , Hampshire 232 ( A. Fraser 5-55 , R. Fay 4-77 )",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "31.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Portsmouth : Middlesex 199 and 226-1 ( J. Pooley 106 not out , M. Ramprakash 81 not out ) , Hampshire 232 ( A. Fraser 5-55 , R. Fay 4-77 )",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "31.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  }
+]

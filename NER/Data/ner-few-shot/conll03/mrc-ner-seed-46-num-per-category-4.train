@@ -1,0 +1,909 @@
+[
+  {
+    "context": "Lancashire 13 1 4 8 38 37 115",
+    "end_position": [
+      0
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "0.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Lancashire 13 1 4 8 38 37 115",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "0.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Lancashire 13 1 4 8 38 37 115",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "0.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Lancashire 13 1 4 8 38 37 115",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "0.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "A Xinhua commentary earlier this year said a plot by the West to force its human rights standards and values on other countries was doomed to failure .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "1.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "A Xinhua commentary earlier this year said a plot by the West to force its human rights standards and values on other countries was doomed to failure .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "A Xinhua commentary earlier this year said a plot by the West to force its human rights standards and values on other countries was doomed to failure .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "1.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "A Xinhua commentary earlier this year said a plot by the West to force its human rights standards and values on other countries was doomed to failure .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "1.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "Under the election rules citizens vote for a three-man presidency and House of Representatives for all Bosnia-Hercegovina and for assemblies and cantonal seats in either the Moslem-Croat Federation or the Republika Srbska .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "11;13"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "Under the election rules citizens vote for a three-man presidency and House of Representatives for all Bosnia-Hercegovina and for assemblies and cantonal seats in either the Moslem-Croat Federation or the Republika Srbska .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Under the election rules citizens vote for a three-man presidency and House of Representatives for all Bosnia-Hercegovina and for assemblies and cantonal seats in either the Moslem-Croat Federation or the Republika Srbska .",
+    "end_position": [
+      16,
+      27,
+      31
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "2.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "16;16",
+      "26;27",
+      "30;31"
+    ],
+    "start_position": [
+      16,
+      26,
+      30
+    ]
+  },
+  {
+    "context": "Under the election rules citizens vote for a three-man presidency and House of Representatives for all Bosnia-Hercegovina and for assemblies and cantonal seats in either the Moslem-Croat Federation or the Republika Srbska .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "2.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "An ISS statement said that Aaxis , with year-end 1996 assets of US$ 10.9 million and equity of $ 10.5 million , would be listed on the Montreal stock exchange , but did not say when .",
+    "end_position": [
+      1,
+      5
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "3.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "1;1",
+      "5;5"
+    ],
+    "start_position": [
+      1,
+      5
+    ]
+  },
+  {
+    "context": "An ISS statement said that Aaxis , with year-end 1996 assets of US$ 10.9 million and equity of $ 10.5 million , would be listed on the Montreal stock exchange , but did not say when .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "3.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "An ISS statement said that Aaxis , with year-end 1996 assets of US$ 10.9 million and equity of $ 10.5 million , would be listed on the Montreal stock exchange , but did not say when .",
+    "end_position": [
+      27
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "3.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "27;27"
+    ],
+    "start_position": [
+      27
+    ]
+  },
+  {
+    "context": "An ISS statement said that Aaxis , with year-end 1996 assets of US$ 10.9 million and equity of $ 10.5 million , would be listed on the Montreal stock exchange , but did not say when .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "3.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "12;12"
+    ],
+    "start_position": [
+      12
+    ]
+  },
+  {
+    "context": "The Palestinian Legislative Council on Wednesday called for a halt to contacts with Israel , just hours after President Yasser Arafat said the Jewish state had effectively declared war on the Palestinians by pursuing its hardline policies .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "4.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "The Palestinian Legislative Council on Wednesday called for a halt to contacts with Israel , just hours after President Yasser Arafat said the Jewish state had effectively declared war on the Palestinians by pursuing its hardline policies .",
+    "end_position": [
+      20
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "4.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "19;20"
+    ],
+    "start_position": [
+      19
+    ]
+  },
+  {
+    "context": "The Palestinian Legislative Council on Wednesday called for a halt to contacts with Israel , just hours after President Yasser Arafat said the Jewish state had effectively declared war on the Palestinians by pursuing its hardline policies .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "4.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "13;13"
+    ],
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "context": "The Palestinian Legislative Council on Wednesday called for a halt to contacts with Israel , just hours after President Yasser Arafat said the Jewish state had effectively declared war on the Palestinians by pursuing its hardline policies .",
+    "end_position": [
+      23,
+      31
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "4.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "23;23",
+      "31;31"
+    ],
+    "start_position": [
+      23,
+      31
+    ]
+  },
+  {
+    "context": "Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "5.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "5.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",
+    "end_position": [
+      7,
+      9
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "5.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "7;7",
+      "9;9"
+    ],
+    "start_position": [
+      7,
+      9
+    ]
+  },
+  {
+    "context": "Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",
+    "end_position": [
+      2,
+      19,
+      21
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "5.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "2;2",
+      "17;19",
+      "21;21"
+    ],
+    "start_position": [
+      2,
+      17,
+      21
+    ]
+  },
+  {
+    "context": "The draw made on Friday pitted Juventus , who beat Dutch champions Ajax Amsterdam 4-2 on penalties in last year 's final , against Alex Ferguson 's European hopefuls in group C .",
+    "end_position": [
+      6,
+      13
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "6.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "6;6",
+      "12;13"
+    ],
+    "start_position": [
+      6,
+      12
+    ]
+  },
+  {
+    "context": "The draw made on Friday pitted Juventus , who beat Dutch champions Ajax Amsterdam 4-2 on penalties in last year 's final , against Alex Ferguson 's European hopefuls in group C .",
+    "end_position": [
+      25
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "6.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "24;25"
+    ],
+    "start_position": [
+      24
+    ]
+  },
+  {
+    "context": "The draw made on Friday pitted Juventus , who beat Dutch champions Ajax Amsterdam 4-2 on penalties in last year 's final , against Alex Ferguson 's European hopefuls in group C .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "6.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The draw made on Friday pitted Juventus , who beat Dutch champions Ajax Amsterdam 4-2 on penalties in last year 's final , against Alex Ferguson 's European hopefuls in group C .",
+    "end_position": [
+      10,
+      27
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "6.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "10;10",
+      "27;27"
+    ],
+    "start_position": [
+      10,
+      27
+    ]
+  },
+  {
+    "context": "Soccer - Dutch first division summary .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "7.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Soccer - Dutch first division summary .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "7.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Soccer - Dutch first division summary .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "7.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Soccer - Dutch first division summary .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "7.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "6. Francis Agyepong ( Britain ) 16.63",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "8.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "6. Francis Agyepong ( Britain ) 16.63",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "8.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "6. Francis Agyepong ( Britain ) 16.63",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "8.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "6. Francis Agyepong ( Britain ) 16.63",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "8.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2. Kocinski 38:19.313",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "9.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2. Kocinski 38:19.313",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "9.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "2. Kocinski 38:19.313",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "9.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2. Kocinski 38:19.313",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "9.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The officials said New Party Sakigake President Masayoshi Takemura , finance minister until the beginning of this year , promised his resignation in a meeting with the politician who set off the rebellion in the smallest coalition member .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "10.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "3;5"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "The officials said New Party Sakigake President Masayoshi Takemura , finance minister until the beginning of this year , promised his resignation in a meeting with the politician who set off the rebellion in the smallest coalition member .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "10.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "The officials said New Party Sakigake President Masayoshi Takemura , finance minister until the beginning of this year , promised his resignation in a meeting with the politician who set off the rebellion in the smallest coalition member .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "10.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "The officials said New Party Sakigake President Masayoshi Takemura , finance minister until the beginning of this year , promised his resignation in a meeting with the politician who set off the rebellion in the smallest coalition member .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "10.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Baldwin ( 10-4 ) struck out four and did not walk a batter for Chicago , which won for only the fourth time in 15 games .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "11.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Baldwin ( 10-4 ) struck out four and did not walk a batter for Chicago , which won for only the fourth time in 15 games .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "11.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Baldwin ( 10-4 ) struck out four and did not walk a batter for Chicago , which won for only the fourth time in 15 games .",
+    "end_position": [
+      14
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "11.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "14;14"
+    ],
+    "start_position": [
+      14
+    ]
+  },
+  {
+    "context": "Baldwin ( 10-4 ) struck out four and did not walk a batter for Chicago , which won for only the fourth time in 15 games .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "11.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Michael Tebbutt ( Australia ) beat Richey Reneberg ( U.S. ) 3-6",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "12.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Michael Tebbutt ( Australia ) beat Richey Reneberg ( U.S. ) 3-6",
+    "end_position": [
+      1,
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "12.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1",
+      "6;7"
+    ],
+    "start_position": [
+      0,
+      6
+    ]
+  },
+  {
+    "context": "Michael Tebbutt ( Australia ) beat Richey Reneberg ( U.S. ) 3-6",
+    "end_position": [
+      3,
+      9
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "12.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "3;3",
+      "9;9"
+    ],
+    "start_position": [
+      3,
+      9
+    ]
+  },
+  {
+    "context": "Michael Tebbutt ( Australia ) beat Richey Reneberg ( U.S. ) 3-6",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "12.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "9/16 - Luo Yigang ( China ) beat Hwang Sun-ho ( South Korea ) 15-3",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "13.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "9/16 - Luo Yigang ( China ) beat Hwang Sun-ho ( South Korea ) 15-3",
+    "end_position": [
+      3,
+      8
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "13.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "2;3",
+      "8;8"
+    ],
+    "start_position": [
+      2,
+      8
+    ]
+  },
+  {
+    "context": "9/16 - Luo Yigang ( China ) beat Hwang Sun-ho ( South Korea ) 15-3",
+    "end_position": [
+      5,
+      12
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "13.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "5;5",
+      "11;12"
+    ],
+    "start_position": [
+      5,
+      11
+    ]
+  },
+  {
+    "context": "9/16 - Luo Yigang ( China ) beat Hwang Sun-ho ( South Korea ) 15-3",
+    "end_position": [
+      9
+    ],
+    "entity_label": "MISC",
+    "impossible": false,
+    "qas_id": "13.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [
+      "9;9"
+    ],
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "context": "PRETORIA , Aug 25 - Captain Sean Fitzpatrick and his All Blacks revisited the test venue today to relive some of the magic moments of yesterday 's momentous rugby victory over South Africa , NZPA reported .",
+    "end_position": [
+      11,
+      34
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "14.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [
+      "10;11",
+      "34;34"
+    ],
+    "start_position": [
+      10,
+      34
+    ]
+  },
+  {
+    "context": "PRETORIA , Aug 25 - Captain Sean Fitzpatrick and his All Blacks revisited the test venue today to relive some of the magic moments of yesterday 's momentous rugby victory over South Africa , NZPA reported .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "14.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "6;7"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "PRETORIA , Aug 25 - Captain Sean Fitzpatrick and his All Blacks revisited the test venue today to relive some of the magic moments of yesterday 's momentous rugby victory over South Africa , NZPA reported .",
+    "end_position": [
+      0,
+      32
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "14.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "0;0",
+      "31;32"
+    ],
+    "start_position": [
+      0,
+      31
+    ]
+  },
+  {
+    "context": "PRETORIA , Aug 25 - Captain Sean Fitzpatrick and his All Blacks revisited the test venue today to relive some of the magic moments of yesterday 's momentous rugby victory over South Africa , NZPA reported .",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "14.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Jonas Bjorkman ( Sweden ) beat Karol Kucera ( Slovakia ) 6-2 5-7 7- 6 ( 7-3 ) 7-5",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "15.0",
+    "query": "organization entities are limited to named corporate, governmental, or other organizational entities.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Jonas Bjorkman ( Sweden ) beat Karol Kucera ( Slovakia ) 6-2 5-7 7- 6 ( 7-3 ) 7-5",
+    "end_position": [
+      1,
+      7
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "15.1",
+    "query": "person entities are named persons or family.",
+    "span_position": [
+      "0;1",
+      "6;7"
+    ],
+    "start_position": [
+      0,
+      6
+    ]
+  },
+  {
+    "context": "Jonas Bjorkman ( Sweden ) beat Karol Kucera ( Slovakia ) 6-2 5-7 7- 6 ( 7-3 ) 7-5",
+    "end_position": [
+      3,
+      9
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "15.2",
+    "query": "location entities are the name of politically or geographically defined locations such as cities, provinces, countries, international regions, bodies of water, mountains, etc.",
+    "span_position": [
+      "3;3",
+      "9;9"
+    ],
+    "start_position": [
+      3,
+      9
+    ]
+  },
+  {
+    "context": "Jonas Bjorkman ( Sweden ) beat Karol Kucera ( Slovakia ) 6-2 5-7 7- 6 ( 7-3 ) 7-5",
+    "end_position": [],
+    "entity_label": "MISC",
+    "impossible": true,
+    "qas_id": "15.3",
+    "query": "examples of miscellaneous entities include events, nationalities, products and works of art.",
+    "span_position": [],
+    "start_position": []
+  }
+]
