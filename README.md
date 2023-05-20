@@ -1,4 +1,4 @@
-# Pre-trained Machine Reader (PMR)
+# Pre-training with Machine Reader (PMR)
 - This repo contains the code, the pre-trained checkpoints and the pre-training data for the following papers
   -  [From Cloze to Comprehension: Retrofitting Pre-trained Language Models to Pre-trained Machine Readers](https://arxiv.org/pdf/2212.04755.pdf), arXiv:2212.04755.
   -  [mPMR: A Multilingual Pre-trained Machine Reader at Scale](), ACL 2023.
