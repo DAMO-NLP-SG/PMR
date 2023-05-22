@@ -61,7 +61,7 @@
       ```
 
 
-## Pre-training
+## Pre-training (Optinal)
 Once we get the cached file, we can start pre-training. Please refer to the following codes for pre-training PMR/mPMR models.
 ```
 bash train.sh           ## Notes: PMR on top of RoBERTa-base
@@ -71,6 +71,12 @@ bash mtrain.sh          ## Notes: mPMR on top of XLMR-base
 bash mtrain-large.sh    ## Notes: mPMR on top of XLMR-large
 ```
 
+## Pre-trained Models
+[PMR-base](https://huggingface.co/DAMO-NLP-SG/PMR-base)
+[PMR-large](https://huggingface.co/DAMO-NLP-SG/PMR-large)
+[PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge)
+[mPMR-base](https://huggingface.co/DAMO-NLP-SG/mPMR-base)
+[mPMR-large](https://huggingface.co/DAMO-NLP-SG/mPMR-large)
 
 ## Fine-tuning 
 * The downstream datasets are provided in ```$task/Data/$dataset```.
