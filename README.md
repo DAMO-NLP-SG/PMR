@@ -72,11 +72,14 @@ bash mtrain-large.sh    ## Notes: mPMR on top of XLMR-large
 ```
 
 ## Pre-trained Models
-[PMR-base](https://huggingface.co/DAMO-NLP-SG/PMR-base)
-[PMR-large](https://huggingface.co/DAMO-NLP-SG/PMR-large)
-[PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge)
-[mPMR-base](https://huggingface.co/DAMO-NLP-SG/mPMR-base)
-[mPMR-large](https://huggingface.co/DAMO-NLP-SG/mPMR-large)
+| Model                                                         | HF_Name                 |
+|---------------------------------------------------------------|-------------------------|
+| [PMR-base](https://huggingface.co/DAMO-NLP-SG/PMR-base)       | DAMO-NLP-SG/PMR-base    |  
+| [PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge) | DAMO-NLP-SG/PMR-large   |
+| [PMR-large](https://huggingface.co/DAMO-NLP-SG/PMR-large)     | DAMO-NLP-SG/PMR-xxlarge |
+| [mPMR-base](https://huggingface.co/DAMO-NLP-SG/mPMR-base)     | DAMO-NLP-SG/mPMR-base   |
+| [mPMR-large](https://huggingface.co/DAMO-NLP-SG/mPMR-large)   | DAMO-NLP-SG/mPMR-large  |
+
 
 ## Fine-tuning 
 * The downstream datasets are provided in ```$task/Data/$dataset```.
