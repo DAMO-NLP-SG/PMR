@@ -40,7 +40,7 @@
       ```
 2. mPMR
 
-   1. We downloaded the English Wikipedia dump (2022-01-01) from [Wikimedia](https://dumps.wikimedia.org/enwiki) and preprocessed it with [WikiExtractor](https://github.com/attardi/wikiextractor). 
+   1. We downloaded the English Wikipedia dump (2022-08-01) from [Wikimedia](https://dumps.wikimedia.org/enwiki) and preprocessed it with [WikiExtractor](https://github.com/attardi/wikiextractor). 
    The following code is our command to extract plain text with hyperlinks from the Wiki dump, which will create a folder named ``en`` that stores all extracted pages.
        ```     
        python WikiExtractor.py enwiki-20220801-pages-articles.xml.bz2 -c -l --json -o en   
