@@ -7,7 +7,7 @@ task=NER
 CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2  $task/train-NER.py \
         --output_dir ./saved_models/ace04-PMR-base \
         --model_type roberta \
-        --model_name_or_path  ../saved_models/PMR-base --cache_dir ../cache \
+        --model_name_or_path  DAMO-NLP-SG/PMR-base --cache_dir ../cache \
         --data_path ./Data/ace2004 \
         --do_train --do_eval --do_lower_case \
         --learning_rate 2e-5 \

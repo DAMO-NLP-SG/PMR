@@ -1,0 +1,3617 @@
+[
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù-Ìwọòrùn Akoko",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "0.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù-Ìwọòrùn Akoko",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "0.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù-Ìwọòrùn Akoko",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "0.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "' '' ' '' je ìlú ní Nàìjíríà .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "1.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' je ìlú ní Nàìjíríà .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' je ìlú ní Nàìjíríà .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "1.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "' '' Vaduz '' ' , Líktẹ́nstáìnì",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "2.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Vaduz '' ' , Líktẹ́nstáìnì",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Vaduz '' ' , Líktẹ́nstáìnì",
+    "end_position": [
+      2,
+      6
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "2.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "2;2",
+      "6;6"
+    ],
+    "start_position": [
+      2,
+      6
+    ]
+  },
+  {
+    "context": "Sloane Stephens '' ( Fourth round )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "3.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sloane Stephens '' ( Fourth round )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "3.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Sloane Stephens '' ( Fourth round )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "3.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "** Windows XP ( 2001 )",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "4.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "** Windows XP ( 2001 )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "4.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "** Windows XP ( 2001 )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "4.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àgbájọ àwọn Orílẹ̀-èdè Aṣòkan",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "5.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Àgbájọ àwọn Orílẹ̀-èdè Aṣòkan",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "5.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àgbájọ àwọn Orílẹ̀-èdè Aṣòkan",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "5.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Martin Luther King , Jr .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "6.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Martin Luther King , Jr .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "6.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;5"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Martin Luther King , Jr .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "6.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yunifásítì ìlú Ilorin",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "7.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Yunifásítì ìlú Ilorin",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "7.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yunifásítì ìlú Ilorin",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "7.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Innocent 5k",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "8.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Innocent 5k",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "8.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Pópù Innocent 5k",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "8.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Mubi",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "9.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Mubi",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "9.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Mubi",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "9.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "10.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "10.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "10.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Àwọn ìṣẹ̀lẹ̀ ìdánilóró September 11 , 2001",
+    "end_position": [
+      6
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "11.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;6"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Àwọn ìṣẹ̀lẹ̀ ìdánilóró September 11 , 2001",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "11.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àwọn ìṣẹ̀lẹ̀ ìdánilóró September 11 , 2001",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "11.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sérbíà àti Montenégrò",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "12.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Sérbíà àti Montenégrò",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "12.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sérbíà àti Montenégrò",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "12.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Paschal 2k",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "13.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Paschal 2k",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "13.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Pópù Paschal 2k",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "13.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' je ìlú ní Nàìjíríà .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "14.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' je ìlú ní Nàìjíríà .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "14.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' je ìlú ní Nàìjíríà .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "14.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Yunifásítì ìlú Ìbàdàn",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "15.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Yunifásítì ìlú Ìbàdàn",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "15.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yunifásítì ìlú Ìbàdàn",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "15.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dáníẹ́l O. Fágúnwà",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "16.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dáníẹ́l O. Fágúnwà",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "16.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Dáníẹ́l O. Fágúnwà",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "16.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Muhammad ibn Mūsā al-Khwārizmī",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "17.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Muhammad ibn Mūsā al-Khwārizmī",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "17.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Muhammad ibn Mūsā al-Khwārizmī",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "17.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yunifásítì ìlú Calabar",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "18.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Yunifásítì ìlú Calabar",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "18.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yunifásítì ìlú Calabar",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "18.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Gúúsù Áfríkà",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "19.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Gúúsù Áfríkà",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "19.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Gúúsù Áfríkà",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "19.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Suara Àlàní Bánkọ́lé",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "20.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Suara Àlàní Bánkọ́lé",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "20.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Suara Àlàní Bánkọ́lé",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "20.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gummi",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "21.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gummi",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "21.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gummi",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "21.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Agbègbè Apáàríwá Nàìjíríà",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "22.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Apáàríwá Nàìjíríà",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "22.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Apáàríwá Nàìjíríà",
+    "end_position": [
+      2
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "22.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Ajingi",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "23.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Ajingi",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "23.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Ajingi",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "23.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "' '' ' '' je ìlú ní Nàìjíríà .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "24.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' je ìlú ní Nàìjíríà .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "24.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' je ìlú ní Nàìjíríà .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "24.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Bokkos",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "25.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Bokkos",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "25.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Bokkos",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "25.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ilé-ìgbìmọ̀ Aṣòfin Oníbínibí ilẹ̀ Nàìjíríà",
+    "end_position": [
+      4
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "26.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ilé-ìgbìmọ̀ Aṣòfin Oníbínibí ilẹ̀ Nàìjíríà",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "26.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ilé-ìgbìmọ̀ Aṣòfin Oníbínibí ilẹ̀ Nàìjíríà",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "26.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ìpínlẹ̀ Akwa Íbọm",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "27.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ìpínlẹ̀ Akwa Íbọm",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "27.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ìpínlẹ̀ Akwa Íbọm",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "27.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Sixtus 1k",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "28.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Sixtus 1k",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "28.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Pópù Sixtus 1k",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "28.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Dange-Shuni",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "29.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Dange-Shuni",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "29.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Dange-Shuni",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "29.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Ohaukwu",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "30.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Ohaukwu",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "30.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Ohaukwu",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "30.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Yunifásítì ìlú Ebute Harcourt",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "31.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Yunifásítì ìlú Ebute Harcourt",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "31.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yunifásítì ìlú Ebute Harcourt",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "31.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ẹgbẹ́ agbábọ́ọ̀lù-ẹlẹ́sẹ̀ ọmọorílẹ̀-èdè Nàìjíríà",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "32.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ẹgbẹ́ agbábọ́ọ̀lù-ẹlẹ́sẹ̀ ọmọorílẹ̀-èdè Nàìjíríà",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "32.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ẹgbẹ́ agbábọ́ọ̀lù-ẹlẹ́sẹ̀ ọmọorílẹ̀-èdè Nàìjíríà",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "32.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Samantha Stosur '' ( First round )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "33.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Samantha Stosur '' ( First round )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "33.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Samantha Stosur '' ( First round )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "33.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Damban",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "34.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Damban",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "34.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Damban",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "34.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ẹgbẹ́ Olóṣèlúaráìlú àwọn Aráàlù ( Nàìjíríà )",
+    "end_position": [
+      6
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "35.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;6"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ẹgbẹ́ Olóṣèlúaráìlú àwọn Aráàlù ( Nàìjíríà )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "35.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ẹgbẹ́ Olóṣèlúaráìlú àwọn Aráàlù ( Nàìjíríà )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "35.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ibi Ọ̀ṣọ́ Àgbáyé",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "36.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ibi Ọ̀ṣọ́ Àgbáyé",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "36.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ibi Ọ̀ṣọ́ Àgbáyé",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "36.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Okitipupa",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "37.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Okitipupa",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "37.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Okitipupa",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "37.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Pápá Eréìdárayá Mbombela",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "38.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Pápá Eréìdárayá Mbombela",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "38.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pápá Eréìdárayá Mbombela",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "38.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Brasil",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "39.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Brasil",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "39.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Brasil",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "39.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Màríà ( ìyá Jésù )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "40.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Màríà ( ìyá Jésù )",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "40.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Màríà ( ìyá Jésù )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "40.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ó gboyè Enjiníà ní Ilẹ̀gẹ̀ẹ́sì .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "41.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ó gboyè Enjiníà ní Ilẹ̀gẹ̀ẹ́sì .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "41.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ó gboyè Enjiníà ní Ilẹ̀gẹ̀ẹ́sì .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "41.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Àwọn Ìpínlẹ̀ Orílẹ̀-èdè Amẹ́ríkà",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "42.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àwọn Ìpínlẹ̀ Orílẹ̀-èdè Amẹ́ríkà",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "42.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àwọn Ìpínlẹ̀ Orílẹ̀-èdè Amẹ́ríkà",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "42.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Prime Minister]] Yousaf Raza Gillani",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "43.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Prime Minister]] Yousaf Raza Gillani",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "43.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "2;4"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Prime Minister]] Yousaf Raza Gillani",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "43.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gbako",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "44.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gbako",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "44.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gbako",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "44.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ben Okri ( 1959– )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "45.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ben Okri ( 1959– )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "45.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ben Okri ( 1959– )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "45.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Louis 9k ilẹ̀ Fránsì",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "46.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Louis 9k ilẹ̀ Fránsì",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "46.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Louis 9k ilẹ̀ Fránsì",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "46.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Stanley Cohen ( aṣeògùn-alàyè )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "47.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Stanley Cohen ( aṣeògùn-alàyè )",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "47.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Stanley Cohen ( aṣeògùn-alàyè )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "47.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Song",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "48.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Song",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "48.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Song",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "48.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ignatius Kutu Acheampong",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "49.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ignatius Kutu Acheampong",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "49.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ignatius Kutu Acheampong",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "49.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Anastasia Pavlyuchenkova '' ( First round )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "50.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Anastasia Pavlyuchenkova '' ( First round )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "50.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Anastasia Pavlyuchenkova '' ( First round )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "50.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Tenczynek '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "51.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Tenczynek '' '",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "51.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Tenczynek '' '",
+    "end_position": [
+      2
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "51.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Nàìjíríà",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "52.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Nàìjíríà",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "52.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Nàìjíríà",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "52.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tamarine Tanasugarn '' ( Third Round )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "53.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tamarine Tanasugarn '' ( Third Round )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "53.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Tamarine Tanasugarn '' ( Third Round )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "53.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Wudil",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "54.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Wudil",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "54.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Wudil",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "54.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Tamarine Tanasugarn '' ( Fourth Round ) ''",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "55.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tamarine Tanasugarn '' ( Fourth Round ) ''",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "55.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Tamarine Tanasugarn '' ( Fourth Round ) ''",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "55.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Antonio López de Santa Anna",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "56.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Antonio López de Santa Anna",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "56.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Antonio López de Santa Anna",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "56.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àgbájọ àwọn Orílẹ̀-èdè Aṣòkan",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "57.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Àgbájọ àwọn Orílẹ̀-èdè Aṣòkan",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "57.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àgbájọ àwọn Orílẹ̀-èdè Aṣòkan",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "57.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Venus Williams '' ( Final ) ''",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "58.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Venus Williams '' ( Final ) ''",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "58.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Venus Williams '' ( Final ) ''",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "58.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Dala",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "59.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Dala",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "59.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Dala",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "59.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Jelena Janković '' ( Fourth round )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "60.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Jelena Janković '' ( Fourth round )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "60.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Jelena Janković '' ( Fourth round )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "60.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àmì ọ̀pá àṣẹ ilẹ̀ Ingushetia",
+    "end_position": [
+      4
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "61.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Àmì ọ̀pá àṣẹ ilẹ̀ Ingushetia",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "61.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àmì ọ̀pá àṣẹ ilẹ̀ Ingushetia",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "61.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Gbọ̀ngàn Òfurufú Kennedy",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "62.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Gbọ̀ngàn Òfurufú Kennedy",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "62.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Gbọ̀ngàn Òfurufú Kennedy",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "62.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àkójọ àwọn Alákòóso Àgbà ilẹ̀ Tànsáníà",
+    "end_position": [
+      5
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "63.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;5"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Àkójọ àwọn Alákòóso Àgbà ilẹ̀ Tànsáníà",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "63.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àkójọ àwọn Alákòóso Àgbà ilẹ̀ Tànsáníà",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "63.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Anastasia Pavlyuchenkova '' ( Second round )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "64.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Anastasia Pavlyuchenkova '' ( Second round )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "64.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Anastasia Pavlyuchenkova '' ( Second round )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "64.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àsìá ilẹ̀ Tufalu",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "65.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àsìá ilẹ̀ Tufalu",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "65.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Àsìá ilẹ̀ Tufalu",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "65.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Daniela Hantuchová '' ( Third Round )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "66.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Daniela Hantuchová '' ( Third Round )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "66.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Daniela Hantuchová '' ( Third Round )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "66.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Beijing Pyongyang Seoul Taipei Tokyo Ulan Bator",
+    "end_position": [
+      6
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "67.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "5;6"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Beijing Pyongyang Seoul Taipei Tokyo Ulan Bator",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "67.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Beijing Pyongyang Seoul Taipei Tokyo Ulan Bator",
+    "end_position": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "67.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;0",
+      "1;1",
+      "2;2",
+      "3;3",
+      "4;4"
+    ],
+    "start_position": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "context": "Angelique Kerber '' ( Quarterfinals )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "68.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Angelique Kerber '' ( Quarterfinals )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "68.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Angelique Kerber '' ( Quarterfinals )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "68.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àmì ọ̀pá àṣẹ ilẹ̀ Bósníà àti Hẹrjẹgòfínà",
+    "end_position": [
+      6
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "69.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;6"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Àmì ọ̀pá àṣẹ ilẹ̀ Bósníà àti Hẹrjẹgòfínà",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "69.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àmì ọ̀pá àṣẹ ilẹ̀ Bósníà àti Hẹrjẹgòfínà",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "69.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Zheng Jie '' ( Second Round )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "70.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Zheng Jie '' ( Second Round )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "70.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Zheng Jie '' ( Second Round )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "70.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Charles 8k ilẹ̀ Fránsì",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "71.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Charles 8k ilẹ̀ Fránsì",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "71.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Charles 8k ilẹ̀ Fránsì",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "71.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "72.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "72.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "72.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Ptolemy 1k Soter",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "73.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ptolemy 1k Soter",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "73.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ptolemy 1k Soter",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "73.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "74.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "74.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "74.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Ilẹ̀ Ọbalúayé Rómù Mímọ́",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "75.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ilẹ̀ Ọbalúayé Rómù Mímọ́",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "75.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ilẹ̀ Ọbalúayé Rómù Mímọ́",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "75.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' David Mark '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "76.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' David Mark '' '",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "76.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "' '' David Mark '' '",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "76.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àkójọ àwọn olórí ìjọba ilẹ̀ Bùrkínà Fasò",
+    "end_position": [
+      6
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "77.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;6"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Àkójọ àwọn olórí ìjọba ilẹ̀ Bùrkínà Fasò",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "77.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Àkójọ àwọn olórí ìjọba ilẹ̀ Bùrkínà Fasò",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "77.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "78.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "78.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "78.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Ajagun Ojúòfurufú Nàìjíríà",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "79.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ajagun Ojúòfurufú Nàìjíríà",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "79.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ajagun Ojúòfurufú Nàìjíríà",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "79.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Orílẹ̀-èdè Olómìnira ilẹ̀ Makẹdóníà",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "80.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Orílẹ̀-èdè Olómìnira ilẹ̀ Makẹdóníà",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "80.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Orílẹ̀-èdè Olómìnira ilẹ̀ Makẹdóníà",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "80.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Pópù Benedict 15k",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "81.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Benedict 15k",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "81.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Pópù Benedict 15k",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "81.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ibi Ọ̀ṣọ́ Àgbáyé",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "82.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ibi Ọ̀ṣọ́ Àgbáyé",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "82.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ibi Ọ̀ṣọ́ Àgbáyé",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "82.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sara Errani '' ( Semifinals )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "83.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sara Errani '' ( Semifinals )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "83.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Sara Errani '' ( Semifinals )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "83.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Pelagius 2k",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "84.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Pelagius 2k",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "84.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Pópù Pelagius 2k",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "84.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Orin-ìyìn orílẹ̀-èdè ilẹ̀ Tatarstan",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "85.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Orin-ìyìn orílẹ̀-èdè ilẹ̀ Tatarstan",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "85.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Orin-ìyìn orílẹ̀-èdè ilẹ̀ Tatarstan",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "85.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Odo Otin",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "86.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Odo Otin",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "86.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Odo Otin",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "86.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ekaterina Makarova '' ( Quarterfinals )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "87.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ekaterina Makarova '' ( Quarterfinals )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "87.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ekaterina Makarova '' ( Quarterfinals )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "87.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Abdulsalami Abubakar '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "88.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Abdulsalami Abubakar '' '",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "88.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "' '' Abdulsalami Abubakar '' '",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "88.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Orílẹ̀-èdè Olómìnira Aṣọ̀kan Árábù",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "89.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Orílẹ̀-èdè Olómìnira Aṣọ̀kan Árábù",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "89.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Orílẹ̀-èdè Olómìnira Aṣọ̀kan Árábù",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "89.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Buruku",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "90.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Buruku",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "90.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Buruku",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "90.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù-Ìwọòrùn Èkìtì",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "91.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù-Ìwọòrùn Èkìtì",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "91.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù-Ìwọòrùn Èkìtì",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "91.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ahmed Sani Yerima",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "92.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ahmed Sani Yerima",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "92.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ahmed Sani Yerima",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "92.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Monica Seles '' ( Third Round )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "93.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Monica Seles '' ( Third Round )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "93.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Monica Seles '' ( Third Round )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "93.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Onitsha",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "94.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Onitsha",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "94.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Onitsha",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "94.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "95.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "95.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "' '' ' '' jẹ́ Fáráò ni Ẹ́gíptì Ayéijọ́un .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "95.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Jẹ́mánì",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "96.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Jẹ́mánì",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "96.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ààrẹ ilẹ̀ Jẹ́mánì",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "96.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "President]] José Eduardo dos Santos",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "97.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "President]] José Eduardo dos Santos",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "97.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "1;4"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "President]] José Eduardo dos Santos",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "97.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Gelasius 2k",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "98.0",
+    "query": "Awọn ile-iṣẹ ti ile-iṣẹ ni opin si ajọ-ajọpọ, ti ijọba, tabi awọn ile-iṣẹ eto miiran.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pópù Gelasius 2k",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "98.1",
+    "query": "Awọn ile-iṣẹ ti eniyan ni orukọ eniyan tabi idile.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Pópù Gelasius 2k",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "98.2",
+    "query": "Awọn ile-iṣẹ ipo jẹ orukọ awọn ipo iṣelu tabi ti agbegbe gẹgẹbi awọn ilu, awọn agbegbe, awọn orilẹ-ede, awọn agbegbe agbaye, awọn ara omi, awọn oke-nla, ati bẹbẹ lọ.",
+    "span_position": [],
+    "start_position": []
+  }
+]

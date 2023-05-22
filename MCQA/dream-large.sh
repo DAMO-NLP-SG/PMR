@@ -7,7 +7,7 @@ task=MCQA
 CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m torch.distributed.launch --nproc_per_node=8 --master_port=12351 $task/train-MCQA.py \
         --output_dir ./saved_models/mcqa-PMR-large \
         --model_type roberta \
-        --model_name_or_path  ../saved_models/PMR-large --cache_dir ../cache \
+        --model_name_or_path  DAMO-NLP-SG/PMR-large --cache_dir ../cache \
         --data_path DREAM \
         --do_train --do_eval --do_lower_case \
         --learning_rate 2e-5  \

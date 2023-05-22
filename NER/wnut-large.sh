@@ -7,7 +7,7 @@ task=NER
 CUDA_VISIBLE_DEVICES=0 python  $task/train-NER.py \
         --output_dir ./saved_models/wnut-PMR-large \
         --model_type roberta \
-        --model_name_or_path ../saved_models/PMR-large --cache_dir ../cache \
+        --model_name_or_path DAMO-NLP-SG/PMR-large --cache_dir ../cache \
         --data_path ./Data/wnut \
         --do_train --do_eval --do_lower_case \
         --learning_rate 1e-5 \

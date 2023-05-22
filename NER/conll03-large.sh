@@ -7,7 +7,7 @@ task=NER
 CUDA_VISIBLE_DEVICES=0,1,2,3 python -m torch.distributed.launch --nproc_per_node=4 --master_port=12356 $task/train-NER.py \
         --output_dir ./saved_models/conll03-PMR-large \
         --model_type roberta \
-        --model_name_or_path ../saved_models/PMR-large --cache_dir ../cache \
+        --model_name_or_path DAMO-NLP-SG/PMR-large --cache_dir ../cache \
         --data_path ./Data/conll03 \
         --do_train --do_eval --do_lower_case \
         --learning_rate 2e-5 \

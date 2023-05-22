@@ -13,7 +13,7 @@ do
 CUDA_VISIBLE_DEVICES=0 python  $task/train-NER.py \
         --output_dir ./saved_models/$data-PMR-large-few \
         --model_type roberta \
-        --model_name_or_path  ../saved_models/PMR-large --cache_dir ../cache \
+        --model_name_or_path  DAMO-NLP-SG/PMR-large --cache_dir ../cache \
         --data_path fewshot_${data}_$i \
         --do_train --do_eval --do_lower_case \
         --learning_rate $lr \

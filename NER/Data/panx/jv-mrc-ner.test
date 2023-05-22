@@ -1,0 +1,3626 @@
+[
+  {
+    "context": "' '' Kutha krajan '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "0.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Kutha krajan '' '",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "0.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Kutha krajan '' '",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "0.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "1.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "8;10"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "1.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "1.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Stadion Wembley , London , Inggris",
+    "end_position": [
+      1
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "2.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Stadion Wembley , London , Inggris",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "2.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Stadion Wembley , London , Inggris",
+    "end_position": [
+      3,
+      5
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "2.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "3;3",
+      "5;5"
+    ],
+    "start_position": [
+      3,
+      5
+    ]
+  },
+  {
+    "context": "Sunan Muria maringi titah marang putrané supaya njaga gerbang iki .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "3.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sunan Muria maringi titah marang putrané supaya njaga gerbang iki .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "3.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Sunan Muria maringi titah marang putrané supaya njaga gerbang iki .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "3.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Makedonia Wétan lan Trasia |",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "4.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Makedonia Wétan lan Trasia |",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "4.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Makedonia Wétan lan Trasia |",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "4.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Tuchola , Tuchola",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "5.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Tuchola , Tuchola",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "5.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Tuchola , Tuchola",
+    "end_position": [
+      1,
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "5.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;1",
+      "3;3"
+    ],
+    "start_position": [
+      0,
+      3
+    ]
+  },
+  {
+    "context": "Wonten ing wekdal ingkang sami , ananging boten sami dipunmangertosi déning setunggal tiyang kaliyan tiyang sanèsipun , pétangan ingkang sami ugi dipundamel déning Urbain Le Verrier .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "6.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Wonten ing wekdal ingkang sami , ananging boten sami dipunmangertosi déning setunggal tiyang kaliyan tiyang sanèsipun , pétangan ingkang sami ugi dipundamel déning Urbain Le Verrier .",
+    "end_position": [
+      25
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "6.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "23;25"
+    ],
+    "start_position": [
+      23
+    ]
+  },
+  {
+    "context": "Wonten ing wekdal ingkang sami , ananging boten sami dipunmangertosi déning setunggal tiyang kaliyan tiyang sanèsipun , pétangan ingkang sami ugi dipundamel déning Urbain Le Verrier .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "6.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dhaharan punika sampun ngrembaka ing Indonésia ngantos dumugi mancanegari .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "7.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dhaharan punika sampun ngrembaka ing Indonésia ngantos dumugi mancanegari .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "7.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dhaharan punika sampun ngrembaka ing Indonésia ngantos dumugi mancanegari .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "7.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "2006 - Babak 2",
+    "end_position": [
+      0
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "8.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "2006 - Babak 2",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "8.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "2006 - Babak 2",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "8.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Frederik Willem de Klerk",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "9.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Frederik Willem de Klerk",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "9.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Frederik Willem de Klerk",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "9.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Daniel Potts ( pemain bal-balan )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "10.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Daniel Potts ( pemain bal-balan )",
+    "end_position": [
+      6
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "10.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "1;6"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "ALIH Daniel Potts ( pemain bal-balan )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "10.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "British Airways ( London-Heathrow )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "11.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "British Airways ( London-Heathrow )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "11.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "British Airways ( London-Heathrow )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "11.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "*** Corfu ( Kerkyra )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "12.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "*** Corfu ( Kerkyra )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "12.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "*** Corfu ( Kerkyra )",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "12.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "1;4"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "' '' David Coulthard '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "13.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' David Coulthard '' '",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "13.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "' '' David Coulthard '' '",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "13.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sapréne , tim iki main ana ing kompetisi Seri A .",
+    "end_position": [
+      9
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "14.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "8;9"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "Sapréne , tim iki main ana ing kompetisi Seri A .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "14.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sapréne , tim iki main ana ing kompetisi Seri A .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "14.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Wonten ing laladan sanès , jarngan France Bleu dipunginakaken .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "15.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "6;7"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "Wonten ing laladan sanès , jarngan France Bleu dipunginakaken .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "15.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Wonten ing laladan sanès , jarngan France Bleu dipunginakaken .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "15.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Asosiasi Bal-balan Walanda",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "16.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "ALIH Asosiasi Bal-balan Walanda",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "16.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Asosiasi Bal-balan Walanda",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "16.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Radzyń Podlaski , Radzyń Podlaski",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "17.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Radzyń Podlaski , Radzyń Podlaski",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "17.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Radzyń Podlaski , Radzyń Podlaski",
+    "end_position": [
+      2,
+      5
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "17.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;2",
+      "4;5"
+    ],
+    "start_position": [
+      0,
+      4
+    ]
+  },
+  {
+    "context": "Perhimpunan Internasional bab Pangreksan Alam",
+    "end_position": [
+      4
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "18.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Perhimpunan Internasional bab Pangreksan Alam",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "18.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Perhimpunan Internasional bab Pangreksan Alam",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "18.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Kutha krajan '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "19.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Kutha krajan '' '",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "19.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Kutha krajan '' '",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "19.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Dinten tilar donyanipun punika dipunpèngeti minangka dinten riyayanipun ingkang dhawah tanggal 19 Mei .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "20.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dinten tilar donyanipun punika dipunpèngeti minangka dinten riyayanipun ingkang dhawah tanggal 19 Mei .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "20.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dinten tilar donyanipun punika dipunpèngeti minangka dinten riyayanipun ingkang dhawah tanggal 19 Mei .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "20.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "11;12"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "0811 , 0812 , 0813 , 0852 - Telkomsel",
+    "end_position": [
+      8
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "21.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "8;8"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "0811 , 0812 , 0813 , 0852 - Telkomsel",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "21.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "0811 , 0812 , 0813 , 0852 - Telkomsel",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "21.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "''Indian Mulberry '' ( India ) .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "22.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "''Indian Mulberry '' ( India ) .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "22.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "''Indian Mulberry '' ( India ) .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "22.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "23.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "8;10"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "23.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "23.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Britania Raya ( Inggris , Wales , Skotlandia & Irlandia Lor )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "24.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Britania Raya ( Inggris , Wales , Skotlandia & Irlandia Lor )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "24.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Britania Raya ( Inggris , Wales , Skotlandia & Irlandia Lor )",
+    "end_position": [
+      1,
+      3,
+      5,
+      7,
+      10
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "24.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;1",
+      "3;3",
+      "5;5",
+      "7;7",
+      "9;10"
+    ],
+    "start_position": [
+      0,
+      3,
+      5,
+      7,
+      9
+    ]
+  },
+  {
+    "context": "ALIH Kabupatèn Kapuloan Sula",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "25.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Kabupatèn Kapuloan Sula",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "25.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Kabupatèn Kapuloan Sula",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "25.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Panjenengané naté main kanggo FC Barcelona lan Tottenham Hotspur F.C . .",
+    "end_position": [
+      5,
+      10
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "26.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "4;5",
+      "7;10"
+    ],
+    "start_position": [
+      4,
+      7
+    ]
+  },
+  {
+    "context": "Panjenengané naté main kanggo FC Barcelona lan Tottenham Hotspur F.C . .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "26.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Panjenengané naté main kanggo FC Barcelona lan Tottenham Hotspur F.C . .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "26.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Senadyan pungkasanipun Putra Nababan ingkang mimpang .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "27.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Senadyan pungkasanipun Putra Nababan ingkang mimpang .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "27.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Senadyan pungkasanipun Putra Nababan ingkang mimpang .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "27.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Saddam Hussein , Irak",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "28.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Saddam Hussein , Irak",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "28.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Saddam Hussein , Irak",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "28.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "' '' Petra Kvitová '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "29.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Petra Kvitová '' '",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "29.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "' '' Petra Kvitová '' '",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "29.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Cantona nalika iku ditawani pindhah ing Inter Milan .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "30.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "6;7"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "Cantona nalika iku ditawani pindhah ing Inter Milan .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "30.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Cantona nalika iku ditawani pindhah ing Inter Milan .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "30.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Dewan Perwakilan Daerah",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "31.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Alih Dewan Perwakilan Daerah",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "31.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Dewan Perwakilan Daerah",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "31.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Maria Sharapova [7] '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "32.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Maria Sharapova [7] '' '",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "32.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "' '' Maria Sharapova [7] '' '",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "32.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Keluar Dalan Tol Jagorawi '' 'Lor '' 'Cawang '' 'Kidul '' 'CibuburBogor",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "33.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Keluar Dalan Tol Jagorawi '' 'Lor '' 'Cawang '' 'Kidul '' 'CibuburBogor",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "33.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Keluar Dalan Tol Jagorawi '' 'Lor '' 'Cawang '' 'Kidul '' 'CibuburBogor",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "33.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Lazio ( 1999–2001 )",
+    "end_position": [
+      0
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "34.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Lazio ( 1999–2001 )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "34.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Lazio ( 1999–2001 )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "34.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kupang - 44 UHF",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "35.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kupang - 44 UHF",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "35.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kupang - 44 UHF",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "35.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "ALIH Augustinus saka Hippo",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "36.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Augustinus saka Hippo",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "36.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "ALIH Augustinus saka Hippo",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "36.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum",
+    "end_position": [
+      10
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "37.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "8;10"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "37.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "37.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kapten CZI ( Anumerta ) Pierre Tendean",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "38.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kapten CZI ( Anumerta ) Pierre Tendean",
+    "end_position": [
+      6
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "38.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "5;6"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Kapten CZI ( Anumerta ) Pierre Tendean",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "38.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Kutha Banda Acèh",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "39.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Kutha Banda Acèh",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "39.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Kutha Banda Acèh",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "39.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Powiat Lublin , Lublin",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "40.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Lublin , Lublin",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "40.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Lublin , Lublin",
+    "end_position": [
+      1,
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "40.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;1",
+      "3;3"
+    ],
+    "start_position": [
+      0,
+      3
+    ]
+  },
+  {
+    "context": "Alih Who Wants to be a Millionaire ?",
+    "end_position": [
+      7
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "41.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "1;7"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Alih Who Wants to be a Millionaire ?",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "41.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Who Wants to be a Millionaire ?",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "41.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Anak iku diparingi jeneng Karna .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "42.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Anak iku diparingi jeneng Karna .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "42.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Anak iku diparingi jeneng Karna .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "42.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "border]] Louisiana '' '1 '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "43.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "border]] Louisiana '' '1 '' '",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "43.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "border]] Louisiana '' '1 '' '",
+    "end_position": [
+      1
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "43.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "ALIH Pangandaran , Pangandaran",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "44.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Pangandaran , Pangandaran",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "44.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Pangandaran , Pangandaran",
+    "end_position": [
+      2,
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "44.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "1;2",
+      "3;3"
+    ],
+    "start_position": [
+      1,
+      3
+    ]
+  },
+  {
+    "context": "ALIH Kabupatèn Administrasi Kapuloan Seribu",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "45.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Kabupatèn Administrasi Kapuloan Seribu",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "45.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Kabupatèn Administrasi Kapuloan Seribu",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "45.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "1;4"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Siomai asalé saka Mongolia dalam .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "46.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Siomai asalé saka Mongolia dalam .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "46.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Siomai asalé saka Mongolia dalam .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "46.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "ALIH Georgia ( negara bagéan Amérika Sarékat )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "47.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Georgia ( negara bagéan Amérika Sarékat )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "47.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Georgia ( negara bagéan Amérika Sarékat )",
+    "end_position": [
+      7
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "47.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "1;7"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Gunggung ingkang wonten ing '' Catalogue of Scientific Papers '' saking Royal Society punika ping sekawan .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "48.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "11;12"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "Gunggung ingkang wonten ing '' Catalogue of Scientific Papers '' saking Royal Society punika ping sekawan .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "48.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Gunggung ingkang wonten ing '' Catalogue of Scientific Papers '' saking Royal Society punika ping sekawan .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "48.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Apa Bisa - Kotak",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "49.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "Apa Bisa - Kotak",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "49.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Apa Bisa - Kotak",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "49.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Fenerbahçe S.K .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "50.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Alih Fenerbahçe S.K .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "50.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Fenerbahçe S.K .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "50.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kabupatèn Nunukan , Kalimantan Wétan",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "51.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kabupatèn Nunukan , Kalimantan Wétan",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "51.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kabupatèn Nunukan , Kalimantan Wétan",
+    "end_position": [
+      1,
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "51.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;1",
+      "3;4"
+    ],
+    "start_position": [
+      0,
+      3
+    ]
+  },
+  {
+    "context": "''Baper '' - ( RCTI )",
+    "end_position": [
+      4
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "52.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "''Baper '' - ( RCTI )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "52.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "''Baper '' - ( RCTI )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "52.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Klinika ''Famila '' impor saka SCTV",
+    "end_position": [
+      5
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "53.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Klinika ''Famila '' impor saka SCTV",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "53.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Klinika ''Famila '' impor saka SCTV",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "53.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Dhaptar présidhèn Kosovo",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "54.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Alih Dhaptar présidhèn Kosovo",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "54.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Dhaptar présidhèn Kosovo",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "54.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Ellen Johnson Sirleaf",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "55.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Ellen Johnson Sirleaf",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "55.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "ALIH Ellen Johnson Sirleaf",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "55.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Przysucha , Przysucha",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "56.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Przysucha , Przysucha",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "56.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Przysucha , Przysucha",
+    "end_position": [
+      1,
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "56.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;1",
+      "3;3"
+    ],
+    "start_position": [
+      0,
+      3
+    ]
+  },
+  {
+    "context": "Boeing nalika jaman semana bisa dianggep kalah saka pesaing-pesaingé ana ing babagan gawé pesawat let cedhak .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "57.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Boeing nalika jaman semana bisa dianggep kalah saka pesaing-pesaingé ana ing babagan gawé pesawat let cedhak .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "57.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Boeing nalika jaman semana bisa dianggep kalah saka pesaing-pesaingé ana ing babagan gawé pesawat let cedhak .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "57.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ulil asalipun saking kulawarga Nahdlatul Ulama .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "58.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "4;5"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Ulil asalipun saking kulawarga Nahdlatul Ulama .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "58.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ulil asalipun saking kulawarga Nahdlatul Ulama .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "58.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Grudziądz , Grudziądz",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "59.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Grudziądz , Grudziądz",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "59.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Grudziądz , Grudziądz",
+    "end_position": [
+      1,
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "59.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;1",
+      "3;3"
+    ],
+    "start_position": [
+      0,
+      3
+    ]
+  },
+  {
+    "context": "89.810 km² -- Kroasia",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "60.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "89.810 km² -- Kroasia",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "60.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "89.810 km² -- Kroasia",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "60.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "ALIH Elizabeth II saking Britania Raya",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "61.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Elizabeth II saking Britania Raya",
+    "end_position": [
+      5
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "61.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "1;5"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "ALIH Elizabeth II saking Britania Raya",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "61.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Giovanni van Bronckhorst",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "62.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Giovanni van Bronckhorst",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "62.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Alih Giovanni van Bronckhorst",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "62.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Adinia Wirasti '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "63.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Adinia Wirasti '' '",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "63.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "' '' Adinia Wirasti '' '",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "63.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Spontan ditayangake ing SCTV",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "64.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "Spontan ditayangake ing SCTV",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "64.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Spontan ditayangake ing SCTV",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "64.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Wonten negari Éropah wonten tradhisi kangge ngrayakaken musim-musim .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "65.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Wonten negari Éropah wonten tradhisi kangge ngrayakaken musim-musim .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "65.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Wonten negari Éropah wonten tradhisi kangge ngrayakaken musim-musim .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "65.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Panegasan kenabian Muhammad s.a.w .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "66.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Panegasan kenabian Muhammad s.a.w .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "66.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Panegasan kenabian Muhammad s.a.w .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "66.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum",
+    "end_position": [
+      10
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "67.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "8;10"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "67.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ana ngisor iki rékapitulasining pilihan iki sing dibabar Komisi Pemilihan Umum",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "67.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Ciechanów , Ciechanów",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "68.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Ciechanów , Ciechanów",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "68.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Powiat Ciechanów , Ciechanów",
+    "end_position": [
+      1,
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "68.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;1",
+      "3;3"
+    ],
+    "start_position": [
+      0,
+      3
+    ]
+  },
+  {
+    "context": "ALIH Kabupatèn Acèh Kidul-wétan",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "69.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Kabupatèn Acèh Kidul-wétan",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "69.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Kabupatèn Acèh Kidul-wétan",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "69.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Czech Airlines ( 4 ) ( 4 ATR72-202 )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "70.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Czech Airlines ( 4 ) ( 4 ATR72-202 )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "70.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Czech Airlines ( 4 ) ( 4 ATR72-202 )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "70.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Makedonia Wétan lan Trasia |",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "71.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Makedonia Wétan lan Trasia |",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "71.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Makedonia Wétan lan Trasia |",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "71.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Skallelv ( ) ( )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "72.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Skallelv ( ) ( )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "72.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Skallelv ( ) ( )",
+    "end_position": [
+      0
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "72.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "' '' Kanada '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "73.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Kanada '' '",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "73.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Kanada '' '",
+    "end_position": [
+      2
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "73.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Salah sijiné tim saka Oxford nemokaké metode produksi massal penisilin .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "74.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Salah sijiné tim saka Oxford nemokaké metode produksi massal penisilin .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "74.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Salah sijiné tim saka Oxford nemokaké metode produksi massal penisilin .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "74.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "' '' Pete Sampras '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "75.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Pete Sampras '' '",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "75.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "' '' Pete Sampras '' '",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "75.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Taman Nasional Bukit Barisan Selatan",
+    "end_position": [
+      4
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "76.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;4"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Taman Nasional Bukit Barisan Selatan",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "76.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Taman Nasional Bukit Barisan Selatan",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "76.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sawisé iku dhéwéké lagi pindhah menyang Jakarta .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "77.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sawisé iku dhéwéké lagi pindhah menyang Jakarta .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "77.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sawisé iku dhéwéké lagi pindhah menyang Jakarta .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "77.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "' '' Kalimantan Kidul '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "78.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Kalimantan Kidul '' '",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "78.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Kalimantan Kidul '' '",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "78.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Déwan Internasional bab Monumèn lan Situs",
+    "end_position": [
+      5
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "79.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;5"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Déwan Internasional bab Monumèn lan Situs",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "79.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Déwan Internasional bab Monumèn lan Situs",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "79.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Pramoedya Ananta Toer",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "80.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Pramoedya Ananta Toer",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "80.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Alih Pramoedya Ananta Toer",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "80.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Piyambakipun kagantosaken dèning wakil presidenipun , Gloria Macapagal-Arroyo .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "81.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "6;7"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "Piyambakipun kagantosaken dèning wakil presidenipun , Gloria Macapagal-Arroyo .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "81.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Piyambakipun kagantosaken dèning wakil presidenipun , Gloria Macapagal-Arroyo .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "81.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Iker Casillas ( Spanyol )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "82.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Iker Casillas ( Spanyol )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "82.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Iker Casillas ( Spanyol )",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "82.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "' '' Portugal '' '",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "83.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Portugal '' '",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "83.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "' '' Portugal '' '",
+    "end_position": [
+      2
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "83.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "2;2"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Alih Cut Nyak Dhien",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "84.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Cut Nyak Dhien",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "84.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Alih Cut Nyak Dhien",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "84.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Taman Nasional Gunung Palung",
+    "end_position": [
+      3
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "85.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Taman Nasional Gunung Palung",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "85.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Taman Nasional Gunung Palung",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "85.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Opera Van Java ''",
+    "end_position": [
+      2
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "86.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Opera Van Java ''",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "86.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Opera Van Java ''",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "86.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sanajan mrihatenake , populasi anoa bisa ditemokake ing Taman Nasional Bogani Nani Wartabone .",
+    "end_position": [
+      12
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "87.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "8;12"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "Sanajan mrihatenake , populasi anoa bisa ditemokake ing Taman Nasional Bogani Nani Wartabone .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "87.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sanajan mrihatenake , populasi anoa bisa ditemokake ing Taman Nasional Bogani Nani Wartabone .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "87.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Kutha Administrasi Jakarta Lor",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "88.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Kutha Administrasi Jakarta Lor",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "88.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Kutha Administrasi Jakarta Lor",
+    "end_position": [
+      4
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "88.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "1;4"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "GB Britania Raya ( arang banget , umumé .uk kang dianggo )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "89.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "GB Britania Raya ( arang banget , umumé .uk kang dianggo )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "89.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "GB Britania Raya ( arang banget , umumé .uk kang dianggo )",
+    "end_position": [
+      2
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "89.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Riccardo Giacconi ''Italia ''",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "90.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Riccardo Giacconi ''Italia ''",
+    "end_position": [
+      1
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "90.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Riccardo Giacconi ''Italia ''",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "90.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Capelle aan den IJssel",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "91.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Capelle aan den IJssel",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "91.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Capelle aan den IJssel",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "91.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Alih Ernest Douwes Dekker",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "92.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Alih Ernest Douwes Dekker",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "92.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Alih Ernest Douwes Dekker",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "92.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "( dhèfinisi ''idéologi '' Marxisme ) .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "93.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "( dhèfinisi ''idéologi '' Marxisme ) .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "93.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "( dhèfinisi ''idéologi '' Marxisme ) .",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "93.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Japan Airlines ( Nagoya-Centrair , Tokyo-Narita )",
+    "end_position": [
+      1
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "94.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Japan Airlines ( Nagoya-Centrair , Tokyo-Narita )",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "94.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Japan Airlines ( Nagoya-Centrair , Tokyo-Narita )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "94.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Fans Beby Chaesara Anadila Twitter",
+    "end_position": [
+      4
+    ],
+    "entity_label": "ORG",
+    "impossible": false,
+    "qas_id": "95.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Fans Beby Chaesara Anadila Twitter",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "95.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Fans Beby Chaesara Anadila Twitter",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "95.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Bima Sakti Tukiman",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "96.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Bima Sakti Tukiman",
+    "end_position": [
+      3
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "96.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "ALIH Bima Sakti Tukiman",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "96.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "''** Sawisé Uni Sovyèt bubar .",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "97.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "''** Sawisé Uni Sovyèt bubar .",
+    "end_position": [],
+    "entity_label": "PER",
+    "impossible": true,
+    "qas_id": "97.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "''** Sawisé Uni Sovyèt bubar .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "LOC",
+    "impossible": false,
+    "qas_id": "97.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "ALIH Robert Hall ( pemain bal-balan )",
+    "end_position": [],
+    "entity_label": "ORG",
+    "impossible": true,
+    "qas_id": "98.0",
+    "query": "Entitas organisasi diwatesi mung perusahaan, pemerintah, utawa entitas organisasi liyane.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ALIH Robert Hall ( pemain bal-balan )",
+    "end_position": [
+      6
+    ],
+    "entity_label": "PER",
+    "impossible": false,
+    "qas_id": "98.1",
+    "query": "Entitas wong diarani wong utawa kulawarga.",
+    "span_position": [
+      "1;6"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "ALIH Robert Hall ( pemain bal-balan )",
+    "end_position": [],
+    "entity_label": "LOC",
+    "impossible": true,
+    "qas_id": "98.2",
+    "query": "Entitas lokasi yaiku jeneng lokasi sing ditemtokake sacara politis utawa geografis kayata kutha, provinsi, negara, wilayah internasional, badan banyu, gunung, lsp.",
+    "span_position": [],
+    "start_position": []
+  }
+]

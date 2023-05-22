@@ -1,0 +1,5117 @@
+[
+  {
+    "context": "Ogle yumegi zaman roll sushi menu var .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "0.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ogle yumegi zaman roll sushi menu var .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "0.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ogle yumegi zaman roll sushi menu var .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "0.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "33TL acaba icecek icinde .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "1.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "33TL acaba icecek icinde .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "1.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "33TL acaba icecek icinde .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "1.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Biraz once gittim .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "2.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Biraz once gittim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "2.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Biraz once gittim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "2.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ama fiyat degisti olabilir .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "3.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ama fiyat degisti olabilir .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "3.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ama fiyat degisti olabilir .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "3.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Serviste cok guzel .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "4.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Serviste cok guzel .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "4.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Serviste cok guzel .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "4.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ortam cok guzel .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "5.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Ortam cok guzel .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "5.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ortam cok guzel .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "5.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Lezzetliydi .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "6.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Lezzetliydi .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "6.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Lezzetliydi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "6.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "En beğendigimiz sushico şubesi .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "7.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "En beğendigimiz sushico şubesi .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "7.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "En beğendigimiz sushico şubesi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "7.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bahçesi çok güzel ve ferah .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "8.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Bahçesi çok güzel ve ferah .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "8.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bahçesi çok güzel ve ferah .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "8.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sushi ustasi cok becerikli ve şakaci :",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "9.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Sushi ustasi cok becerikli ve şakaci :",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "9.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sushi ustasi cok becerikli ve şakaci :",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "9.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": ") yogun oldugu saatlerde servis biraz aksak olsa da kabul edilebilir buluyoruz",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "10.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": ") yogun oldugu saatlerde servis biraz aksak olsa da kabul edilebilir buluyoruz",
+    "end_position": [
+      4
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "10.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": ") yogun oldugu saatlerde servis biraz aksak olsa da kabul edilebilir buluyoruz",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "10.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Menü çeşitleri zengin .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "11.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Menü çeşitleri zengin .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "11.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Menü çeşitleri zengin .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "11.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Fiyatları normalin biraz üstünde ama yinede caddedeki yorgunluğu atmanız için ferah ferah oturabileceğiniz mekan .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "12.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "13;13"
+    ],
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "context": "Fiyatları normalin biraz üstünde ama yinede caddedeki yorgunluğu atmanız için ferah ferah oturabileceğiniz mekan .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "12.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Fiyatları normalin biraz üstünde ama yinede caddedeki yorgunluğu atmanız için ferah ferah oturabileceğiniz mekan .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "12.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Muhallebici ama ...",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "13.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Muhallebici ama ...",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "13.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Muhallebici ama ...",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "13.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Herkesin muhallebisini ya da süt tatlilari yedigi yerin ben künefesini begeniyorum .",
+    "end_position": [
+      9
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "14.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "9;9"
+    ],
+    "start_position": [
+      9
+    ]
+  },
+  {
+    "context": "Herkesin muhallebisini ya da süt tatlilari yedigi yerin ben künefesini begeniyorum .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "14.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Herkesin muhallebisini ya da süt tatlilari yedigi yerin ben künefesini begeniyorum .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "14.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Geçen sene haftada bir künefe yemege giderdim .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "15.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Geçen sene haftada bir künefe yemege giderdim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "15.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Geçen sene haftada bir künefe yemege giderdim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "15.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Favorilerim biçak arasi ve saç arasi ama tavuk sis ve diger ekmeklerde ( kasarli ve kiymali ) çok basarili .",
+    "end_position": [
+      2,
+      5,
+      8,
+      11
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "16.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "1;2",
+      "4;5",
+      "7;8",
+      "11;11"
+    ],
+    "start_position": [
+      1,
+      4,
+      7,
+      11
+    ]
+  },
+  {
+    "context": "Favorilerim biçak arasi ve saç arasi ama tavuk sis ve diger ekmeklerde ( kasarli ve kiymali ) çok basarili .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "16.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Favorilerim biçak arasi ve saç arasi ama tavuk sis ve diger ekmeklerde ( kasarli ve kiymali ) çok basarili .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "16.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Konyada yemedim ama yiyenlerinde begendigi bir mekan .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "17.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "Konyada yemedim ama yiyenlerinde begendigi bir mekan .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "17.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Konyada yemedim ama yiyenlerinde begendigi bir mekan .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "17.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Servis iyi olmadigindan michelin yildizli yemek yapsalar gözüme görünmüyor .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "18.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Servis iyi olmadigindan michelin yildizli yemek yapsalar gözüme görünmüyor .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "18.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Servis iyi olmadigindan michelin yildizli yemek yapsalar gözüme görünmüyor .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "18.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "35 derece yaz sicaginda buzdolaplari bozuk diye sicak kola getirdiler bu sefer de .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "19.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "35 derece yaz sicaginda buzdolaplari bozuk diye sicak kola getirdiler bu sefer de .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "19.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "8;8"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "35 derece yaz sicaginda buzdolaplari bozuk diye sicak kola getirdiler bu sefer de .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "19.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Buradan içeri girersiniz karşılamasından tutunda etten önce gelen kuverdeki turşuya kadar hepsi özenle seçilmiş hazırlanmış mekanın ve tatların içinde gezer durursunuz .",
+    "end_position": [
+      15,
+      17
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "20.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "15;15",
+      "17;17"
+    ],
+    "start_position": [
+      15,
+      17
+    ]
+  },
+  {
+    "context": "Buradan içeri girersiniz karşılamasından tutunda etten önce gelen kuverdeki turşuya kadar hepsi özenle seçilmiş hazırlanmış mekanın ve tatların içinde gezer durursunuz .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "20.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Buradan içeri girersiniz karşılamasından tutunda etten önce gelen kuverdeki turşuya kadar hepsi özenle seçilmiş hazırlanmış mekanın ve tatların içinde gezer durursunuz .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "20.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Et menüsünden istediğinizi seçebilirsiniz hepsi olabileceğinin en iyisidir .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "21.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Et menüsünden istediğinizi seçebilirsiniz hepsi olabileceğinin en iyisidir .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "21.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Et menüsünden istediğinizi seçebilirsiniz hepsi olabileceğinin en iyisidir .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "21.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tatlılar da bir o kadar harikadır .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "22.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Tatlılar da bir o kadar harikadır .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "22.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tatlılar da bir o kadar harikadır .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "22.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Mekanın sahibi Beyti Bey her oraya gidişinizde masanıza uğrayıp selam verir .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "23.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Mekanın sahibi Beyti Bey her oraya gidişinizde masanıza uğrayıp selam verir .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "23.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Mekanın sahibi Beyti Bey her oraya gidişinizde masanıza uğrayıp selam verir .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "23.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Söylenecek daha da birşey yok kesinlikle güzel yemek yemek istiyor ve risk almak istemiyorsanız bana kalırsa Beyti ' den iyisi yoktur !",
+    "end_position": [
+      7
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "24.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Söylenecek daha da birşey yok kesinlikle güzel yemek yemek istiyor ve risk almak istemiyorsanız bana kalırsa Beyti ' den iyisi yoktur !",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "24.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Söylenecek daha da birşey yok kesinlikle güzel yemek yemek istiyor ve risk almak istemiyorsanız bana kalırsa Beyti ' den iyisi yoktur !",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "24.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Özellikle yabancı misafirlerinizi ağırlamak için osmanlı tarzı dekorasyonu ve akıl almaz lezzetleri sayesinde türk mutfağını tanıtmak için çok uygun ...",
+    "end_position": [
+      7,
+      11
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "25.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "7;7",
+      "11;11"
+    ],
+    "start_position": [
+      7,
+      11
+    ]
+  },
+  {
+    "context": "Özellikle yabancı misafirlerinizi ağırlamak için osmanlı tarzı dekorasyonu ve akıl almaz lezzetleri sayesinde türk mutfağını tanıtmak için çok uygun ...",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "25.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Özellikle yabancı misafirlerinizi ağırlamak için osmanlı tarzı dekorasyonu ve akıl almaz lezzetleri sayesinde türk mutfağını tanıtmak için çok uygun ...",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "25.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Servis kotu , mekan fazla aydinlik ve gurultulu .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "26.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Servis kotu , mekan fazla aydinlik ve gurultulu .",
+    "end_position": [
+      0,
+      3
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "26.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;0",
+      "3;3"
+    ],
+    "start_position": [
+      0,
+      3
+    ]
+  },
+  {
+    "context": "Servis kotu , mekan fazla aydinlik ve gurultulu .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "26.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Garsonlarin ilgisizligi cabasi .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "27.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Garsonlarin ilgisizligi cabasi .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "27.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Garsonlarin ilgisizligi cabasi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "27.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yemekler soguk ve gec geliyor .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "28.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yemekler soguk ve gec geliyor .",
+    "end_position": [
+      0,
+      4
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "28.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;0",
+      "4;4"
+    ],
+    "start_position": [
+      0,
+      4
+    ]
+  },
+  {
+    "context": "Yemekler soguk ve gec geliyor .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "28.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tek guzelligi Marina manzarasi .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "29.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Tek guzelligi Marina manzarasi .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "29.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tek guzelligi Marina manzarasi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "29.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bide Cikolatali Karayip katlarini met etmeden yapamiycam .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "30.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "1;3"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Bide Cikolatali Karayip katlarini met etmeden yapamiycam .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "30.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bide Cikolatali Karayip katlarini met etmeden yapamiycam .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "30.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "İstikrarli .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "31.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "İstikrarli .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "31.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "İstikrarli .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "31.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Her gittigimde bir öncekinden daha kötü susi yapmayi nasil yapmayi beceriyorlar ?",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "32.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Her gittigimde bir öncekinden daha kötü susi yapmayi nasil yapmayi beceriyorlar ?",
+    "end_position": [
+      6
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "32.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "Her gittigimde bir öncekinden daha kötü susi yapmayi nasil yapmayi beceriyorlar ?",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "32.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "So so Çok bir sey beklemeyin , Quick China kadar iyi degil .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "33.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "So so Çok bir sey beklemeyin , Quick China kadar iyi degil .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "33.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "So so Çok bir sey beklemeyin , Quick China kadar iyi degil .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "33.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu akimin öncülerinden ; ancak Quick China bence Sushico ' yu solladi .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "34.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu akimin öncülerinden ; ancak Quick China bence Sushico ' yu solladi .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "34.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu akimin öncülerinden ; ancak Quick China bence Sushico ' yu solladi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "34.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sushiler gene basarili ; ama yemekler ciddi anlamda bozuldu .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "35.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Sushiler gene basarili ; ama yemekler ciddi anlamda bozuldu .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "35.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Sushiler gene basarili ; ama yemekler ciddi anlamda bozuldu .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "35.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sanirim ahçi isten ayrildi .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "36.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sanirim ahçi isten ayrildi .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "36.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sanirim ahçi isten ayrildi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "36.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Cok guzel hepsi birbirinden guzel yemeklerinizz ve lezzetli sonrasinda .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "37.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Cok guzel hepsi birbirinden guzel yemeklerinizz ve lezzetli sonrasinda .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "37.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Cok guzel hepsi birbirinden guzel yemeklerinizz ve lezzetli sonrasinda .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "37.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Garsonlarin servis sunumunda hersey dört dört lük .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "38.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Garsonlarin servis sunumunda hersey dört dört lük .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "38.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Garsonlarin servis sunumunda hersey dört dört lük .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "38.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tesekkur ediyorum .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "39.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tesekkur ediyorum .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "39.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tesekkur ediyorum .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "39.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Calisanlara ve sizlere .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "40.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Calisanlara ve sizlere .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "40.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Calisanlara ve sizlere .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "40.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Cem Boyraz",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "41.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Cem Boyraz",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "41.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Cem Boyraz",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "41.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tavsiye bicak arasi yemeniz .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "42.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Tavsiye bicak arasi yemeniz .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "42.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tavsiye bicak arasi yemeniz .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "42.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Masanin bir ucundan diger ucuna kadar uzaniyir konya mutfagindan farkli lezzetler deneyin fiyatlar uygun geldi .",
+    "end_position": [
+      10
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "43.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "10;10"
+    ],
+    "start_position": [
+      10
+    ]
+  },
+  {
+    "context": "Masanin bir ucundan diger ucuna kadar uzaniyir konya mutfagindan farkli lezzetler deneyin fiyatlar uygun geldi .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "43.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Masanin bir ucundan diger ucuna kadar uzaniyir konya mutfagindan farkli lezzetler deneyin fiyatlar uygun geldi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "43.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çikolatalı Saray muhallebisi , krem karamel ve ayva tatlısından tabaklarca yiyebilirim .",
+    "end_position": [
+      2,
+      5,
+      8
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "44.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;2",
+      "4;5",
+      "7;8"
+    ],
+    "start_position": [
+      0,
+      4,
+      7
+    ]
+  },
+  {
+    "context": "Çikolatalı Saray muhallebisi , krem karamel ve ayva tatlısından tabaklarca yiyebilirim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "44.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çikolatalı Saray muhallebisi , krem karamel ve ayva tatlısından tabaklarca yiyebilirim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "44.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu konuda onların eline kolay kolay kimse su süremez .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "45.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu konuda onların eline kolay kolay kimse su süremez .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "45.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu konuda onların eline kolay kolay kimse su süremez .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "45.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çok açsanız pilav üstü döneri deneminizi tavsiye ederim .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "46.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "2;4"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Çok açsanız pilav üstü döneri deneminizi tavsiye ederim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "46.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çok açsanız pilav üstü döneri deneminizi tavsiye ederim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "46.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sadece teras katı oturulabilir olan bi şubesi .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "47.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sadece teras katı oturulabilir olan bi şubesi .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "47.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "Sadece teras katı oturulabilir olan bi şubesi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "47.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Diğer katlara pekte gerek yokmuş .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "48.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Diğer katlara pekte gerek yokmuş .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "48.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Diğer katlara pekte gerek yokmuş .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "48.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çalışanlar oldukca ilgili alakalı .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "49.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Çalışanlar oldukca ilgili alakalı .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "49.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çalışanlar oldukca ilgili alakalı .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "49.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "fiyatlar aynı yani normal .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "50.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "fiyatlar aynı yani normal .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "50.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "fiyatlar aynı yani normal .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "NEU",
+    "impossible": false,
+    "qas_id": "50.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "teras katında tatlınızı yiyip çayınızı yudumlayabilirsiniz .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "51.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "teras katında tatlınızı yiyip çayınızı yudumlayabilirsiniz .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "51.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "teras katında tatlınızı yiyip çayınızı yudumlayabilirsiniz .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "51.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Denemek lazim Ögle arasinda is yerinden arkadaslar ile gittik .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "52.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Denemek lazim Ögle arasinda is yerinden arkadaslar ile gittik .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "52.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Denemek lazim Ögle arasinda is yerinden arkadaslar ile gittik .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "52.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Biçak arasi iyi , saç arasi mükemmel , garsonlar ilgisiz ve fiyatlar uçmus .",
+    "end_position": [
+      1,
+      5
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "53.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;1",
+      "4;5"
+    ],
+    "start_position": [
+      0,
+      4
+    ]
+  },
+  {
+    "context": "Biçak arasi iyi , saç arasi mükemmel , garsonlar ilgisiz ve fiyatlar uçmus .",
+    "end_position": [
+      8,
+      11
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "53.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "8;8",
+      "11;11"
+    ],
+    "start_position": [
+      8,
+      11
+    ]
+  },
+  {
+    "context": "Biçak arasi iyi , saç arasi mükemmel , garsonlar ilgisiz ve fiyatlar uçmus .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "53.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ama gene de gitmek lazim .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "54.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ama gene de gitmek lazim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "54.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ama gene de gitmek lazim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "54.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Etli ekmeğinin Konya ' daki mekanlardan bile daha lezzetli olduğunu düşündüğüm mekan / dı .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "55.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Etli ekmeğinin Konya ' daki mekanlardan bile daha lezzetli olduğunu düşündüğüm mekan / dı .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "55.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Etli ekmeğinin Konya ' daki mekanlardan bile daha lezzetli olduğunu düşündüğüm mekan / dı .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "55.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Başakşehir şubesi açıldığından beri o eski Ovalı değil .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "56.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Başakşehir şubesi açıldığından beri o eski Ovalı değil .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "56.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Başakşehir şubesi açıldığından beri o eski Ovalı değil .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "56.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Başakşehir ' deki açık ara daha iyi .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "57.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Başakşehir ' deki açık ara daha iyi .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "57.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Başakşehir ' deki açık ara daha iyi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "57.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "mekanın yeri çok güzel .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "58.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "mekanın yeri çok güzel .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "58.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "mekanın yeri çok güzel .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "58.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "çalışanları kibar .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "59.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "çalışanları kibar .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "59.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "çalışanları kibar .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "59.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "lezzetine güvenebileceğiniz bir zincir zaten .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "60.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "lezzetine güvenebileceğiniz bir zincir zaten .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "60.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "lezzetine güvenebileceğiniz bir zincir zaten .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "60.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "deniz ürünleri salatası çok lezzetli .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "61.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "deniz ürünleri salatası çok lezzetli .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "61.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "deniz ürünleri salatası çok lezzetli .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "61.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ahtapot , karides , kalamar , somon füme ; ne ararsanız var içinde .",
+    "end_position": [
+      0,
+      2,
+      4,
+      7
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "62.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0",
+      "2;2",
+      "4;4",
+      "6;7"
+    ],
+    "start_position": [
+      0,
+      2,
+      4,
+      6
+    ]
+  },
+  {
+    "context": "ahtapot , karides , kalamar , somon füme ; ne ararsanız var içinde .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "62.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "ahtapot , karides , kalamar , somon füme ; ne ararsanız var içinde .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "62.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "sağlıklı ve hafif .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "63.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "sağlıklı ve hafif .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "63.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "sağlıklı ve hafif .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "63.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Toplantı için Kalkıp Florya Lara kadar gidip beklentiye bağlı olarak hayal kırıklığı yaratan mekan .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "64.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Toplantı için Kalkıp Florya Lara kadar gidip beklentiye bağlı olarak hayal kırıklığı yaratan mekan .",
+    "end_position": [
+      13
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "64.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "13;13"
+    ],
+    "start_position": [
+      13
+    ]
+  },
+  {
+    "context": "Toplantı için Kalkıp Florya Lara kadar gidip beklentiye bağlı olarak hayal kırıklığı yaratan mekan .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "64.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dışarıdan lüks gibi görünse de artık tarihi geçmiş mekan görüntüsü vermekte ve içerideki aksesuarlar göz yormakta .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "65.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Dışarıdan lüks gibi görünse de artık tarihi geçmiş mekan görüntüsü vermekte ve içerideki aksesuarlar göz yormakta .",
+    "end_position": [
+      8,
+      13
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "65.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "8;8",
+      "13;13"
+    ],
+    "start_position": [
+      8,
+      13
+    ]
+  },
+  {
+    "context": "Dışarıdan lüks gibi görünse de artık tarihi geçmiş mekan görüntüsü vermekte ve içerideki aksesuarlar göz yormakta .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "65.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yemeklere gelince döner tatsız tuzsuz , et köfte Pınar ' ın et köftesinden daha kötü , kırmızı et hafifçe sert ve keyifsizdi .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "66.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yemeklere gelince döner tatsız tuzsuz , et köfte Pınar ' ın et köftesinden daha kötü , kırmızı et hafifçe sert ve keyifsizdi .",
+    "end_position": [
+      2,
+      7,
+      17
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "66.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "2;2",
+      "6;7",
+      "16;17"
+    ],
+    "start_position": [
+      2,
+      6,
+      16
+    ]
+  },
+  {
+    "context": "Yemeklere gelince döner tatsız tuzsuz , et köfte Pınar ' ın et köftesinden daha kötü , kırmızı et hafifçe sert ve keyifsizdi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "66.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Belki künefe iyidir diye düşünürken künefenin peynirden yoksun olması hayal kırıklığımızı üst seviyeye çıkardı .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "67.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Belki künefe iyidir diye düşünürken künefenin peynirden yoksun olması hayal kırıklığımızı üst seviyeye çıkardı .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "67.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Belki künefe iyidir diye düşünürken künefenin peynirden yoksun olması hayal kırıklığımızı üst seviyeye çıkardı .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "67.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Illa kebap yemek istiyorsanız başka tercihlere yönelin derim ...",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "68.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Illa kebap yemek istiyorsanız başka tercihlere yönelin derim ...",
+    "end_position": [
+      1
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "68.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Illa kebap yemek istiyorsanız başka tercihlere yönelin derim ...",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "68.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Uzun zamandir gitmemistim ve iyi ki gitmemisim .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "69.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Uzun zamandir gitmemistim ve iyi ki gitmemisim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "69.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Uzun zamandir gitmemistim ve iyi ki gitmemisim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "69.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Gercekten lahmacunu tavugu berbatti ve gelen hesap 2 kisi 169tl .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "70.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Gercekten lahmacunu tavugu berbatti ve gelen hesap 2 kisi 169tl .",
+    "end_position": [
+      2,
+      6
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "70.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "1;2",
+      "6;6"
+    ],
+    "start_position": [
+      1,
+      6
+    ]
+  },
+  {
+    "context": "Gercekten lahmacunu tavugu berbatti ve gelen hesap 2 kisi 169tl .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "70.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Hic tavsiye etmiyorum , design deseniz zaten ic karartici ve demode",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "71.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Hic tavsiye etmiyorum , design deseniz zaten ic karartici ve demode",
+    "end_position": [
+      4
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "71.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Hic tavsiye etmiyorum , design deseniz zaten ic karartici ve demode",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "71.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "100 lira fix menuye gittik 8 kisi 1600 tl odedik 1 buyuk raki ictik toplamda .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "72.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "100 lira fix menuye gittik 8 kisi 1600 tl odedik 1 buyuk raki ictik toplamda .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "72.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "100 lira fix menuye gittik 8 kisi 1600 tl odedik 1 buyuk raki ictik toplamda .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "72.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "kahve ve caylar 200 tl tutmus heryerde cay ikramdir hemde 1600 tl hesap verene uzak durun",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "73.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "kahve ve caylar 200 tl tutmus heryerde cay ikramdir hemde 1600 tl hesap verene uzak durun",
+    "end_position": [
+      2
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "73.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;2"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "kahve ve caylar 200 tl tutmus heryerde cay ikramdir hemde 1600 tl hesap verene uzak durun",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "73.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Eğer deniz kenarında yer bulabilirseniz oturumu çok keyifli .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "74.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Eğer deniz kenarında yer bulabilirseniz oturumu çok keyifli .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "74.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Eğer deniz kenarında yer bulabilirseniz oturumu çok keyifli .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "74.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Mekan çok büyük olduğu için personel yetişemiyo ve servis sürekli aksıyor .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "75.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Mekan çok büyük olduğu için personel yetişemiyo ve servis sürekli aksıyor .",
+    "end_position": [
+      5,
+      8
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "75.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "5;5",
+      "8;8"
+    ],
+    "start_position": [
+      5,
+      8
+    ]
+  },
+  {
+    "context": "Mekan çok büyük olduğu için personel yetişemiyo ve servis sürekli aksıyor .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "75.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yemekleri gayet güzel",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "76.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Yemekleri gayet güzel",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "76.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yemekleri gayet güzel",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "76.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "İftar servisini çok zayıf bulduk .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "77.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "İftar servisini çok zayıf bulduk .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "77.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "İftar servisini çok zayıf bulduk .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "77.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "500 kişiye kaliteli servis verilemiyorsa 300 kişiye daha iyi şartlar sağlanabilir diye düşünüyorum .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "78.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "500 kişiye kaliteli servis verilemiyorsa 300 kişiye daha iyi şartlar sağlanabilir diye düşünüyorum .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "78.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "500 kişiye kaliteli servis verilemiyorsa 300 kişiye daha iyi şartlar sağlanabilir diye düşünüyorum .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "78.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ramazanda tavsiye etmiyorum .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "79.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ramazanda tavsiye etmiyorum .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "79.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ramazanda tavsiye etmiyorum .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "79.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bana sushiyi sevdiren tek yer diyebilirim çalışanları o kadar güler yüzlü ki .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "80.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "6;6"
+    ],
+    "start_position": [
+      6
+    ]
+  },
+  {
+    "context": "Bana sushiyi sevdiren tek yer diyebilirim çalışanları o kadar güler yüzlü ki .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "80.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bana sushiyi sevdiren tek yer diyebilirim çalışanları o kadar güler yüzlü ki .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "80.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu fiyata böyle bir memnuniyet çok az rastlanacak şey .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "81.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Bu fiyata böyle bir memnuniyet çok az rastlanacak şey .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "81.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu fiyata böyle bir memnuniyet çok az rastlanacak şey .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "81.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Mekan hiç boğucu degil gayet güzel",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "82.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Mekan hiç boğucu degil gayet güzel",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "82.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Mekan hiç boğucu degil gayet güzel",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "82.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Akrabalar bizi goturdu .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "83.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Akrabalar bizi goturdu .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "83.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Akrabalar bizi goturdu .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "83.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Burasi turkiyedeki eti restoran olarak mukenmel restorant biriymis .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "84.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Burasi turkiyedeki eti restoran olarak mukenmel restorant biriymis .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "84.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Burasi turkiyedeki eti restoran olarak mukenmel restorant biriymis .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "84.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tabi ki et yemekler hepsi cok harika .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "85.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "2;3"
+    ],
+    "start_position": [
+      2
+    ]
+  },
+  {
+    "context": "Tabi ki et yemekler hepsi cok harika .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "85.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tabi ki et yemekler hepsi cok harika .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "85.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tarihi bina da begendim .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "86.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Tarihi bina da begendim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "86.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tarihi bina da begendim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "86.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tereyağlı Mercimek Çorbası ve Bıçak arası muhteşem ikili diyebilirim .",
+    "end_position": [
+      2,
+      5
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "87.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;2",
+      "4;5"
+    ],
+    "start_position": [
+      0,
+      4
+    ]
+  },
+  {
+    "context": "Tereyağlı Mercimek Çorbası ve Bıçak arası muhteşem ikili diyebilirim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "87.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tereyağlı Mercimek Çorbası ve Bıçak arası muhteşem ikili diyebilirim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "87.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Her Şubesi ' nde aynı kaliteyi yakalamışlar .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "88.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Her Şubesi ' nde aynı kaliteyi yakalamışlar .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "88.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Her Şubesi ' nde aynı kaliteyi yakalamışlar .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "88.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sadece döner olayını pek yapamıyorlar .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "89.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sadece döner olayını pek yapamıyorlar .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "89.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Sadece döner olayını pek yapamıyorlar .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "89.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Servis saatlerinde bolca kalabalik olan ilgili bir mekan ambiyans olarak farkli bir lezzet tadacaginizi size bildiriyor .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "90.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "8;8"
+    ],
+    "start_position": [
+      8
+    ]
+  },
+  {
+    "context": "Servis saatlerinde bolca kalabalik olan ilgili bir mekan ambiyans olarak farkli bir lezzet tadacaginizi size bildiriyor .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "90.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Servis saatlerinde bolca kalabalik olan ilgili bir mekan ambiyans olarak farkli bir lezzet tadacaginizi size bildiriyor .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "90.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Farkli tatlar icin dusunulebilinir .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "91.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Farkli tatlar icin dusunulebilinir .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "91.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Farkli tatlar icin dusunulebilinir .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "91.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tavuklarin iri dogranmis olmasi pek hos degil .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "92.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tavuklarin iri dogranmis olmasi pek hos degil .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "92.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Tavuklarin iri dogranmis olmasi pek hos degil .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "92.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pilavda su tadi aliyorsunuz .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "93.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pilavda su tadi aliyorsunuz .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "93.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Pilavda su tadi aliyorsunuz .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "93.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bir de üstüne 9,5 TL veriyorsunuz .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "94.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bir de üstüne 9,5 TL veriyorsunuz .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "94.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "3;4"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "Bir de üstüne 9,5 TL veriyorsunuz .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "94.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Afiyet oldu mu simdi bana :",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "95.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Afiyet oldu mu simdi bana :",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "95.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Afiyet oldu mu simdi bana :",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "95.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tercih etmem Pazar günü kahvalti için gittim .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "96.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tercih etmem Pazar günü kahvalti için gittim .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "96.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Tercih etmem Pazar günü kahvalti için gittim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "96.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Daha önce Nisantasi ' nda ki subeye gitmistim ve inanilmaz güzel kahvalti etmistim ve memnun kalmistim .",
+    "end_position": [
+      11
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "97.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "11;11"
+    ],
+    "start_position": [
+      11
+    ]
+  },
+  {
+    "context": "Daha önce Nisantasi ' nda ki subeye gitmistim ve inanilmaz güzel kahvalti etmistim ve memnun kalmistim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "97.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Daha önce Nisantasi ' nda ki subeye gitmistim ve inanilmaz güzel kahvalti etmistim ve memnun kalmistim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "97.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ama bu sefer Beyoglu ' nda ki subede hiç memnun kalmadim .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "98.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ama bu sefer Beyoglu ' nda ki subede hiç memnun kalmadim .",
+    "end_position": [
+      7
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "98.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "3;7"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "Ama bu sefer Beyoglu ' nda ki subede hiç memnun kalmadim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "98.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Manzarasi yat limani Garsonlari ilgi alakali ozellikle Ege bey .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "99.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "Manzarasi yat limani Garsonlari ilgi alakali ozellikle Ege bey .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "99.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Manzarasi yat limani Garsonlari ilgi alakali ozellikle Ege bey .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "99.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ancak fiyatlar ile yemek karsilastirmasi bence uyumsuz yuksek standartlar icermekte Ayni mekanda daha çok çeşit var İsim satıyor birazz Dikkat !",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "100.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ancak fiyatlar ile yemek karsilastirmasi bence uyumsuz yuksek standartlar icermekte Ayni mekanda daha çok çeşit var İsim satıyor birazz Dikkat !",
+    "end_position": [
+      1
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "100.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Ancak fiyatlar ile yemek karsilastirmasi bence uyumsuz yuksek standartlar icermekte Ayni mekanda daha çok çeşit var İsim satıyor birazz Dikkat !",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "100.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Konumu , manzarası , lezzeti şahane ...",
+    "end_position": [
+      0,
+      2,
+      4
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "101.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0",
+      "2;2",
+      "4;4"
+    ],
+    "start_position": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "context": "Konumu , manzarası , lezzeti şahane ...",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "101.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Konumu , manzarası , lezzeti şahane ...",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "101.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bir arkadaşımın ısrarı ile lahmacun yemiştim ki benim yediğim en güzel lahmacundu ...",
+    "end_position": [
+      4
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "102.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Bir arkadaşımın ısrarı ile lahmacun yemiştim ki benim yediğim en güzel lahmacundu ...",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "102.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bir arkadaşımın ısrarı ile lahmacun yemiştim ki benim yediğim en güzel lahmacundu ...",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "102.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kebapları zaten muazzam :",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "103.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Kebapları zaten muazzam :",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "103.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kebapları zaten muazzam :",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "103.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yani en basitinden en zoruna ...",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "104.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yani en basitinden en zoruna ...",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "104.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yani en basitinden en zoruna ...",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "104.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Hepsi harika ...",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "105.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Hepsi harika ...",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "105.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Hepsi harika ...",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "105.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ayrıca sigara içmeyenlerin dostu olması dolayısıyla bu mekan benim en favorilerimden :",
+    "end_position": [
+      7
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "106.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Ayrıca sigara içmeyenlerin dostu olması dolayısıyla bu mekan benim en favorilerimden :",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "106.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ayrıca sigara içmeyenlerin dostu olması dolayısıyla bu mekan benim en favorilerimden :",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "106.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu mekan newyorkta olsa yemek yemek için bir sene önceden rezervasyon yaptırmak gerekirdi .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "107.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu mekan newyorkta olsa yemek yemek için bir sene önceden rezervasyon yaptırmak gerekirdi .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "107.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bu mekan newyorkta olsa yemek yemek için bir sene önceden rezervasyon yaptırmak gerekirdi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "107.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pırıl pırıl salonlar Güler yüzlü ve temiz garsonlar .",
+    "end_position": [
+      2,
+      7
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "108.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "2;2",
+      "7;7"
+    ],
+    "start_position": [
+      2,
+      7
+    ]
+  },
+  {
+    "context": "Pırıl pırıl salonlar Güler yüzlü ve temiz garsonlar .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "108.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Pırıl pırıl salonlar Güler yüzlü ve temiz garsonlar .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "108.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Etler için yoruma gerek yok .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "109.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Etler için yoruma gerek yok .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "109.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Etler için yoruma gerek yok .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "109.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Özellikle favorim bakır kapta gelen kuzu kol , bunu bu şekilde başka yerde yemeniz olanaksız .",
+    "end_position": [
+      6
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "110.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "5;6"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Özellikle favorim bakır kapta gelen kuzu kol , bunu bu şekilde başka yerde yemeniz olanaksız .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "110.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Özellikle favorim bakır kapta gelen kuzu kol , bunu bu şekilde başka yerde yemeniz olanaksız .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "110.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "zeytinyağlılar süper özellikle imambayıldı titretiyor insanı , alkol içmeyecekseniz mukakkak koyu ayranı içmenizi tavsiye ederim .",
+    "end_position": [
+      0,
+      3,
+      11
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "111.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0",
+      "3;3",
+      "10;11"
+    ],
+    "start_position": [
+      0,
+      3,
+      10
+    ]
+  },
+  {
+    "context": "zeytinyağlılar süper özellikle imambayıldı titretiyor insanı , alkol içmeyecekseniz mukakkak koyu ayranı içmenizi tavsiye ederim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "111.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "zeytinyağlılar süper özellikle imambayıldı titretiyor insanı , alkol içmeyecekseniz mukakkak koyu ayranı içmenizi tavsiye ederim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "111.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "İş fiyatlara gelince öyle bir mekan için normal fakat beyti kalitesinde Avrupa veya Amerika ' da yer iseniz 3 kat fazlasını ödemek zorundasınız .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "112.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "İş fiyatlara gelince öyle bir mekan için normal fakat beyti kalitesinde Avrupa veya Amerika ' da yer iseniz 3 kat fazlasını ödemek zorundasınız .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "112.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "İş fiyatlara gelince öyle bir mekan için normal fakat beyti kalitesinde Avrupa veya Amerika ' da yer iseniz 3 kat fazlasını ödemek zorundasınız .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "NEU",
+    "impossible": false,
+    "qas_id": "112.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Mahalle lokantasi Yillardan beri Sushico Nisantasi ' nda .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "113.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Mahalle lokantasi Yillardan beri Sushico Nisantasi ' nda .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "113.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Mahalle lokantasi Yillardan beri Sushico Nisantasi ' nda .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "113.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ara sira gidilebilecek bir lokanta .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "114.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ara sira gidilebilecek bir lokanta .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "114.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ara sira gidilebilecek bir lokanta .",
+    "end_position": [
+      4
+    ],
+    "entity_label": "NEU",
+    "impossible": false,
+    "qas_id": "114.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Susileri belli bir seviyede her zaman , asagi düsmüyor .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "115.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Susileri belli bir seviyede her zaman , asagi düsmüyor .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "115.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Susileri belli bir seviyede her zaman , asagi düsmüyor .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "115.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çin yemekleri de fena degil .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "116.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Çin yemekleri de fena degil .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "116.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çin yemekleri de fena degil .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "116.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "sabahları börekleri .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "117.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "sabahları börekleri .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "117.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "sabahları börekleri .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "117.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "öğle ve akşam yemekleriyle her şubesinde aynı kaliteyi yakalamış mekan .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "118.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;3"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "öğle ve akşam yemekleriyle her şubesinde aynı kaliteyi yakalamış mekan .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "118.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "öğle ve akşam yemekleriyle her şubesinde aynı kaliteyi yakalamış mekan .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "118.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "tatlılarını övmeye gerek bile görmüyorum .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "119.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "tatlılarını övmeye gerek bile görmüyorum .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "119.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "tatlılarını övmeye gerek bile görmüyorum .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "119.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "yazın dondurması da denenmeli .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "120.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "yazın dondurması da denenmeli .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "120.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "yazın dondurması da denenmeli .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "120.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sütlü tatlilari mükemmel diyebilirim .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "121.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;1"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Sütlü tatlilari mükemmel diyebilirim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "121.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sütlü tatlilari mükemmel diyebilirim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "121.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çayi güzel .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "122.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Çayi güzel .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "122.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çayi güzel .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "122.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Döneri çogu insan tarafindan sevilmese de ben seviyorum .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "123.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Döneri çogu insan tarafindan sevilmese de ben seviyorum .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "123.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Döneri çogu insan tarafindan sevilmese de ben seviyorum .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "123.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ama iskenderi güzel degil .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "124.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ama iskenderi güzel degil .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "124.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Ama iskenderi güzel degil .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "124.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sos isini beceremiyorlar .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "125.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Sos isini beceremiyorlar .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "125.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Sos isini beceremiyorlar .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "125.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yanindaki yogurt güzel ama .",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "126.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Yanindaki yogurt güzel ama .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "126.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Yanindaki yogurt güzel ama .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "126.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bazen gereksiz derecede çok kalabalik olabiliyor .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "127.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bazen gereksiz derecede çok kalabalik olabiliyor .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "127.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Bazen gereksiz derecede çok kalabalik olabiliyor .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "127.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kebap ve Et restoranları aleminde sıkça karşılaşılan lezzet ve ambiyans paradoksunu çözmüş bir mekan .",
+    "end_position": [
+      7,
+      9
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "128.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "7;7",
+      "9;9"
+    ],
+    "start_position": [
+      7,
+      9
+    ]
+  },
+  {
+    "context": "Kebap ve Et restoranları aleminde sıkça karşılaşılan lezzet ve ambiyans paradoksunu çözmüş bir mekan .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "128.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Kebap ve Et restoranları aleminde sıkça karşılaşılan lezzet ve ambiyans paradoksunu çözmüş bir mekan .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "128.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Lahmacun ve içliköfte iyi fakat dolmaları Antep usulünde İstanbul ' da yediklerim arasında en iyilerdendi .",
+    "end_position": [
+      2,
+      5
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "129.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;2",
+      "5;5"
+    ],
+    "start_position": [
+      0,
+      5
+    ]
+  },
+  {
+    "context": "Lahmacun ve içliköfte iyi fakat dolmaları Antep usulünde İstanbul ' da yediklerim arasında en iyilerdendi .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "129.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Lahmacun ve içliköfte iyi fakat dolmaları Antep usulünde İstanbul ' da yediklerim arasında en iyilerdendi .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "129.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Etler malzeme , marinasyon , pişirme ve sunum açısından çok başarılı .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "130.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Etler malzeme , marinasyon , pişirme ve sunum açısından çok başarılı .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "130.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Etler malzeme , marinasyon , pişirme ve sunum açısından çok başarılı .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "130.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Özellikle fıstıklı kebap favorim .",
+    "end_position": [
+      2
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "131.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "1;2"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Özellikle fıstıklı kebap favorim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "131.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Özellikle fıstıklı kebap favorim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "131.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Katmer de muazzam .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "132.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Katmer de muazzam .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "132.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Katmer de muazzam .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "132.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ambiyans ve dekorasyon titizlikle tasarlanmış olan bu mekanda menüye bağlı kalmayatak tamamen sizin isteklerinize göre sipariş verebiliyorsunuz .",
+    "end_position": [
+      2,
+      15
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "133.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;2",
+      "15;15"
+    ],
+    "start_position": [
+      0,
+      15
+    ]
+  },
+  {
+    "context": "Ambiyans ve dekorasyon titizlikle tasarlanmış olan bu mekanda menüye bağlı kalmayatak tamamen sizin isteklerinize göre sipariş verebiliyorsunuz .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "133.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Ambiyans ve dekorasyon titizlikle tasarlanmış olan bu mekanda menüye bağlı kalmayatak tamamen sizin isteklerinize göre sipariş verebiliyorsunuz .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "133.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Manzara süper , yemekler fena değil ama porsiyon miktarı çook çook azz o fiyatı kesinlikle haketmiyor .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "134.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Manzara süper , yemekler fena değil ama porsiyon miktarı çook çook azz o fiyatı kesinlikle haketmiyor .",
+    "end_position": [
+      8
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "134.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "7;8"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Manzara süper , yemekler fena değil ama porsiyon miktarı çook çook azz o fiyatı kesinlikle haketmiyor .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "NEU",
+    "impossible": false,
+    "qas_id": "134.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "happymoons daha iyi daha uygun we porsiyonları çok büyük .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "135.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "happymoons daha iyi daha uygun we porsiyonları çok büyük .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "135.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "happymoons daha iyi daha uygun we porsiyonları çok büyük .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "135.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "çok sıcak çok kalabalık denizden koku geliyor yemekleri orta garsonlar ilgisiz kahvaltısı zayıf üzerine gidip Saray dan suböreği yedik otopark ücretsiz diyip ücret alıyor",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "136.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "çok sıcak çok kalabalık denizden koku geliyor yemekleri orta garsonlar ilgisiz kahvaltısı zayıf üzerine gidip Saray dan suböreği yedik otopark ücretsiz diyip ücret alıyor",
+    "end_position": [
+      5,
+      9,
+      11
+    ],
+    "entity_label": "NEG",
+    "impossible": false,
+    "qas_id": "136.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [
+      "5;5",
+      "9;9",
+      "11;11"
+    ],
+    "start_position": [
+      5,
+      9,
+      11
+    ]
+  },
+  {
+    "context": "çok sıcak çok kalabalık denizden koku geliyor yemekleri orta garsonlar ilgisiz kahvaltısı zayıf üzerine gidip Saray dan suböreği yedik otopark ücretsiz diyip ücret alıyor",
+    "end_position": [
+      7
+    ],
+    "entity_label": "NEU",
+    "impossible": false,
+    "qas_id": "136.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [
+      "7;7"
+    ],
+    "start_position": [
+      7
+    ]
+  },
+  {
+    "context": "Çalışanlar kesinlikle çok nezih .",
+    "end_position": [
+      0
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "137.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0"
+    ],
+    "start_position": [
+      0
+    ]
+  },
+  {
+    "context": "Çalışanlar kesinlikle çok nezih .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "137.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çalışanlar kesinlikle çok nezih .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "137.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çayı da güzel yapıyorlar yanına da su böreği .",
+    "end_position": [
+      0,
+      7
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "138.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "0;0",
+      "6;7"
+    ],
+    "start_position": [
+      0,
+      6
+    ]
+  },
+  {
+    "context": "Çayı da güzel yapıyorlar yanına da su böreği .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "138.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Çayı da güzel yapıyorlar yanına da su böreği .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "138.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tavsiye ederim .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "139.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tavsiye ederim .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "139.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Tavsiye ederim .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "139.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Istiklal Caddesi ' ne girdiğinizde solda kalıyor .",
+    "end_position": [],
+    "entity_label": "POS",
+    "impossible": true,
+    "qas_id": "140.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Istiklal Caddesi ' ne girdiğinizde solda kalıyor .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "140.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Istiklal Caddesi ' ne girdiğinizde solda kalıyor .",
+    "end_position": [
+      5
+    ],
+    "entity_label": "NEU",
+    "impossible": false,
+    "qas_id": "140.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [
+      "5;5"
+    ],
+    "start_position": [
+      5
+    ]
+  },
+  {
+    "context": "Deniz kenarında olan bütün mekanların aurası başka tabi adı birde Fenerbahçe olursa ...",
+    "end_position": [
+      4
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "141.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "4;4"
+    ],
+    "start_position": [
+      4
+    ]
+  },
+  {
+    "context": "Deniz kenarında olan bütün mekanların aurası başka tabi adı birde Fenerbahçe olursa ...",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "141.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Deniz kenarında olan bütün mekanların aurası başka tabi adı birde Fenerbahçe olursa ...",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "141.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Açıldığından bu yana buranın keyfini çıkarmayı çok seviyorum .",
+    "end_position": [
+      3
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "142.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "3;3"
+    ],
+    "start_position": [
+      3
+    ]
+  },
+  {
+    "context": "Açıldığından bu yana buranın keyfini çıkarmayı çok seviyorum .",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "142.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Açıldığından bu yana buranın keyfini çıkarmayı çok seviyorum .",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "142.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Klasik lezzetler ...",
+    "end_position": [
+      1
+    ],
+    "entity_label": "POS",
+    "impossible": false,
+    "qas_id": "143.0",
+    "query": "Pozitif duyguların görünüş açısından.",
+    "span_position": [
+      "1;1"
+    ],
+    "start_position": [
+      1
+    ]
+  },
+  {
+    "context": "Klasik lezzetler ...",
+    "end_position": [],
+    "entity_label": "NEG",
+    "impossible": true,
+    "qas_id": "143.1",
+    "query": "olumsuz duyguların en boy terimleri için.",
+    "span_position": [],
+    "start_position": []
+  },
+  {
+    "context": "Klasik lezzetler ...",
+    "end_position": [],
+    "entity_label": "NEU",
+    "impossible": true,
+    "qas_id": "143.2",
+    "query": "nötr duygunun görünüş terimleri için.",
+    "span_position": [],
+    "start_position": []
+  }
+]
