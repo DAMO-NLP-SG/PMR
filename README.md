@@ -64,11 +64,11 @@
 ## Pre-training
 Once we get the cached file, we can start pre-training. Please refer to the following codes for pre-training PMR/mPMR models.
 ```
-bash train.sh ## Notes: PMR on top of RoBERTa-base
-bash train-large.sh ## Notes: PMR on top of RoBERTa-large
-bash train-xxlarge.sh ## Notes: PMR on top of ALBERT-xxlarge
-bash mtrain.sh ## Notes: mPMR on top of XLMR-base
-bash mtrain-large.sh ## Notes: mPMR on top of XLMR-large
+bash train.sh           ## Notes: PMR on top of RoBERTa-base
+bash train-large.sh     ## Notes: PMR on top of RoBERTa-large
+bash train-xxlarge.sh   ## Notes: PMR on top of ALBERT-xxlarge
+bash mtrain.sh          ## Notes: mPMR on top of XLMR-base
+bash mtrain-large.sh    ## Notes: mPMR on top of XLMR-large
 ```
 
 
