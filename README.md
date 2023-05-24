@@ -3,6 +3,22 @@
   -  [From Cloze to Comprehension: Retrofitting Pre-trained Language Models to Pre-trained Machine Readers](https://arxiv.org/pdf/2212.04755.pdf), arXiv:2212.04755.
   -  [mPMR: A Multilingual Pre-trained Machine Reader at Scale](), ACL 2023.
 
+## Introduction
+Pre-trained Machine Reader (PMR) is pre-trained with 18 million Machine Reading Comprehension (MRC) examples constructed with Wikipedia Hyperlinks.
+The model is pre-trained with distantly labeled data using a learning objective called Wiki Anchor Extraction (WAE).
+Specifically, we constructed a large volume of general-purpose and high-quality MRC-style training data based on Wikipedia anchors (i.e., hyperlinked texts).
+For each Wikipedia anchor, we composed a pair of correlated articles.
+One side of the pair is the Wikipedia article that contains detailed descriptions of the hyperlinked entity, which we defined as the definition article.
+The other side of the pair is the article that mentions the specific anchor text, which we defined as the mention article.
+We composed an MRC-style training instance in which the anchor is the answer, 
+the surrounding passage of the anchor in the mention article is the context, and the definition of the anchor entity in the definition article is the query.
+Based on the above data, we then introduced a novel WAE problem as the pre-training task of PMR.
+In this task, PMR determines whether the context and the query are relevant.
+If so, PMR extracts the answer from the context that satisfies the query description.
+<p align="center" width="100%">
+<a target="_blank"><img src="model.jpg" alt="PMR" style="width: 100%; min-width: 200px; display: block; margin: auto;"></a>
+</p>
+
 ## Requirements
 * python 3.6.12
 * pytorch 1.9.0+cu111 (downloaded from the official webpage)
