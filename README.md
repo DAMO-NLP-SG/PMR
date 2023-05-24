@@ -15,7 +15,7 @@ Based on the above data, we then introduced a novel WAE problem as the pre-train
 In this task, PMR determines whether the context and the query are relevant.
 If so, PMR extracts the answer from the context that satisfies the query description.
 <p align="center" width="100%">
-<a target="_blank"><img src="model.jpg" alt="PMR" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="data.jpg" alt="PMR" style="width: 100%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 ## Requirements
