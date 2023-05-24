@@ -25,12 +25,9 @@ If so, PMR extracts the answer from the context that satisfies the query descrip
 * python 3.6.12
 * pytorch 1.9.0+cu111 (downloaded from the official webpage)
 * transformers 4.17.0
-* tensorboardX 1.8
 * tqdm 4.63.0
 * sentencepiece==0.1.96
 * Levenshtein
-* rank_bm25
-* tensorboardX
 
 ## Preprocessing Wikipedia (Optional)
 1. PMR
