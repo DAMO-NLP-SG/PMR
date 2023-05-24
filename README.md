@@ -11,11 +11,14 @@ One side of the pair is the Wikipedia article that contains detailed description
 The other side of the pair is the article that mentions the specific anchor text, which we defined as the mention article.
 We composed an MRC-style training instance in which the anchor is the answer, 
 the surrounding passage of the anchor in the mention article is the context, and the definition of the anchor entity in the definition article is the query.
+<p align="center" width="100%">
+<a target="_blank"><img src="data.jpg" alt="PMR data" style="width: 100%; min-width: 200px; display: block; margin: auto;"></a>
+</p>
 Based on the above data, we then introduced a novel WAE problem as the pre-training task of PMR.
 In this task, PMR determines whether the context and the query are relevant.
 If so, PMR extracts the answer from the context that satisfies the query description.
 <p align="center" width="100%">
-<a target="_blank"><img src="data.jpg" alt="PMR" style="width: 100%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="model.jpg" alt="PMR model" style="width: 100%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 ## Requirements
