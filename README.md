@@ -67,9 +67,9 @@ If so, PMR extracts the answer from the context that satisfies the query descrip
  
    2. After extracting wikipedia pages for all languages (step 1 in the last section), we provide preprocessing scripts to create MRC examples for all languages. 
       ```
-      bash reprocessing_mPMR/wiki_preprocess.sh
-      bash reprocessing_mPMR/wiki_sampling.sh
-      bash reprocessing_mPMR/wiki2mrc.sh
+      bash preprocessing_mPMR/wiki_preprocess.sh
+      bash preprocessing_mPMR/wiki_sampling.sh
+      bash preprocessing_mPMR/wiki2mrc.sh
       ```
 
    3. Since each cache file contains the MRC examples of the same language, we do another mix procedure such that each cache file contains exmaples from all languages with the same distribution (``--evaluate`` for mixing the cache file of test set). 
