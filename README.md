@@ -104,7 +104,7 @@ bash mtrain-large.sh    ## Notes: mPMR on top of XLMR-large
   bash conll03.sh
   ```
 
-## Usage of Fine-tuned PMR
+## Example Usage of Fine-tuned PMR
 TODO
 
 
