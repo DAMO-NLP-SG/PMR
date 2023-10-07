@@ -1,7 +1,7 @@
 # Pre-training Machine Reader (Instead of Masked Language Model) at Scale
 - This repo contains the code of the following papers working on large-scale machine reader pre-training, 
-  -  [From Cloze to Comprehension: Retrofitting Pre-trained Language Models to Pre-trained Machine Readers](https://arxiv.org/pdf/2212.04755.pdf), arXiv:2212.04755.
-  -  [mPMR: A Multilingual Pre-trained Machine Reader at Scale](), ACL 2023.
+  -  [From Cloze to Comprehension: Retrofitting Pre-trained Language Models to Pre-trained Machine Readers](https://arxiv.org/pdf/2212.04755.pdf), NeurIPS 2023.
+  -  [mPMR: A Multilingual Pre-trained Machine Reader at Scale](https://aclanthology.org/2023.acl-short.131.pdf), ACL 2023.
 
 ## Introduction
 Pre-trained Machine Reader (PMR) is pre-trained with 18 million Machine Reading Comprehension (MRC) examples constructed with Wikipedia Hyperlinks using a learning objective called Wiki Anchor Extraction (WAE).
@@ -38,17 +38,18 @@ If so, PMR extracts the answer from the context that satisfies the query descrip
       python WikiExtractor.py enwiki-20220801-pages-articles.xml.bz2 -c -l --json -o en   
       ```
    2. Then we use the following code to do tokenization for all the wiki pages. The outputs are two file named ``en/processed/e2p.bz2`` and ``en/processed/e2c.bz2``.
-      ``e2p`` is a dictionary that maps the entity (e) to its tokenized wiki page (p). ``e2c`` is another dictionary that maps the entity (e) to its anchor's context (c). 
+      ``e2p`` is a dictionary that maps the entity (e) to its tokenized wiki page (p). ``e2c`` is another dictionary that maps the entity (e) to its anchor's context (c).
+      We provide our processed file [here](https://huggingface.co/datasets/DAMO-NLP-SG/HyperlinkMRC).
       ```
       cp -r wikiextractor/en ./
       python preprocessing_PMR/wiki_preprocess_multiprocess.py --file en --processes 20
       ```
-   3. Once we get the tokenized data, we do sampling to select a number of context for each wiki entity. We set an upper bound (``--up``) of context number and
+   4. Once we get the tokenized data, we do sampling to select a number of context for each wiki entity. We set an upper bound (``--up``) of context number and
       a filtering threshold (``--bottom``) to filter out the entities that have fewer contexts.
       ```     
       python preprocessing_PMR/wiki_sampling.py --method fre --fre 10 --k 10 --file en --sample_data full-random10
       ```
-   4. We also generate the token id using the model tokenizer and save it in a cached file for fast reusage and accelerating the training process (``--evaluate`` for generating the cache file of test set).
+   5. We also generate the token id using the model tokenizer and save it in a cached file for fast reusage and accelerating the training process (``--evaluate`` for generating the cache file of test set).
       ```     
       python preprocessing_PMR/wikipedia2mrc_multiprocess.py --processes 20 --file en --sample_data full-random10 --model_type roberta --model_name_or_path roberta-base --do_negative --buffer 7000000 --simple
       python preprocessing_PMR/wikipedia2mrc_multiprocess.py --processes 20 --file en --sample_data full-random10 --model_type roberta --model_name_or_path roberta-base --do_negative --buffer 7000000 --simple --evaluate
