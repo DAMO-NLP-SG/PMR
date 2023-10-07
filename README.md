@@ -39,7 +39,7 @@ If so, PMR extracts the answer from the context that satisfies the query descrip
       ```
    2. Then we use the following code to do tokenization for all the wiki pages. The outputs are two file named ``en/processed/e2p.bz2`` and ``en/processed/e2c.bz2``.
       ``e2p`` is a dictionary that maps the entity (e) to its tokenized wiki page (p). ``e2c`` is another dictionary that maps the entity (e) to its anchor's context (c).
-      We provide our processed file [here](https://huggingface.co/datasets/DAMO-NLP-SG/HyperlinkMRC).
+      We provide our processed files [here](https://huggingface.co/datasets/DAMO-NLP-SG/HyperlinkMRC).
       ```
       cp -r wikiextractor/en ./
       python preprocessing_PMR/wiki_preprocess_multiprocess.py --file en --processes 20
