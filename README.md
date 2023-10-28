@@ -37,14 +37,14 @@ If so, PMR extracts the answer from the context that satisfies the query descrip
       ```     
       python WikiExtractor.py enwiki-20220801-pages-articles.xml.bz2 -c -l --json -o en   
       ```
-   2. Then we use the following code to do tokenization for all the wiki pages. The outputs are two file named ``en/processed/e2p.bz2`` and ``en/processed/e2c.bz2``.
+   2. Then we use the following code to do tokenization for all the wiki pages. The outputs are two files named ``en/processed/e2p.bz2`` and ``en/processed/e2c.bz2``.
       ``e2p`` is a dictionary that maps the entity (e) to its tokenized wiki page (p). ``e2c`` is another dictionary that maps the entity (e) to its anchor's context (c).
       We provide our processed files [here](https://huggingface.co/datasets/DAMO-NLP-SG/HyperlinkMRC).
       ```
       cp -r wikiextractor/en ./
       python preprocessing_PMR/wiki_preprocess_multiprocess.py --file en --processes 20
       ```
-   4. Once we get the tokenized data, we do sampling to select a number of context for each wiki entity. We set an upper bound (``--up``) of context number and
+   4. Once we get the tokenized data, we do sampling to select several contexts for each wiki entity. We set an upper bound (``--up``) of context number and
       a filtering threshold (``--bottom``) to filter out the entities that have fewer contexts.
       ```     
       python preprocessing_PMR/wiki_sampling.py --method fre --fre 10 --k 10 --file en --sample_data full-random10
@@ -63,21 +63,21 @@ If so, PMR extracts the answer from the context that satisfies the query descrip
        cp -r ./en ../mPMR/
        ```
  
-   2. After extracting wikipedia pages for all languages (step 1 in the last section), we provide preprocessing scripts to create MRC examples for all languages. 
+   2. After extracting Wikipedia pages for all languages (step 1 in the last section), we provide preprocessing scripts to create MRC examples for all languages. 
       ```
       bash preprocessing_mPMR/wiki_preprocess.sh
       bash preprocessing_mPMR/wiki_sampling.sh
       bash preprocessing_mPMR/wiki2mrc.sh
       ```
 
-   3. Since each cache file contains the MRC examples of the same language, we do another mix procedure such that each cache file contains exmaples from all languages with the same distribution (``--evaluate`` for mixing the cache file of test set). 
+   3. Since each cache file contains the MRC examples of the same language, we do another mix procedure such that each cache file contains exmaples from all languages with the same distribution (``--evaluate`` for mixing the cache file of the test set). 
       ```     
       python preprocessing_mPMR/wiki_mix_fast.py --langs ar_bn_de_fi_fr_el_en_es_hi_id_it_ja_ko_nl_pl_pt_ru_sv_sw_te_th_tr_vi_zh --sample_data full-random-10 --model_type xlmr --saved_buffer 7000000 --buffer 10000000 --do_negative --out_dir mix24
       python preprocessing_mPMR/wiki_mix_fast.py --langs ar_bn_de_fi_fr_el_en_es_hi_id_it_ja_ko_nl_pl_pt_ru_sv_sw_te_th_tr_vi_zh --sample_data full-random-10 --model_type xlmr --saved_buffer 7000000 --buffer 10000000 --do_negative --out_dir mix24 --evaluate
       ```
 
 
-## Pre-training (Optinal)
+## Pre-training (Optional)
 Once we get the cached file, we can start pre-training. Please refer to the following codes for pre-training PMR/mPMR models.
 ```
 bash train.sh           ## Notes: PMR on top of RoBERTa-base
@@ -88,18 +88,20 @@ bash mtrain-large.sh    ## Notes: mPMR on top of XLMR-large
 ```
 
 ## Pre-trained Models
-| Model                                                         | HF_Name                 |
+| Model                                                         | HF Name                 |
 |---------------------------------------------------------------|-------------------------|
 | [PMR-base](https://huggingface.co/DAMO-NLP-SG/PMR-base)       | DAMO-NLP-SG/PMR-base    |  
-| [PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge) | DAMO-NLP-SG/PMR-large   |
-| [PMR-large](https://huggingface.co/DAMO-NLP-SG/PMR-large)     | DAMO-NLP-SG/PMR-xxlarge |
+| [PMR-large](https://huggingface.co/DAMO-NLP-SG/PMR-large)     | DAMO-NLP-SG/PMR-large |
+| [PMR-xxlarge](https://huggingface.co/DAMO-NLP-SG/PMR-xxlarge) | DAMO-NLP-SG/PMR-xxlarge   |
+| [NER-PMR-large](https://huggingface.co/DAMO-NLP-SG/NER-PMR-large) | DAMO-NLP-SG/NER-PMR-large   |
+| [EQA-PMR-large](https://huggingface.co/DAMO-NLP-SG/EQA-PMR-large) | DAMO-NLP-SG/EQA-PMR-large   |
 | [mPMR-base](https://huggingface.co/DAMO-NLP-SG/mPMR-base)     | DAMO-NLP-SG/mPMR-base   |
 | [mPMR-large](https://huggingface.co/DAMO-NLP-SG/mPMR-large)   | DAMO-NLP-SG/mPMR-large  |
 
 
 ## Fine-tuning 
 * The downstream datasets are provided in ```$task/Data/$dataset```.
-* Using the provided scripts to fine-tune a task-specific model. (Following is an exmaple of fine-tuning CONLL03)
+* Using the provided scripts to fine-tune a task-specific model. (Following is an example of fine-tuning CONLL03)
   ```
   cd NER
   bash conll03.sh
